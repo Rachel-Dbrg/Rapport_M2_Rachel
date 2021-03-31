@@ -1,12 +1,12 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.5.6)  31 MAR 2021 16:48
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.5.6)  31 MAR 2021 17:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Structure_rapport_final.tex
-(./Structure_rapport_final.tex
+**"/Users/bsimonbo/Desktop/Stage RachelM2/Structure_rapport_final.tex"
+(/Users/bsimonbo/Desktop/Stage RachelM2/Structure_rapport_final.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-03-06>
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2020-03-06> (/usr/local/texlive/2020/texmf-dist/tex/latex
+/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
@@ -22,10 +22,8 @@ File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
-
 (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
@@ -36,32 +34,25 @@ LaTeX Info: Redefining \textls on input line 790.
 \MT@outer@kern=\dimen135
 LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
 \MT@listname@count=\count172
-
 (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype-xetex.def
 File: microtype-xetex.def 2019/11/18 v2.7d Definitions specific to xetex (RS)
 LaTeX Info: Redefining \lsstyle on input line 258.
 )
 Package microtype Info: Loading configuration file microtype.cfg.
-
 (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
-))
-(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2020/03/22 3.42 The Babel package
-
 (/usr/local/texlive/2020/texmf-dist/tex/generic/babel/switch.def
 File: switch.def 2020/03/22 3.42 Babel switching mechanism
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
-
 (/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2020/03/22 3.42 Babel common definitions
 \babel@savecnt=\count173
 \U@D=\dimen136
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/xebabel.def
-(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/xebabel.def (/usr/local/t
+exlive/2020/texmf-dist/tex/generic/babel/txtbabel.def))
 \bbl@readstream=\read2
 \bbl@dirlevel=\count174
 )
@@ -71,52 +62,40 @@ Package babel Info: \l@australian = using hyphenrules for ukenglish
 (babel)             (\language21) on input line 105.
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
 (babel)             (\language21) on input line 108.
-))
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
-
 (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
-
 (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 105.
-
 (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 ))
 \Gin@req@height=\dimen137
 \Gin@req@width=\dimen138
-)
-(/usr/local/texlive/2020/texmf-dist/tex/xelatex/mathspec/mathspec.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/xelatex/mathspec/mathspec.sty
 Package: mathspec 2016/12/22 v0.2b LaTeX Package (Mathematics font selection fo
 r XeLaTeX)
-
 (/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count175
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
-
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks17
 \ex@=\dimen139
-))
-(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifxetex.sty
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-
 (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
-))
-(/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.sty
-(/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/local/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/lo
+cal/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/
+texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2020-03-06 L3 programming layer (loader) 
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
@@ -133,7 +112,7 @@ Package: xparse 2020-03-06 L3 Experimental document command parser
 \l__xparse_v_nesting_int=\count182
 )
 Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
- (/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
 X
 \l__fontspec_script_int=\count183
@@ -150,16 +129,13 @@ X
 \l__fontspec_tmpa_dim=\dimen140
 \l__fontspec_tmpb_dim=\dimen141
 \l__fontspec_tmpc_dim=\dimen142
-
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
-(/usr/local/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/usr/
+local/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local
+/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks18
 \XKV@tempa@toks=\toks19
 )
@@ -169,13 +145,10 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 \c@eu@=\count195
 \c@eu@i=\count196
 \c@mkern=\count197
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/setspace/setspace.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
 (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
@@ -213,10 +186,8 @@ Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
 
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
-
 (/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
 (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
@@ -229,66 +200,50 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-
 (/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/svgnam.def
 File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
-))
-(/usr/local/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip49
 \bibsep=\skip50
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count267
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
-
 (/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
 )
-
 (/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 )
 \@linkdim=\dimen151
 \Hy@linkcounter=\count268
 \Hy@pagecounter=\count269
-
 (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count270
@@ -300,7 +255,6 @@ Package hyperref Info: Plain pages OFF on input line 4562.
 Package hyperref Info: Backreferencing ON on input line 4565.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4800.
-
 (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/backref.sty
 Package: backref 2020/01/14 v1.40 Bibliographical back referencing
 
@@ -319,14 +273,12 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 ))
 \c@Hy@tempcnt=\count271
-
 (/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5159.
 \XeTeXLinkMargin=\dimen152
-
 (/usr/local/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 )
@@ -342,7 +294,6 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6455.
 Package hyperref Info: PDF/A mode OFF on input line 6460.
 LaTeX Info: Redefining \ref on input line 6500.
 LaTeX Info: Redefining \pageref on input line 6504.
-
 (/usr/local/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
@@ -351,14 +302,11 @@ Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 \c@Hfootnote=\count275
 )
 Package hyperref Info: Driver (autodetected): hxetex.
-
 (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hxetex.def
 File: hxetex.def 2020/01/14 v7.00d Hyperref driver for XeTeX
-
 (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2020/01/14 v7.00d Hyperref: PDF Unicode definition (HO)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/stringenc/stringenc.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
@@ -368,8 +316,7 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 \Fld@listcount=\count278
 \c@bookmark@seq@number=\count279
 \Hy@SectionHShift=\skip51
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/multicol.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \c@tracingmulticols=\count280
 \mult@box=\box47
@@ -438,8 +385,7 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \mult@nat@firstbox=\box91
 \colbreak@box=\box92
 \mc@col@check@num=\count289
-)
-(./Structure_rapport_final.aux)
+) (/Users/bsimonbo/Desktop/Stage RachelM2/Structure_rapport_final.aux)
 \openout1 = `Structure_rapport_final.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
@@ -453,7 +399,6 @@ LaTeX Font Info:    ... okay on input line 41.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
 1.
-
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -479,7 +424,6 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `TimesNewRoman' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -519,7 +463,6 @@ Package backref Info: ** backref set up for natbib ** on input line 41.
 Package hyperref Info: Link coloring OFF on input line 41.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
-
 (/usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
@@ -532,10 +475,10 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 41.
 LaTeX Info: Redefining \pageref on input line 41.
 LaTeX Info: Redefining \nameref on input line 41.
- (./Structure_rapport_final.out) (./Structure_rapport_final.out)
+(/Users/bsimonbo/Desktop/Stage RachelM2/Structure_rapport_final.out) (/Users/bs
+imonbo/Desktop/Stage RachelM2/Structure_rapport_final.out)
 \@outlinefile=\write3
 \openout3 = `Structure_rapport_final.out'.
-
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
@@ -545,14 +488,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 43.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 43.
-
 (/usr/local/texlive/2020/texmf-dist/tex/generic/stringenc/se-ascii-print.def
 File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 
-)
-[1
+) [1
 
-] (./Structure_rapport_final.toc
+] (/Users/bsimonbo/Desktop/Stage RachelM2/Structure_rapport_final.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -563,34 +504,33 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write4
 \openout4 = `Structure_rapport_final.toc'.
 
- [2] [3] (./Etat_de_lart_process.tex
-[4]
+[2] [3] (/Users/bsimonbo/Desktop/Stage RachelM2/Etat_de_lart_process.tex [4]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [5] [6] [7] [8]
+[5] [6] [7] [8]
 Overfull \hbox (31.464pt too wide) in paragraph at lines 44--45
 []\TU/TimesNewRoman(0)/m/n/12 display similar responses to changing environment
 al pressures ([][]Dumay \TU/TimesNewRoman(0)/m/it/12 et al.[] []\TU/TimesNewRom
 an(0)/m/n/12 2004[]; [][]Brind’Amour
  []
 
-) (./Structure_rapport_final.bbl (./Structure_rapport_final.brf)
+) (/Users/bsimonbo/Desktop/Stage RachelM2/Structure_rapport_final.bbl (/Users/b
+simonbo/Desktop/Stage RachelM2/Structure_rapport_final.brf)
 \tf@brf=\write5
 \openout5 = `Structure_rapport_final.brf'.
 
- [9]
-(./babelbst.tex) [10])
+[9] (/Users/bsimonbo/Desktop/Stage RachelM2/babelbst.tex) [10])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 69.
- [11]
+[11]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 69.
- (./Structure_rapport_final.aux)
+(/Users/bsimonbo/Desktop/Stage RachelM2/Structure_rapport_final.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 69.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 69.
 Package rerunfilecheck Info: File `Structure_rapport_final.out' has not changed
 .
-(rerunfilecheck)             Checksum: BE3770D2C4B45BDD1737073D2C9EC8FC;1046.
+(rerunfilecheck)             Checksum: 5D0C30BB792134F35E0E083F9FFB981B;1047.
 Package rerunfilecheck Info: File `Structure_rapport_final.brf' has not changed
 .
 (rerunfilecheck)             Checksum: 9E9E2C68DD21F4EC2B05D6F831836092;3338.
@@ -600,12 +540,13 @@ Package rerunfilecheck Info: File `Structure_rapport_final.brf' has not changed
 ### semi simple group (level 1) entered at line 16 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 15495 strings out of 479418
- 287080 string characters out of 5884586
- 670338 words of memory out of 5000000
+ 15497 strings out of 479418
+ 287980 string characters out of 5884586
+ 670339 words of memory out of 5000000
  32789 multiletter control sequences out of 15000+600000
  536515 words of font info for 58 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 51i,6n,70p,2641b,9635s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,6n,70p,2682b,9635s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Structure_rapport_final.xdv (11 pages, 279880 bytes).
+Output written on /Users/bsimonbo/Desktop/Stage RachelM2/Structure_rapport_fina
+l.pdf (11 pages).
