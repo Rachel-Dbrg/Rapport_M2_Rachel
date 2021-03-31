@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.5.6)  31 MAR 2021 17:06
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.5.6)  31 MAR 2021 17:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -510,20 +510,20 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 [5] [6] [7] [8]
-Overfull \hbox (31.464pt too wide) in paragraph at lines 44--45
+Overfull \hbox (31.464pt too wide) in paragraph at lines 45--46
 []\TU/TimesNewRoman(0)/m/n/12 display similar responses to changing environment
 al pressures ([][]Dumay \TU/TimesNewRoman(0)/m/it/12 et al.[] []\TU/TimesNewRom
 an(0)/m/n/12 2004[]; [][]Brind’Amour
  []
 
-) (/Users/bsimonbo/Desktop/Stage RachelM2/Structure_rapport_final.bbl (/Users/b
-simonbo/Desktop/Stage RachelM2/Structure_rapport_final.brf)
+[9]) (/Users/bsimonbo/Desktop/Stage RachelM2/Structure_rapport_final.bbl (/User
+s/bsimonbo/Desktop/Stage RachelM2/Structure_rapport_final.brf)
 \tf@brf=\write5
 \openout5 = `Structure_rapport_final.brf'.
 
-[9] (/Users/bsimonbo/Desktop/Stage RachelM2/babelbst.tex) [10])
+(/Users/bsimonbo/Desktop/Stage RachelM2/babelbst.tex) [10] [11])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 69.
-[11]
+[12]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 69.
 (/Users/bsimonbo/Desktop/Stage RachelM2/Structure_rapport_final.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 69.
@@ -533,7 +533,7 @@ Package rerunfilecheck Info: File `Structure_rapport_final.out' has not changed
 (rerunfilecheck)             Checksum: 5D0C30BB792134F35E0E083F9FFB981B;1047.
 Package rerunfilecheck Info: File `Structure_rapport_final.brf' has not changed
 .
-(rerunfilecheck)             Checksum: 9E9E2C68DD21F4EC2B05D6F831836092;3338.
+(rerunfilecheck)             Checksum: E8EFDB1CE257434C9EC0692A2754A8B9;3339.
  )
 (\end occurred inside a group at level 1)
 
@@ -542,11 +542,11 @@ Package rerunfilecheck Info: File `Structure_rapport_final.brf' has not changed
 Here is how much of TeX's memory you used:
  15497 strings out of 479418
  287980 string characters out of 5884586
- 670339 words of memory out of 5000000
+ 671339 words of memory out of 5000000
  32789 multiletter control sequences out of 15000+600000
  536515 words of font info for 58 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 51i,6n,70p,2682b,9635s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,6n,70p,2682b,9669s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/bsimonbo/Desktop/Stage RachelM2/Structure_rapport_fina
-l.pdf (11 pages).
+l.pdf (12 pages).
