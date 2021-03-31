@@ -1,0 +1,69 @@
+%préambule
+%chargement des packages
+\documentclass[a4paper, 12pt, hidelinks]{article}
+
+%Langage et typo
+\usepackage[babel]{microtype}
+\usepackage[english]{babel}
+
+%Gestion grahique
+\usepackage{graphicx}
+\usepackage{mathspec}
+
+%Définition des paramètres de mise en page
+%Interlignes
+\usepackage{setspace}
+\onehalfspace
+
+%Marges
+\usepackage[margin=2.5cm]{geometry}
+
+%%Font
+%\usepackage{fontspec}
+\setmainfont{Times New Roman}
+%Couleurs
+\usepackage[svgnames]{xcolor}
+
+%Gestion biblio
+\usepackage{natbib}
+\usepackage[colorlinks = false, pagebackref = true]{hyperref}
+\usepackage{url}
+\setcitestyle{citesep={;},aysep={}}
+\usepackage{multicol}
+
+
+%Page de garde
+\title{Rapport stage M2}
+\author{Moi même}
+\date{Mardi 9 février 2020}
+
+
+\begin{document}
+\maketitle
+\newpage
+\tableofcontents
+\newpage
+
+
+\section{Présentation de la structure d'accueil}
+\newpage
+\section{Etat de l'art}
+\input{Etat_de_lart_process.tex}
+
+% \section{Introduction}
+% \section{Matériel et méthode}
+% \section{Results}
+% \section{Discussion}
+% \section{Conclusion}
+
+
+\bibliographystyle{molecularEcology}
+
+% \begin{multicols}{2}
+\bibliography{Stage_M2}
+% \end{multicols}
+
+% \section{Abstract}
+% \section{Résumé}
+
+\end{document}
