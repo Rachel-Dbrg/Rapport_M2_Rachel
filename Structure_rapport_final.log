@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.5.6)  31 MAR 2021 17:55
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.5.6)  7 APR 2021 22:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -504,13 +504,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write4
 \openout4 = `Structure_rapport_final.toc'.
 
-[2] [3] (/Users/bsimonbo/Desktop/Stage RachelM2/Etat_de_lart_process.tex [4]
+[2] [3] (/Users/bsimonbo/Desktop/Stage RachelM2/Etat_de_lart_process.tex [4] [5
+]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-[5] [6] [7] [8]
-Overfull \hbox (31.464pt too wide) in paragraph at lines 45--46
+[6] [7] [8]
+Overfull \hbox (31.464pt too wide) in paragraph at lines 50--51
 []\TU/TimesNewRoman(0)/m/n/12 display similar responses to changing environment
 al pressures ([][]Dumay \TU/TimesNewRoman(0)/m/it/12 et al.[] []\TU/TimesNewRom
 an(0)/m/n/12 2004[]; [][]Brind’Amour
@@ -530,10 +531,10 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 69.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 69.
 Package rerunfilecheck Info: File `Structure_rapport_final.out' has not changed
 .
-(rerunfilecheck)             Checksum: 5D0C30BB792134F35E0E083F9FFB981B;1047.
+(rerunfilecheck)             Checksum: 4BF9674B6D0DFAEE768EB477214843C9;1039.
 Package rerunfilecheck Info: File `Structure_rapport_final.brf' has not changed
 .
-(rerunfilecheck)             Checksum: E8EFDB1CE257434C9EC0692A2754A8B9;3339.
+(rerunfilecheck)             Checksum: B7C0C4433C96BA4062BC094B54DB86ED;3391.
  )
 (\end occurred inside a group at level 1)
 
@@ -542,11 +543,11 @@ Package rerunfilecheck Info: File `Structure_rapport_final.brf' has not changed
 Here is how much of TeX's memory you used:
  15497 strings out of 479418
  287980 string characters out of 5884586
- 671339 words of memory out of 5000000
+ 663331 words of memory out of 5000000
  32789 multiletter control sequences out of 15000+600000
  536515 words of font info for 58 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 51i,6n,70p,2682b,9669s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,6n,70p,2553b,9665s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/bsimonbo/Desktop/Stage RachelM2/Structure_rapport_fina
 l.pdf (12 pages).
