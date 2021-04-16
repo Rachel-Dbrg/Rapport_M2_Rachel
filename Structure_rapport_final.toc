@@ -8,4 +8,4 @@
 \contentsline {subsubsection}{\numberline {2.4.1}General overview}{6}{subsubsection.2.4.1}%
 \contentsline {subsubsection}{\numberline {2.4.2}Improvement of the method over the years}{7}{subsubsection.2.4.2}%
 \contentsline {subsection}{\numberline {2.5}The advent of functional diversity}{8}{subsection.2.5}%
-\contentsline {subsubsection}{\numberline {2.5.1}Beneficts of this approach}{9}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.1}Benefits of this approach}{9}{subsubsection.2.5.1}%
