@@ -6,6 +6,6 @@
 \contentsline {subsection}{\numberline {2.3}Tools to study diversity in ecosystems and their limits}{5}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Emergence of a global approach based on functional-traits}{6}{subsection.2.4}%
 \contentsline {subsubsection}{\numberline {2.4.1}General overview}{6}{subsubsection.2.4.1}%
-\contentsline {subsubsection}{\numberline {2.4.2}Improvment of the method over the years}{7}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.2}Improvement of the method over the years}{7}{subsubsection.2.4.2}%
 \contentsline {subsection}{\numberline {2.5}The advent of functional diversity}{8}{subsection.2.5}%
 \contentsline {subsubsection}{\numberline {2.5.1}Beneficts of this approach}{9}{subsubsection.2.5.1}%

@@ -17,8 +17,8 @@
 \backcite {mcgill2006}{{6}{2.3}{subsection.2.3}}
 \backcite {mcgill2006}{{7}{2.4.1}{subsubsection.2.4.1}}
 \backcite {violle2007}{{7}{2.4.1}{subsubsection.2.4.1}}
-\backcite {violle2007}{{7}{2.4.1}{subsubsection.2.4.1}}
 \backcite {martini2020}{{7}{2.4.1}{subsubsection.2.4.1}}
+\backcite {violle2007}{{7}{2.4.1}{subsubsection.2.4.1}}
 \backcite {kremer2017}{{7}{2.4.1}{subsubsection.2.4.1}}
 \backcite {martini2020}{{7}{2.4.1}{subsubsection.2.4.1}}
 \backcite {mcgill2006}{{7}{2.4.1}{subsubsection.2.4.1}}
@@ -34,8 +34,9 @@
 \backcite {sibbing2000}{{7}{2.4.2}{subsubsection.2.4.2}}
 \backcite {norton1995}{{7}{2.4.2}{subsubsection.2.4.2}}
 \backcite {webb1984}{{7}{2.4.2}{subsubsection.2.4.2}}
-\backcite {grossman2009}{{7}{2.4.2}{subsubsection.2.4.2}}
+\backcite {grossman2009}{{8}{2.4.2}{subsubsection.2.4.2}}
 \backcite {blondel1979}{{8}{2.4.2}{subsubsection.2.4.2}}
+\backcite {grossman2009}{{8}{2.4.2}{subsubsection.2.4.2}}
 \backcite {ibanez2007}{{8}{2.4.2}{subsubsection.2.4.2}}
 \backcite {sibbing2000}{{8}{2.4.2}{subsubsection.2.4.2}}
 \backcite {kremer2017}{{8}{2.4.2}{subsubsection.2.4.2}}
@@ -54,11 +55,11 @@
 \backcite {dumay2004}{{9}{2.5}{subsection.2.5}}
 \backcite {mejri2009}{{9}{2.5}{subsection.2.5}}
 \backcite {dumay2004}{{9}{2.5}{subsection.2.5}}
-\backcite {brindamour2016}{{9}{2.5}{subsection.2.5}}
 \backcite {mejri2009}{{9}{2.5}{subsection.2.5}}
 \backcite {brindamour2016}{{9}{2.5}{subsection.2.5}}
+\backcite {brindamour2016}{{9}{2.5}{subsection.2.5}}
 \backcite {brindamour2011}{{9}{2.5}{subsection.2.5}}
-\backcite {mejri2009}{{10}{2.5.1}{subsubsection.2.5.1}}
+\backcite {mejri2009}{{9}{2.5.1}{subsubsection.2.5.1}}
 \backcite {martini2020}{{10}{2.5.1}{subsubsection.2.5.1}}
 \backcite {mcgill2006}{{10}{2.5.1}{subsubsection.2.5.1}}
 \backcite {kremer2017}{{10}{2.5.1}{subsubsection.2.5.1}}

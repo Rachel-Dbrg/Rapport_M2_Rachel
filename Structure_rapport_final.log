@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.5.6)  7 APR 2021 22:35
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.5.6)  16 APR 2021 21:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -510,15 +510,11 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-[6] [7] [8]
-Overfull \hbox (31.464pt too wide) in paragraph at lines 50--51
-[]\TU/TimesNewRoman(0)/m/n/12 display similar responses to changing environment
-al pressures ([][]Dumay \TU/TimesNewRoman(0)/m/it/12 et al.[] []\TU/TimesNewRom
-an(0)/m/n/12 2004[]; [][]Brind’Amour
- []
-
-[9]) (/Users/bsimonbo/Desktop/Stage RachelM2/Structure_rapport_final.bbl (/User
-s/bsimonbo/Desktop/Stage RachelM2/Structure_rapport_final.brf)
+[6]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 35.
+[7] [8] [9]) (/Users/bsimonbo/Desktop/Stage RachelM2/Structure_rapport_final.bb
+l (/Users/bsimonbo/Desktop/Stage RachelM2/Structure_rapport_final.brf)
 \tf@brf=\write5
 \openout5 = `Structure_rapport_final.brf'.
 
@@ -531,23 +527,23 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 69.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 69.
 Package rerunfilecheck Info: File `Structure_rapport_final.out' has not changed
 .
-(rerunfilecheck)             Checksum: 4BF9674B6D0DFAEE768EB477214843C9;1039.
+(rerunfilecheck)             Checksum: CAFFDF077F39C2B93A567A851723B531;1040.
 Package rerunfilecheck Info: File `Structure_rapport_final.brf' has not changed
 .
-(rerunfilecheck)             Checksum: B7C0C4433C96BA4062BC094B54DB86ED;3391.
+(rerunfilecheck)             Checksum: 9125388E631811B26778A4D02AA28271;3448.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 16 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 15497 strings out of 479418
- 287980 string characters out of 5884586
- 663331 words of memory out of 5000000
- 32789 multiletter control sequences out of 15000+600000
- 536515 words of font info for 58 fonts, out of 8000000 for 9000
+ 15511 strings out of 479418
+ 288450 string characters out of 5884586
+ 663332 words of memory out of 5000000
+ 32800 multiletter control sequences out of 15000+600000
+ 536539 words of font info for 61 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 51i,6n,70p,2553b,9665s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,8n,70p,2553b,9667s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/bsimonbo/Desktop/Stage RachelM2/Structure_rapport_fina
 l.pdf (12 pages).
