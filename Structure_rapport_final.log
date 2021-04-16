@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.5.6)  16 APR 2021 21:28
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.5.6)  16 APR 2021 21:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -527,7 +527,7 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 69.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 69.
 Package rerunfilecheck Info: File `Structure_rapport_final.out' has not changed
 .
-(rerunfilecheck)             Checksum: CAFFDF077F39C2B93A567A851723B531;1040.
+(rerunfilecheck)             Checksum: 37F991BEE1A5C3E65B000FB9BBBBCC38;1043.
 Package rerunfilecheck Info: File `Structure_rapport_final.brf' has not changed
 .
 (rerunfilecheck)             Checksum: 9125388E631811B26778A4D02AA28271;3448.
@@ -539,7 +539,7 @@ Package rerunfilecheck Info: File `Structure_rapport_final.brf' has not changed
 Here is how much of TeX's memory you used:
  15511 strings out of 479418
  288450 string characters out of 5884586
- 663332 words of memory out of 5000000
+ 663335 words of memory out of 5000000
  32800 multiletter control sequences out of 15000+600000
  536539 words of font info for 61 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

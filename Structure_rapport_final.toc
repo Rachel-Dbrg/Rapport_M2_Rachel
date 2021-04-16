@@ -4,7 +4,7 @@
 \contentsline {subsection}{\numberline {2.1}Structure and dynamics of ecosystems: how can species coexist in same environment?}{4}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Concepts and definition for studying ecosystems’ dynamic.}{4}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Tools to study diversity in ecosystems and their limits}{5}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Emergence of a global approach based on functional-traits}{6}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.4}Emergence of a global approach based on functional traits}{6}{subsection.2.4}%
 \contentsline {subsubsection}{\numberline {2.4.1}General overview}{6}{subsubsection.2.4.1}%
 \contentsline {subsubsection}{\numberline {2.4.2}Improvement of the method over the years}{7}{subsubsection.2.4.2}%
 \contentsline {subsection}{\numberline {2.5}The advent of functional diversity}{8}{subsection.2.5}%
