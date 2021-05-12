@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Correction_file.aux
+The style file: molecularEcology.bst
+Database file #1: Stage_M2.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--missing institution in marcon2015
+Warning--missing school in mejri2009
+Warning--empty journal in rocklin2004
+Warning--missing publisher in wilson1988
+You've used 27 entries,
+            3174 wiz_defined-function locations,
+            818 strings with 11552 characters,
+and the built_in function-call counts, 24326 in all, are:
+= -- 2234
+> -- 853
+< -- 12
++ -- 424
+- -- 237
+* -- 2047
+:= -- 3451
+add.period$ -- 52
+call.type$ -- 27
+change.case$ -- 203
+chr.to.int$ -- 27
+cite$ -- 31
+duplicate$ -- 1938
+empty$ -- 2021
+format.name$ -- 306
+if$ -- 5030
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 232
+newline$ -- 113
+num.names$ -- 108
+pop$ -- 520
+preamble$ -- 1
+purify$ -- 179
+quote$ -- 0
+skip$ -- 585
+stack$ -- 0
+substring$ -- 2348
+swap$ -- 588
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 234
+warning$ -- 4
+while$ -- 196
+width$ -- 0
+write$ -- 321
+(There were 4 warnings)

@@ -1,0 +1,342 @@
+\begin{thebibliography}{59}
+\providecommand{\natexlab}[1]{#1}
+\input{babelbst.tex}
+\newcommand{\Capitalize}[1]{\uppercase{#1}}
+\newcommand{\capitalize}[1]{\expandafter\Capitalize#1}
+
+\bibitem[{fig(2018-06-17CDT19:13:06-05:00)}]{fig_deep_sea}
+ (2018-06-17CDT19:13:06-05:00) The {{Deep Sea}} \textasciitilde{} {{MarineBio
+  Conservation Society}}.
+
+\bibitem[{Albouy \emph{\bbletal{}}(2011)Albouy, Guilhaumon, Vill{\'e}ger
+  \emph{\bbletal{}}}]{albouy2011}
+Albouy C, Guilhaumon F, Vill{\'e}ger S, \emph{\bbletal{}} (2011) Predicting
+  trophic guild and diet overlap from functional traits: {{Statistics}},
+  opportunities and limitations for marine ecology.
+\newblock \emph{Marine Ecology Progress Series}, \textbf{436}, 17--28.
+
+\bibitem[{Aneesh~Kumar \emph{\bbletal{}}(2017)Aneesh~Kumar, Tuset,
+  Manjebrayakath \emph{\bbletal{}}}]{aneeshkumar2017}
+Aneesh~Kumar K, Tuset V, Manjebrayakath H, \emph{\bbletal{}} (2017) Functional
+  approach reveals low niche overlap among common deep-sea fishes from the
+  south-eastern {{Arabian Sea}}.
+\newblock \emph{Deep Sea Research Part I: Oceanographic Research Papers},
+  \textbf{119}, 16--23.
+
+\bibitem[{Blondel \& Bourli{\`e}re(1979)}]{blondel1979}
+Blondel J, Bourli{\`e}re F (1979) La niche \'ecologique, mythe ou r\'ealit\'e ?
+\newblock \emph{Terre Vie. Revue Ecologie.}, \textbf{33}.
+
+\bibitem[{Boissezon(2014)}]{boissezon2014}
+Boissezon A (2014) Distribution et dynamique des communaut\'es de
+  {{Charac\'ees}}: {{Impact}} des facteurs environnementaux r\'egionaux et
+  locaux.
+
+\bibitem[{Boyle \& Horn(2006)}]{boyle2006}
+Boyle K, Horn M (2006) Comparison of feeding guild structure and ecomorphology
+  of intertidal fish assemblages from central {{California}} and central
+  {{Chile}}.
+\newblock \emph{Marine Ecology Progress Series}, \textbf{319}, 21.
+
+\bibitem[{Brind'Amour \emph{\bbletal{}}(2011)Brind'Amour, Boisclair, Dray, \&
+  Legendre}]{brindamour2011}
+Brind'Amour A, Boisclair D, Dray S, Legendre P (2011) Relationships between
+  species feeding traits and environmental conditions in fish communities:
+  {{A}} three-matrix approach.
+\newblock \emph{Ecological Applications}, \textbf{21}, 363--377.
+
+\bibitem[{Brind'Amour \emph{\bbletal{}}(2016)Brind'Amour, Rochet, Ordines
+  \emph{\bbletal{}}}]{brindamour2016}
+Brind'Amour A, Rochet M, Ordines F, \emph{\bbletal{}} (2016) Environmental
+  drivers explain regional variation of changes in fish and invertebrate
+  functional groups across the {{Mediterranean Sea}} from 1994 to 2012.
+\newblock \emph{Marine Ecology Progress Series}, \textbf{562}, 19--35.
+
+\bibitem[{Carvalho \& Almeida(1988)}]{carvalho1988}
+Carvalho F, Almeida A (1988) Notes on xenodermichthys copei (gill, 1884),
+  (pisces: Alepocephalidae).
+\newblock \emph{Cybium: international journal of ichthyology}, \textbf{12},
+  161--66.
+
+\bibitem[{Danovaro \emph{\bbletal{}}(2017)Danovaro, Corinaldesi, Dell'Anno, \&
+  Snelgrove}]{danovaro2017}
+Danovaro R, Corinaldesi C, Dell'Anno A, Snelgrove PVR (2017) The deep-sea under
+  global change.
+\newblock \emph{Current Biology}, \textbf{27}, R461--R465.
+
+\bibitem[{{de Busserolles} \emph{\bbletal{}}(2014){de Busserolles}, Marshall,
+  \& Collin}]{debusserolles2014}
+{de Busserolles} F, Marshall NJ, Collin SP (2014) The eyes of lanternfishes
+  (myctophidae, teleostei): Novel ocular specializations for vision in dim
+  light.
+\newblock \emph{The Journal of Comparative Neurology}, \textbf{522},
+  1618--1640.
+
+\bibitem[{Diderich(2006)}]{diderich2006}
+Diderich WP (2006) Ecomorphology as a predictor of fish diet: A case study on
+  the north sea benthic fish community.
+\newblock \bblp{}~66.
+
+\bibitem[{Dumay \emph{\bbletal{}}(2004)Dumay, Tari, Tomasini, \&
+  Mouillot}]{dumay2004}
+Dumay O, Tari PS, Tomasini JA, Mouillot D (2004) Functional groups of lagoon
+  fish species in languedoc roussillon, southern france.
+\newblock \emph{Journal of Fish Biology}, \textbf{64}, 970--983.
+
+\bibitem[{Evans(2012)}]{evans2012}
+Evans MR (2012) Modelling ecological systems in a changing world.
+\newblock \emph{Philosophical Transactions of the Royal Society B: Biological
+  Sciences}, \textbf{367}, 181--190.
+
+\bibitem[{Froese \& Pauly(2019)}]{froese2019}
+Froese R, Pauly D (2019) {{FishBase}}.
+\newblock http://fishbase.org.
+
+\bibitem[{Geange \emph{\bbletal{}}(2011)Geange, Pledger, Burns, \&
+  Shima}]{geange2011}
+Geange SW, Pledger S, Burns KC, Shima JS (2011) A unified analysis of niche
+  overlap incorporating data of different types.
+\newblock \emph{Methods in Ecology and Evolution}, \textbf{2}, 175--184.
+
+\bibitem[{Gillet(2013)}]{gillet2013}
+Gillet H (2013) {SYNTh\`ese et analyse des donn\'ees eXistantes sur un
+  \'ecosyst\`eme profond transfrontalier : le gouf de capbreton \textendash{}
+  \guillemotleft{} SYNTAX \guillemotright}.
+\newblock \emph{Rapport technique final. Fonds Commun de Coop\'eration
+  Euror\'egion Aquitaine/Euskadi}, \bblp{} 234.
+
+\bibitem[{Gosline(1971)}]{gosline1971}
+Gosline WA (1971) \emph{Functional Morphology and Classification of Teleostean
+  Fishes}.
+\newblock {University of Hawaii Press}.
+
+\bibitem[{Grinnell(1917)}]{grinnell1917}
+Grinnell J (1917) The niche-relationships of the california thrasher.
+\newblock \emph{The Auk}, \textbf{34}, 427--433.
+
+\bibitem[{Grossman(2009)}]{grossman2009}
+Grossman GD (2009) Food resource partitioning in a rocky intertidal fish
+  assemblage.
+\newblock \emph{Journal of Zoology}, \textbf{1}, 317--355.
+
+\bibitem[{Habib \emph{\bbletal{}}(2019)Habib, Naz, \& Mehmood}]{habib2019}
+Habib SS, Naz S, Mehmood R (2019) Morphometric relationships of some specified
+  species of family cyprinidae in jinnah barrage punjab, pakistan.
+\newblock \emph{Journal of Entomology and Zoology Studies}, \bblp{}~5.
+
+\bibitem[{Horn(1966)}]{horn1966}
+Horn HS (1966) Measurement of "{{Overlap}}" in comparative ecological studies.
+\newblock \emph{The American Naturalist}, \textbf{100}, 419--424.
+
+\bibitem[{Hutchinson(1957)}]{hutchinson1957}
+Hutchinson G (1957) Concluding remarks.
+\newblock \emph{Cold Spring Harbor Symposia on Quantitative Biology},
+  \textbf{22}, 415--427.
+
+\bibitem[{Iba{\~n}ez \emph{\bbletal{}}(2007)Iba{\~n}ez, Tedesco, Bigorne
+  \emph{\bbletal{}}}]{ibanez2007}
+Iba{\~n}ez C, Tedesco PA, Bigorne R, \emph{\bbletal{}} (2007)
+  Dietary-morphological relationships in fish assemblages of small forested
+  streams in the bolivian amazon.
+\newblock \emph{Aquatic Living Resources}, \textbf{20}, 131--142.
+
+\bibitem[{{Keat-Chuan Ng} \emph{\bbletal{}}(2017){Keat-Chuan Ng}, {Aun-Chuan
+  Ooi}, Wong, \& Khoo}]{keat-chuanng2017}
+{Keat-Chuan Ng} C, {Aun-Chuan Ooi} P, Wong W, Khoo G (2017) A review of fish
+  taxonomy conventions and species identification techniques.
+\newblock \emph{Journal of Survey in Fisheries Sciences}, \textbf{4}, 54--93.
+
+\bibitem[{Kim \& Ohr(2020)}]{kim2020}
+Kim D, Ohr S (2020) Coexistence of plant species under harsh environmental
+  conditions: An evaluation of niche differentiation and stochasticity along
+  salt marsh creeks.
+\newblock \emph{Journal of Ecology and Environment}, \textbf{44}, 19.
+
+\bibitem[{Kremer \emph{\bbletal{}}(2017)Kremer, Williams, Finiguerra
+  \emph{\bbletal{}}}]{kremer2017}
+Kremer CT, Williams AK, Finiguerra M, \emph{\bbletal{}} (2017) Realizing the
+  potential of trait-based aquatic ecology: New tools and collaborative
+  approaches.
+\newblock \emph{Limnology and Oceanography}, \textbf{62}, 253--271.
+
+\bibitem[{Kuhn \& Wickham(2020)}]{kuhn2020}
+Kuhn M, Wickham H (2020) \emph{Tidymodels: A Collection of Packages for
+  Modeling and Machine Learning Using Tidyverse Principles.}
+
+\bibitem[{Lagler \emph{\bbletal{}}(1977)Lagler, Bardach, Miller, \&
+  May~Passino}]{lagler1977}
+Lagler K, Bardach J, Miller R, May~Passino D (1977) \emph{Ichthyology}.
+\newblock {Wiley}, {New York, New York, USA}.
+
+\bibitem[{Lavorel \emph{\bbletal{}}(1997)Lavorel, McIntyre, Landsberg, \&
+  Forbes}]{lavorel1997}
+Lavorel S, McIntyre S, Landsberg J, Forbes TDA (1997) Plant functional
+  classifications: From general groups to specific groups based on response to
+  disturbance.
+\newblock \emph{Trends in Ecology \& Evolution}, \textbf{12}, 474--478.
+
+\bibitem[{Linton \emph{\bbletal{}}(1981)Linton, Davies, \& Wrona}]{linton1981}
+Linton LR, Davies RW, Wrona FJ (1981) Resource utilization indices: An
+  assessment.
+\newblock \emph{Journal of Animal Ecology}, \textbf{50}, 283--292.
+
+\bibitem[{Marcon(2015)}]{marcon2015}
+Marcon E (2015) {Mesures de la biodiversit\'e}.
+\newblock {Master}, {Kourou}.
+
+\bibitem[{Martini \emph{\bbletal{}}(2020)Martini, Larras, Boy{\'e}
+  \emph{\bbletal{}}}]{martini2020}
+Martini S, Larras F, Boy{\'e} A, \emph{\bbletal{}} (2020) Functional
+  trait-based approaches as a common framework for aquatic ecologists.
+\newblock \emph{Limnology and Oceanography}, \bblp{} lno.11655.
+
+\bibitem[{Mcgill \emph{\bbletal{}}(2006)Mcgill, Enquist, Weiher, \&
+  Westoby}]{mcgill2006}
+Mcgill B, Enquist B, Weiher E, Westoby M (2006) Rebuilding community ecology
+  from functional traits.
+\newblock \emph{Trends in Ecology \& Evolution}, \textbf{21}, 178--185.
+
+\bibitem[{Mejri(2009)}]{mejri2009}
+Mejri S (2009) \emph{Caract\'erisation Fonctionnelle de l'ichtyofaune d'une
+  Future Aire Marine Prot\'eg\'ee, La Baie de Malloula (Nord Ouest de La
+  Tunisie)}.
+\newblock \bblphdthesis{}.
+
+\bibitem[{Moon \emph{\bbletal{}}(2017)Moon, Dewitt, Errend
+  \emph{\bbletal{}}}]{moon2017}
+Moon JB, Dewitt TH, Errend MN, \emph{\bbletal{}} (2017) Model application niche
+  analysis: Assessing the transferability and generalizability of ecological
+  models.
+\newblock \emph{Ecosphere}, \textbf{8}, e01974.
+
+\bibitem[{Morisita(1959)}]{morisita1959}
+Morisita M (1959) Measuring of the dispersion and analysis of distribution
+  patterns.
+\newblock \emph{Memories of the Faculty of Science, Kyushu University.},
+  \textbf{Series E: Biology}, 215--235.
+
+\bibitem[{Mouillot \emph{\bbletal{}}(2005)Mouillot, Stubbs, Faure
+  \emph{\bbletal{}}}]{mouillot2005}
+Mouillot D, Stubbs W, Faure M, \emph{\bbletal{}} (2005) Niche overlap estimates
+  based on quantitative functional traits: {{A}} new family of non-parametric
+  indices.
+\newblock \emph{Oecologia}, \textbf{145}, 345--53.
+
+\bibitem[{Nagelkerke \emph{\bbletal{}}(2018)Nagelkerke, {van Onselen}, {van
+  Kessel}, \& Leuven}]{nagelkerke2018}
+Nagelkerke LAJ, {van Onselen} E, {van Kessel} N, Leuven RSEW (2018) Functional
+  feeding traits as predictors of invasive success of alien freshwater fish
+  species using a food-fish model.
+\newblock \emph{PLOS ONE}, \textbf{13}, e0197636.
+
+\bibitem[{Norton(1995)}]{norton1995}
+Norton SF (1995) A functional approach to ecomorphological patterns of feeding
+  in cottid fishes.
+\newblock \emph{Environmental Biology of Fishes}, \textbf{44}, 18.
+
+\bibitem[{Olden \& Jackson(2002)}]{olden2002}
+Olden J, Jackson D (2002) A comparison of statistical approaches for modelling
+  fish species distributions.
+\newblock \emph{Freshwater Biology}, \textbf{47}, 1976--1995.
+
+\bibitem[{{OpenTreeOfLife} \emph{\bbletal{}}(2019){OpenTreeOfLife}, Redelings,
+  Reyes \emph{\bbletal{}}}]{opentreeoflife2019}
+{OpenTreeOfLife}, Redelings B, Reyes LLS, \emph{\bbletal{}} (2019) Open tree of
+  life synthetic tree.
+
+\bibitem[{Orrell \& Hartel(2016)}]{orrell2016}
+Orrell T, Hartel K (2016) Platytroctidae.
+\newblock \capitalize\bblin{} \emph{The Living Marine Resources of the
+  {{Eastern Central Atlantic}}}, \bblvol{} 3: Bony fises part 1 (Elopiformes to
+  Scorpaeniformes \bblof{} \emph{{{FAO Species Identification Guide For Fishery
+  Purposes}}}, \bblpp{} 1771--1782. {Rome}, carpenter k.e and de angelis n.
+  \bbledn{}.
+
+\bibitem[{Pease \emph{\bbletal{}}(2015)Pease, Taylor, Winemiller, \&
+  King}]{pease2015}
+Pease AA, Taylor JM, Winemiller KO, King RS (2015) Ecoregional, catchment, and
+  reach-scale environmental factors shape functional-trait structure of stream
+  fish assemblages.
+\newblock \emph{Hydrobiologia}, \textbf{753}, 265--283.
+
+\bibitem[{Pianka(1973)}]{pianka1973}
+Pianka ER (1973) The structure of lizard communities.
+\newblock \emph{Annual Review of Ecology and Systematics}, \textbf{4}, 53--74.
+
+\bibitem[{Piroddi \emph{\bbletal{}}(2015)Piroddi, Teixeira, Lynam
+  \emph{\bbletal{}}}]{piroddi2015}
+Piroddi C, Teixeira H, Lynam CP, \emph{\bbletal{}} (2015) Using ecological
+  models to assess ecosystem status in support of the european marine strategy
+  framework directive.
+\newblock \emph{Ecological Indicators}, \textbf{58}, 175--191.
+
+\bibitem[{Pont \emph{\bbletal{}}(2006)Pont, Hugueny, Beier
+  \emph{\bbletal{}}}]{pont2006}
+Pont D, Hugueny B, Beier U, \emph{\bbletal{}} (2006) Assessing river biotic
+  condition at a continental scale: A european approach using functional
+  metrics and fish assemblages.
+\newblock \emph{Journal of Applied Ecology}, \textbf{43}, 70--80.
+
+\bibitem[{Poulsen \emph{\bbletal{}}(2013)Poulsen, Byrkjedal, Willassen
+  \emph{\bbletal{}}}]{poulsen2013}
+Poulsen JY, Byrkjedal I, Willassen E, \emph{\bbletal{}} (2013) Mitogenomic
+  sequences and evidence from unique gene rearrangements corroborate
+  evolutionary relationships of myctophiformes (neoteleostei).
+\newblock \emph{BMC Evolutionary Biology}, \textbf{13}, 111.
+
+\bibitem[{{R Core Team}(2021)}]{rcoreteam2021}
+{R Core Team} (2021) \emph{R: {{A}} Language and Environment for Statistical
+  Computing}.
+\newblock {R Foundation for Statistical Computing}, {Vienna, Austria}.
+
+\bibitem[{Reynolds \& Lutz(2001)}]{reynolds2001}
+Reynolds GT, Lutz RA (2001) Sources of light in the deep ocean.
+\newblock \emph{Reviews of Geophysics}, \textbf{39}, 123--136.
+
+\bibitem[{Rocklin(2004)}]{rocklin2004}
+Rocklin D (2004) {Taxonomic and functional biodiversity of the fish communities
+  in the grand cul-de-sac marin (french west indies) marine reserve seagrass
+  habitat.}
+
+\bibitem[{Salazar \emph{\bbletal{}}(2016)Salazar, {Cornejo-Castillo},
+  {Ben{\'i}tez-Barrios} \emph{\bbletal{}}}]{salazar2016}
+Salazar G, {Cornejo-Castillo} FM, {Ben{\'i}tez-Barrios} V, \emph{\bbletal{}}
+  (2016) Global diversity and biogeography of deep-sea pelagic prokaryotes.
+\newblock \emph{The ISME Journal}, \textbf{10}, 596--608.
+
+\bibitem[{Schoener(1968)}]{schoener1968}
+Schoener TW (1968) Sizes of feeding territories among birds.
+\newblock \emph{Ecology}, \textbf{49}, 123--141.
+
+\bibitem[{Sibbing \& Nagelkerke(2000)}]{sibbing2000}
+Sibbing FA, Nagelkerke LA (2000) Resource partioning by lake tana barbs
+  predicted from fish morphometrics and prey characteristics.
+\newblock \emph{Reviews in Fish Biology and Fisheries}, \textbf{10}, 393--437.
+
+\bibitem[{Sutherland \emph{\bbletal{}}(2013)Sutherland, Freckleton, Godfray
+  \emph{\bbletal{}}}]{sutherland2013}
+Sutherland WJ, Freckleton RP, Godfray HCJ, \emph{\bbletal{}} (2013)
+  Identification of 100 fundamental ecological questions.
+\newblock \emph{Journal of Ecology}, \textbf{101}, 58--67.
+
+\bibitem[{Violle \emph{\bbletal{}}(2007)Violle, Navas, Vile
+  \emph{\bbletal{}}}]{violle2007}
+Violle C, Navas ML, Vile D, \emph{\bbletal{}} (2007) Let the concept of trait
+  be functional!
+\newblock \emph{Oikos}, \textbf{116}, 882--892.
+
+\bibitem[{Webb(1984)}]{webb1984}
+Webb PW (1984) Form and function in fish swimming.
+\newblock \emph{Scientific American}, \bblp{}~17.
+
+\bibitem[{Wilson \emph{\bbletal{}}(1988)Wilson, Peter, {National Academy of
+  Sciences (U.S.)}, \& {Smithsonian Institution}}]{wilson1988}
+Wilson EO, Peter FM, {National Academy of Sciences (US)}, {Smithsonian
+  Institution} (1988) \emph{Biodiversity}.
+
+\bibitem[{Winemiller(1991)}]{winemiller1991}
+Winemiller KO (1991) Ecomorphological diversification in lowland freshwater
+  fish assemblages from five biotic regions.
+\newblock \emph{Ecological Monographs}, \textbf{61}, 343--365.
+
+\end{thebibliography}

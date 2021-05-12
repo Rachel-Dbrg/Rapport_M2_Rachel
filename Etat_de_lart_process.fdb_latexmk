@@ -1,0 +1,14 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "Etat_de_lart_process.xdv" "Etat_de_lart_process.pdf" "Etat_de_lart_process" 0
+  "Etat_de_lart_process.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "Etat_de_lart_process.pdf"
+["xelatex"] 1615928210 "Etat_de_lart_process.tex" "Etat_de_lart_process.xdv" "Etat_de_lart_process" 1615928212
+  "Etat_de_lart_process.aux" 1615928161 5098 bc6a7a7dacd236d78e09255973d57a3c ""
+  "Etat_de_lart_process.tex" 1615928208 16279 0a3e1cd90347f5064640e0f221ae72cf ""
+  "c:/texlive/2020/texmf-dist/web2c/texmf.cnf" 1612798800 39451 15a3ebee027466ecb89701aa91dfebaf ""
+  "c:/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt" 1612803263 3602924 e93bb009aba9b4491c0c49f0aa8cf7cd ""
+  "c:/texlive/2020/texmf.cnf" 1612802975 713 e69b156964470283e0530f5060668171 ""
+  (generated)
+  "Etat_de_lart_process.xdv"
+  "Etat_de_lart_process.log"

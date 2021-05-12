@@ -1,0 +1,83 @@
+%préambule
+%chargement des packages
+\documentclass[a4paper, 12pt, hidelinks]{article}
+
+%Langage et typo
+\usepackage[babel]{microtype}
+\usepackage[english]{babel}
+
+%Gestion grahique
+\usepackage{graphicx}
+\usepackage{mathspec}
+
+%Définition des paramètres de mise en page
+%Interlignes
+\usepackage{setspace}
+\onehalfspace
+
+%Marges
+\usepackage[margin=2.5cm]{geometry}
+
+%%Font
+%\usepackage{fontspec}
+\setmainfont{Times New Roman}
+%Couleurs
+\usepackage[svgnames]{xcolor}
+
+%Gestion des titres de partie et des numérotations
+\usepackage{titlesec}% http://ctan.org/pkg/titlesec
+\titleformat{\section}%
+  [hang]% <shape>
+  {\normalfont\bfseries\Large}% <format>
+  {}% <label>
+  {0pt}% <sep>
+  {}% <before code>
+\renewcommand{\thesection}{}% Remove section references...
+\renewcommand{\thesubsection}{\arabic{subsection}}
+
+%Gestion biblio
+\usepackage{natbib}
+\usepackage[colorlinks = false, pagebackref = true]{hyperref}
+\usepackage{url}
+\setcitestyle{citesep={;},aysep={}}
+\usepackage{multicol}
+
+
+%Page de garde
+\title{Rapport stage M2}
+\author{Moi même}
+\date{Mardi 9 février 2020}
+
+
+\begin{document}
+\maketitle
+\newpage
+\tableofcontents
+\newpage
+
+
+% \section{Acknowledgements}
+% \section{Présentation de la structure d'accueil}
+\newpage
+\section{Literature review}
+% \input{Etat_de_lart_process.tex}
+\input{BSB_etat_de_l_art.tex}
+
+% \section{Introduction}
+\section{Materials \& Methods}
+% \input{Materials_and_methods.tex}
+% \section{Results}
+% \section{Discussion}
+% \section{Conclusion}
+
+
+\bibliographystyle{molecularEcology}
+
+% \begin{multicols}{2}
+\bibliography{Stage_M2}
+% \end{multicols}
+
+% \section{Abstract}
+% \section{Résumé}
+
+\end{document}
