@@ -1,0 +1,101 @@
+\begin{thebibliography}{15}
+\providecommand{\natexlab}[1]{#1}
+\input{babelbst.tex}
+\newcommand{\Capitalize}[1]{\uppercase{#1}}
+\newcommand{\capitalize}[1]{\expandafter\Capitalize#1}
+
+\bibitem[{Albouy \emph{\bbletal{}}(2011)Albouy, Guilhaumon, Vill{\'e}ger
+  \emph{\bbletal{}}}]{albouy2011}
+Albouy C, Guilhaumon F, Vill{\'e}ger S, \emph{\bbletal{}} (2011) Predicting
+  trophic guild and diet overlap from functional traits: Statistics,
+  opportunities and limitations for marine ecology.
+\newblock \emph{Marine Ecology Progress Series}, \textbf{436}, 17--28.
+
+\bibitem[{Blondel \& Bourli{\`e}re(1979)}]{blondel1979}
+Blondel J, Bourli{\`e}re F (1979) {{LA NICHE ECOLOGIQUE}}, {{MYTHE OU REALITE}}
+  ?
+\newblock \emph{Terre Vie. Revue Ecologie.}, \textbf{33}.
+
+\bibitem[{Brind'Amour \emph{\bbletal{}}(2011)Brind'Amour, Boisclair, Dray, \&
+  Legendre}]{brindamour2011}
+Brind'Amour A, Boisclair D, Dray S, Legendre P (2011) Relationships between
+  species feeding traits and environmental conditions in fish communities: A
+  three-matrix approach.
+\newblock \emph{Ecological Applications}, \textbf{21}, 363--377.
+
+\bibitem[{Brind'Amour \emph{\bbletal{}}(2016)Brind'Amour, Rochet, Ordines
+  \emph{\bbletal{}}}]{brindamour2016}
+Brind'Amour A, Rochet M, Ordines F, \emph{\bbletal{}} (2016) Environmental
+  drivers explain regional variation of changes in fish and invertebrate
+  functional groups across the {{Mediterranean Sea}} from 1994 to 2012.
+\newblock \emph{Marine Ecology Progress Series}, \textbf{562}, 19--35.
+
+\bibitem[{Geange \emph{\bbletal{}}(2011)Geange, Pledger, Burns, \&
+  Shima}]{geange2011}
+Geange SW, Pledger S, Burns KC, Shima JS (2011) A unified analysis of niche
+  overlap incorporating data of different types.
+\newblock \emph{Methods in Ecology and Evolution}, \textbf{2}, 175--184.
+
+\bibitem[{Grossman(2009)}]{grossman2009}
+Grossman GD (2009) Food resource partitioning in a rocky intertidal fish
+  assemblage.
+\newblock \emph{Journal of Zoology}, \textbf{1}, 317--355.
+
+\bibitem[{Iba{\~n}ez \emph{\bbletal{}}(2007)Iba{\~n}ez, Tedesco, Bigorne
+  \emph{\bbletal{}}}]{ibanez2007}
+Iba{\~n}ez C, Tedesco PA, Bigorne R, \emph{\bbletal{}} (2007)
+  Dietary-morphological relationships in fish assemblages of small forested
+  streams in the {{Bolivian Amazon}}.
+\newblock \emph{Aquatic Living Resources}, \textbf{20}, 131--142.
+
+\bibitem[{Kremer \emph{\bbletal{}}(2017)Kremer, Williams, Finiguerra
+  \emph{\bbletal{}}}]{kremer2017}
+Kremer CT, Williams AK, Finiguerra M, \emph{\bbletal{}} (2017) Realizing the
+  potential of trait-based aquatic ecology: {{New}} tools and collaborative
+  approaches.
+\newblock \emph{Limnology and Oceanography}, \textbf{62}, 253--271.
+
+\bibitem[{Linton \emph{\bbletal{}}(1981)Linton, Davies, \& Wrona}]{linton1981}
+Linton LR, Davies RW, Wrona FJ (1981) Resource {{Utilization Indices}}: {{An
+  Assessment}}.
+\newblock \emph{Journal of Animal Ecology}, \textbf{50}, 283--292.
+
+\bibitem[{Martini \emph{\bbletal{}}(2020)Martini, Larras, Boy{\'e}
+  \emph{\bbletal{}}}]{martini2020}
+Martini S, Larras F, Boy{\'e} A, \emph{\bbletal{}} (2020) Functional
+  trait-based approaches as a common framework for aquatic ecologists.
+\newblock \emph{Limnology and Oceanography}, \bblp{} lno.11655.
+
+\bibitem[{Mcgill \emph{\bbletal{}}(2006)Mcgill, Enquist, Weiher, \&
+  Westoby}]{mcgill2006}
+Mcgill B, Enquist B, Weiher E, Westoby M (2006) Rebuilding community ecology
+  from functional traits.
+\newblock \emph{Trends in Ecology \& Evolution}, \textbf{21}, 178--185.
+
+\bibitem[{Mejri(2009)}]{mejri2009}
+Mejri S (2009) \emph{Caract\'erisation Fonctionnelle de l'ichtyofaune d'une
+  Future {{Aire Marine Prot\'eg\'ee}}, La Baie de {{Malloula}} ({{Nord Ouest}}
+  de La {{Tunisie}})}.
+\newblock \bblphdthesis{}.
+
+\bibitem[{Mouillot \emph{\bbletal{}}(2005)Mouillot, Stubbs, Faure
+  \emph{\bbletal{}}}]{mouillot2005}
+Mouillot D, Stubbs W, Faure M, \emph{\bbletal{}} (2005) Niche overlap estimates
+  based on quantitative functional traits: {{A}} new family of non-parametric
+  indices.
+\newblock \emph{Oecologia}, \textbf{145}, 345--53.
+
+\bibitem[{Nagelkerke \emph{\bbletal{}}(2018)Nagelkerke, {van Onselen}, {van
+  Kessel}, \& Leuven}]{nagelkerke2018}
+Nagelkerke LAJ, {van Onselen} E, {van Kessel} N, Leuven RSEW (2018) Functional
+  feeding traits as predictors of invasive success of alien freshwater fish
+  species using a food-fish model.
+\newblock \emph{PLOS ONE}, \textbf{13}, e0197636.
+
+\bibitem[{Sutherland \emph{\bbletal{}}(2013)Sutherland, Freckleton, Godfray
+  \emph{\bbletal{}}}]{sutherland2013}
+Sutherland WJ, Freckleton RP, Godfray HCJ, \emph{\bbletal{}} (2013)
+  Identification of 100 fundamental ecological questions.
+\newblock \emph{Journal of Ecology}, \textbf{101}, 58--67.
+
+\end{thebibliography}

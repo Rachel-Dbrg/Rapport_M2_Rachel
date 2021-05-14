@@ -1,0 +1,92 @@
+%préambule
+%chargement des packages
+\documentclass[a4paper, 12pt]{article}
+
+%Langage et typo
+\usepackage[babel]{microtype}
+\usepackage[english]{babel}
+
+%Gestion grahique
+\usepackage{graphicx}
+\usepackage{mathspec}
+
+%Définition des paramètres de mise en page
+%Interlignes
+\usepackage{setspace}
+\onehalfspace
+
+%Marges
+\usepackage[margin=2.5cm]{geometry}
+
+%%Font
+%\usepackage{fontspec}
+\setmainfont{Times New Roman}
+%Couleurs
+\usepackage[svgnames]{xcolor}
+
+%Gestion biblio
+\usepackage{natbib}
+\usepackage[pagebackref = true]{hyperref}
+\setcitestyle{citesep={;},aysep={}}
+
+%Page de garde
+\title{Rapport stage M2}
+\author{Moi même}
+\date{Mardi 9 février 2020}
+
+
+\begin{document}
+\maketitle
+\newpage
+\tableofcontents
+\newpage
+
+
+\section{Présentation de la structure d'accueil}
+\section{Etat de l'art}
+
+\subsection{Structure and dynamic of ecosystems: how can species coexist in same environment?} 
+
+Of all the questions raised when it comes to study Nature, the most common yet complex one is “how do organisms and environment interact with each other?” \citep{sutherland2013}. In other words, what are the processes and rules that defines structure and functioning of ecosystems? Taken as a whole, an ecosystem can be seen as a giant network: all individuals from every species are linked to one another through intra- and interspecific relationships, that implies competition, parasitism, predation…; and each individual is linked to its physical environment, for whom it depends for food prospection, shelter and/or favourable conditions for breeding. The main purpose of ecology is to study those links and ultimately, to be able to map the central relationships and flows that are keys to maintain stable ecosystems.  Community ecologists, regardless of the ecosystem they are studying, try to answer some fairly similar questions such as “how do species share environmental resources?” or “how can species relying on the same resource to thrive and survive can coexist?”. Indeed, the mere observation that species can live and develop a population without encroaching each other suggests that, even if species compete to access the same resources, the use of resource is well balanced and allows stable relationships between species. Most of all, if species depend on the same resources to survive, how diversity within an ecosystem can last through time?
+
+
+\subsection{Concepts and definition for studying ecosystems’ dynamic.}
+ 
+To answer those questions, structure and dynamic of ecosystems needs to be investigated and ecological concepts must be defined. First, the whole living compartment is define as a “community”, which gather all organisms, thus different species, that live and interact together in a same habitat. Within this habitat, populations might differently use space and food resources they need to survive, that are defined as “niche”. In 1917, Grinnell was the first to scientifically define a term for all the requirements that a species need to thrive with “ecological niche”. This term includes biotic (food abundance and availability for prospection, competition among species, predation-prey relationships) and abiotic (environmental conditions such as temperature or pression, shelter) conditions and shape the areas suited for species according to their needs. This definition is refined by Hutchinson in 1957 : resources and their availability are the main factors that conditions coexistence of species, for resources are essential for species to thrive and are therefore considered limiting factors. Furthermore, Hutchinson’s definition distinguishes the concepts of ‘fundamental niche’, which is a potential niche for a given species that offers all the optimal conditions for that species to flourish and ‘realized niche’, which are the actual resources used by a species and which is often smaller than fundamental niche, mainly because of competition between species. If resource is limited, competition might occurs between species that seek simultaneously for the same resource, whether it is that they hunt the same preys or live in a same specific habitat, because they are more likely to meet \citep{blondel1979}. When the resources are abundant enough, species may be able to share it without entering competition \citep{nagelkerke2018}. According to competition theory, community structures are defined by the way species are able or not to share resources. Therefore, to study the structure and dynamic of community and to identify the main factors that enable species to coexist, it is essential to determine the degree by which species share resources in other words, quantify the overlapping between niches \citep{geange2011}.
+
+\subsection{Tools to study diversity in ecosystems and their limits}
+
+Niche overlapping can be approached from the habitat (beta overlapping) or food (alpha overlapping) perspective. In both cases, a high degree of overlapping for species means that they are very likely to compete for the same resources and their coexistence is virtually impossible. On the other hand, low overlapping degree tend to suggest that species, even if they depend partly on the same resource, have a wide enough range of accessible resources not to compete with each other \citep{mouillot2005}. No overlapping means that species are likely to use very different resources, and that no competition is expected. This approach has been greatly developed since few decades, with the urge to study the abundance distribution and the mechanisms supporting species coexistence, in order to predict the impact of disturbances, such as the introduction of invasive species or climate change \citep{albouy2011,geange2011, martini2020}. To quantify niche overlapping, several indices have been developed since the 60’s. Among them, four of the most famous ones, relying on the intensity of utilisation of a resource by species, have been compared by \citep{linton1981} to assess the precision and accuracy of each one: Morisita (1959) updated by Horn (1966), Schoener (1968) and Pianka (1973). Index and threshold values are commonly used for studying diversity, whether it is specific, taxonomic, or phylogenetic, but used alone, a result of diversity estimation through any index is usually poor and inaccurate, because complex and rich systems can not be described only by the result of a computation \citep{mejri2009}. Overlapping indices are no exception to the rule: even if they generally lead to the same conclusion, the four indices previously mentioned often give different results, because they use different computation parameters \citep{blondel1979}. As such, they provide a qualitative assessment of the overlapping rather than a quantitative one. On top of that, the results given by those indices are highly dependent of sample size, which adds uncertainty when it comes to conclude from the computation result \citep{linton1981}. Finally, \citep{grossman2009} points out that threshold values for those indices can be considered as arbitrary and might differ from one ecosystem to another, leading to an impossibility of comparing them. For all those reasons, using those indices to estimate if species share or not the same resources, and if so, how much is shared, does not seem relevant \citep{mouillot2005}.
+Therefore, to understand how the structure and the dynamic of an ecosystem are defined and how such complex relationships can last for several generations, simulation through models are often used (see EcoSim or Ecopath).This approach requires a simplification of the ecosystem, for too complex models are virtually impossible to compute \citep{albouy2011}. Simplifying an ecosystem can be done in many ways: focusing on specific aspects of the ecosystem (for instance: pelagic or benthic fauna), adopting a trophic strategy (gather species according to their trophic level) or gathering species that are close in terms of taxonomy or behave alike. Obviously, simplifying with any of those methods ends up with approximating the relationships and much of the complexity of an ecosystem, but if done properly, models are still able to display reliable simulation of what is going on in real life. Yet, the main difficulty is to determine the criteria that are relevant to gather species and to simplify models. Whether they are too or not selective enough, those criteria not only condition the accuracy of the model, but also its capacity of being generalised. For instance, if taxonomic criteria are used to gather species to model a given ecosystem, this model will only be suited to study ecosystems that contains those species. Thus, transposition of a taxonomic-based model for other ecosystems studies is quite limited, if not impossible. Furthermore, this method requires that each ecosystem should have a specific model which is highly time-consuming and compromise comparisons between ecosystems \citep{martini2020,mcgill2006}. For all these reasons, tools used are highly specific of the studied ecosystem and of the species in it. \\
+
+%How does the morphology of fish impact its behaviour? 
+%How can the morphology of the fish help us to understand more about its behaviour?
+
+\subsection{Emergence of a more global approach based on functional-traits}
+
+Community ecology’s aim is to establish generalised rules to explain how communities works, and species-based approach only provides information for a few specific systems but not global principles that can be applied to the whole community. Therefore, ecologists needed to find a way to study ecosystems, that could, on one hand, give clues of how species interacts with each other and, in the other hand, translate to which degree species are linked to their environment. Indeed, some scientists emphasised the urge to get rid of methods that were highly dependent of species, time or space, such as the ones described previously, and to use a more predictable and quantitative science that could play a major role in assessing global changes issues. To this extend, \citep{mcgill2006} suggest that community ecology should rely on functional traits, in order to understand the way traits and fundamental niche interactions converge toward realised niche. They define a trait as a “well-defined, measurable property of organisms, usually measured at the individual level and used comparatively across species”. Globally, traits are biometrics measures, such as biomass, body length and so on, that are easy to measure and generic enough to be repeatable for different species \citep{kremer2017}. Yet, not all measurables traits carries the same information: for ecologists, traits that gives information about the environment and the fitness of individuals are the most valuables. Those specific traits are defined as “functional traits”, and can relate to behaviour, life history or even resources usage, through morphological features for instance \citep{mcgill2006}. Developed with studies based on terrestrial plants, functional-traits approach showed that morphology of species was correlated to their environment and that changes in the habitat could lead to changes of species’ morphology, because this approach relies on the plasticity of traits \citep{martini2020}. This trait-environment relationship is even pushed further, with the “niche filtering hypothesis”, where characteristics of habitats are considered as filters, which implies that only species that has the suited traits can thrive in a set of specific environmental conditions \citep{brindamour2011}. In addition, this hypothesis means that species, if they share similar functional traits, must use the same resources, probably in the same ways, therefore overlapping each other niches. Conversely, if species display very different morphological traits from one another, it is probable that they might use resources in very different ways, or even different resources. \\
+Yet, as shown by \citep{grossman2009}, using only morphological traits to describe food acquisition methods appears to be not that accurate. To study how communities shared food resources, diet from different species with different morphology were compared. Unlike what was expecting, i.e species with similar morphology use same resources in the same way, it appears that the link between morphology and food acquisition was not that obvious and robust. Observing that species with high morphological divergences used the same resources in a similar way, whereas morphologically close species displayed very different diet, they conclude that the morphological traits they choose for this study could not fully explain the food acquisition methods. They also make the hypothesis that, to overcome limitations caused by their morphology and/or their habitat when it comes to diet, organisms might modulate their behaviour and show high adaptability. In fact, if morphology sets limits to resource usage, species usually displays some flexibility around those limits to adapt according to prey availability and environmental conditions \citep{ibanez2007}. 
+If species flexibility must not be ignored, it can be hard to predict. Therefore, it is essential to identify and select relevant traits, that can be used to explain most of how species interacts with their environment. This is one of the main obstacles of the functional-traits-based approach, for selected trait must be different enough (i.e display some variation) between compared levels (species, populations, individuals …) and for observed variation has to explain differences in fitness or coexistence that has been witnessed \citep{kremer2017}. 
+But, overcoming this obstacle is essential to asses functional diversity, which is the main factor explaining stability and productivity of an ecosystem. Sustainability and prosperity of an ecosystem are much more depending of the range of functions and functional-traits displayed by the species, rather than the number of species (i.e specific richness) itself \citep{mejri2009}.
+
+Based on how similar species are in terms of functional traits, they can be gathered into “functional groups”, which assemble species that share same habitat and play a similar role, through the functions  they provide, in the environment (Brind’Amour et al., 2016; Mejri, 2009) \citep{brindamour2016, mejri2009}.
+
+Groupe monospécfique (Mejri) = 1 espèce assure une fonction  intérêt de bien choisir les traits. 
+
+Groupes fonctionnels  If overlap indices only gives a superficial overview of niches occupation of an ecosystem, they do, however, provide an interesting concept when it comes to ways of simplifying an ecosystem: if species are likely to use the same resources (i.e highly overlapping each other niche), they somehow must have more in common. In fact, 
+
+Developpement de nouveaux indices de diversité fonctionnelle \citep{albouy2011} qui est un peu le sang de la veine 
+
+\section{Introduction}
+\section{Matériel et méthode}
+\section{Results}
+\section{Discussion}
+\section{Conclusion}
+
+\bibliographystyle{molecularEcology}
+\bibliography{Stage_M2}
+
+\section{Abstract}
+\section{Résumé}
+
+\end{document}
