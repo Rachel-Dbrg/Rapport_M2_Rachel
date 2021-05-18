@@ -1,4 +1,4 @@
-\begin{thebibliography}{77}
+\begin{thebibliography}{97}
 \providecommand{\natexlab}[1]{#1}
 \input{babelbst.tex}
 \newcommand{\Capitalize}[1]{\uppercase{#1}}
@@ -13,7 +13,8 @@
 A{\"i}ssi M, Fiori C, Alessi J (2012) Mediterranean submarine canyons as
   stepping stones for pelagic tpo predators: The case of sperm whale.
 \newblock \capitalize\bblin{} \emph{Mediterranean Submarine Canyons: Ecology
-  and Governance}, \bblpp{} 99--103. {IUCN}, {Switerland and Spain}.
+  and Governance}, \bblpp{} 99--103. {IUCN}, {Gland (Switzerland) and Malaga
+  (Spain): IUCN}.
 
 \bibitem[{Albouy \emph{\bbletal{}}(2011)Albouy, Guilhaumon, Vill{\'e}ger
   \emph{\bbletal{}}}]{albouy2011}
@@ -44,6 +45,12 @@ Blondel J, Bourli{\`e}re F (1979) La niche \'ecologique, mythe ou r\'ealit\'e ?
 Boissezon A (2014) Distribution et dynamique des communaut\'es de
   {{Charac\'ees}}: {{Impact}} des facteurs environnementaux r\'egionaux et
   locaux.
+
+\bibitem[{Bourillet \emph{\bbletal{}}(2006)Bourillet, Zaragosi, \&
+  Mulder}]{bourillet2006}
+Bourillet JF, Zaragosi S, Mulder T (2006) The {{French Atlantic}} margin and
+  deep-sea submarine systems.
+\newblock \emph{Geo-Marine Letters}, \textbf{26}, 311--315.
 
 \bibitem[{Boyle \& Horn(2006)}]{boyle2006}
 Boyle K, Horn M (2006) Comparison of feeding guild structure and ecomorphology
@@ -76,6 +83,47 @@ Carvalho F, Almeida A (1988) Notes on xenodermichthys copei (gill, 1884),
   (pisces: Alepocephalidae).
 \newblock \emph{Cybium: international journal of ichthyology}, \textbf{12},
   161--66.
+
+\bibitem[{Catul \emph{\bbletal{}}(2011)Catul, Gauns, \&
+  Karuppasamy}]{catul2011}
+Catul V, Gauns M, Karuppasamy P (2011) A {{Review}} on mesopelagic fishes
+  belonging to family {{Myctophidae}}.
+\newblock \emph{Reviews in Fish Biology and Fisheries}, \textbf{21}, 339--354.
+
+\bibitem[{Childress \emph{\bbletal{}}(1980)Childress, Taylor, Cailliet, \&
+  Price}]{childress1980}
+Childress JJ, Taylor SM, Cailliet GM, Price MH (1980) Patterns of growth,
+  energy utilization and reproduction in some meso- and bathypelagic fishes off
+  {{Southern California}}.
+\newblock \emph{Marine Biology}, \textbf{61}, 27--40.
+
+\bibitem[{Company \emph{\bbletal{}}(2008)Company, Puig, Sard{\`a}, Palanques,
+  Latasa, \& Scharek}]{company2008}
+Company JB, Puig P, Sard{\`a} F, Palanques A, Latasa M, Scharek R (2008)
+  Climate {{Influence}} on {{Deep Sea Populations}}.
+\newblock \emph{PLOS ONE}, \textbf{3}, e1431.
+
+\bibitem[{Company \emph{\bbletal{}}(2012)Company, {Ramirez-Llodra}, Sard{\`a}
+  \emph{\bbletal{}}}]{company2012}
+Company JB, {Ramirez-Llodra} E, Sard{\`a} F, \emph{\bbletal{}} (2012) Submarine
+  canyons in the {{Catalan Sea}} ({{NW Mediterranean}}): Megafaunal
+  biodiversity patterns and anthropogenic threats.
+\newblock \capitalize\bblin{} \emph{Mediterranean Submarine Canyons: Ecology
+  and Governance}, \bblpp{} 133--144. {W\"urtz M}, {Gland (Switzerland) and
+  Malaga (Spain): IUCN}.
+
+\bibitem[{Cook \emph{\bbletal{}}(2013)Cook, Sutton, Galbraith, \&
+  Vecchione}]{cook2013}
+Cook AB, Sutton TT, Galbraith JK, Vecchione M (2013) Deep-pelagic (0\textendash
+  3000m) fish assemblage structure over the {{Mid}}-{{Atlantic Ridge}} in the
+  area of the {{Charlie}}-{{Gibbs Fracture Zone}}.
+\newblock \emph{Deep Sea Research Part II: Topical Studies in Oceanography},
+  \textbf{98}, 279--291.
+
+\bibitem[{Cooke \emph{\bbletal{}}(2020)Cooke, Eigenbrod, \& Bates}]{cooke2020}
+Cooke RSC, Eigenbrod F, Bates AE (2020) Ecological distinctiveness of birds and
+  mammals at the global scale.
+\newblock \emph{Global Ecology and Conservation}, \textbf{22}, e00970.
 
 \bibitem[{Danovaro(2014)}]{danovaro2014}
 Danovaro R (2014) Challenging the paradigms of deep-sea ecology.
@@ -133,9 +181,24 @@ Evans MR (2012) Modelling ecological systems in a changing world.
 \newblock \emph{Philosophical Transactions of the Royal Society B: Biological
   Sciences}, \textbf{367}, 181--190.
 
+\bibitem[{{Fernandez-Arcaya} \emph{\bbletal{}}(2017){Fernandez-Arcaya},
+  {Ramirez-Llodra}, Aguzzi \emph{\bbletal{}}}]{fernandez-arcaya2017}
+{Fernandez-Arcaya} U, {Ramirez-Llodra} E, Aguzzi J, \emph{\bbletal{}} (2017)
+  Ecological {{Role}} of {{Submarine Canyons}} and {{Need}} for {{Canyon
+  Conservation}}: {{A Review}}.
+\newblock \emph{Frontiers in Marine Science}, \textbf{4}.
+
 \bibitem[{Froese \& Pauly(2019)}]{froese2019}
 Froese R, Pauly D (2019) {{FishBase}}.
 \newblock http://fishbase.org.
+
+\bibitem[{{Garc{\'i}a-Seoane} \emph{\bbletal{}}(2021){Garc{\'i}a-Seoane},
+  Wienerroither, Mork, Underwood, \& Melle}]{garcia2021}
+{Garc{\'i}a-Seoane} E, Wienerroither R, Mork KA, Underwood MJ, Melle W (2021)
+  Biogeographical patterns of meso- and bathypelagic fish along a
+  {{Northeastern Atlantic}} transect.
+\newblock \emph{ICES Journal of Marine Science}.
+\newblock Fsaa255.
 
 \bibitem[{Gaskett \emph{\bbletal{}}(2001)Gaskett, Bulman, He, \&
   Goldsworthy}]{gaskett2001}
@@ -157,6 +220,11 @@ Gillet H (2013) {SYNTh\`ese et analyse des donn\'ees eXistantes sur un
   \guillemotleft{} SYNTAX \guillemotright}.
 \newblock \emph{Rapport technique final. Fonds Commun de Coop\'eration
   Euror\'egion Aquitaine/Euskadi}, \bblp{} 234.
+
+\bibitem[{Gjoesaeter \& Kawaguchi(1980)}]{gjoesaeter1980}
+Gjoesaeter J, Kawaguchi K (1980) A review of the world resources of mesopelagic
+  fish.
+\newblock \emph{FAO Fisheries Technical Papers (FAO)}.
 
 \bibitem[{Gosline(1971)}]{gosline1971}
 Gosline WA (1971) \emph{Functional Morphology and Classification of Teleostean
@@ -207,6 +275,14 @@ Iba{\~n}ez C, Tedesco PA, Bigorne R, \emph{\bbletal{}} (2007)
 {Keat-Chuan Ng} C, {Aun-Chuan Ooi} P, Wong W, Khoo G (2017) A review of fish
   taxonomy conventions and species identification techniques.
 \newblock \emph{Journal of Survey in Fisheries Sciences}, \textbf{4}, 54--93.
+
+\bibitem[{Kenchington \emph{\bbletal{}}(2020)Kenchington, Themelis, DeVaney, \&
+  Kenchington}]{kenchington2020}
+Kenchington TJ, Themelis DE, DeVaney SC, Kenchington EL (2020) The {{Meso}}-
+  and {{Bathypelagic Fishes}} in a {{Large Submarine Canyon}}: {{Assemblage
+  Structure}} of the {{Principal Species}} in the {{Gully Marine Protected
+  Area}}.
+\newblock \emph{Frontiers in Marine Science}, \textbf{7}.
 
 \bibitem[{Kim \& Ohr(2020)}]{kim2020}
 Kim D, Ohr S (2020) Coexistence of plant species under harsh environmental
@@ -294,6 +370,12 @@ Mouillot D, Stubbs W, Faure M, \emph{\bbletal{}} (2005) Niche overlap estimates
   indices.
 \newblock \emph{Oecologia}, \textbf{145}, 345--53.
 
+\bibitem[{Mulder \emph{\bbletal{}}(2012)Mulder, Zaragosi, Garlan
+  \emph{\bbletal{}}}]{mulder2012}
+Mulder T, Zaragosi S, Garlan T, \emph{\bbletal{}} (2012) Present deep-submarine
+  canyons activity in the {{Bay}} of {{Biscay}} ({{NE Atlantic}}).
+\newblock \emph{Marine Geology}, \textbf{295-298}, 113--127.
+
 \bibitem[{Nagelkerke \emph{\bbletal{}}(2018)Nagelkerke, {van Onselen}, {van
   Kessel}, \& Leuven}]{nagelkerke2018}
 Nagelkerke LAJ, {van Onselen} E, {van Kessel} N, Leuven RSEW (2018) Functional
@@ -320,9 +402,17 @@ Olden J, Jackson D (2002) A comparison of statistical approaches for modelling
 Orrell T, Hartel K (2016) Platytroctidae.
 \newblock \capitalize\bblin{} \emph{The Living Marine Resources of the
   {{Eastern Central Atlantic}}}, \bblvol{} 3: Bony fises part 1 (Elopiformes to
-  Scorpaeniformes \bblof{} \emph{{{FAO Species Identification Guide For Fishery
-  Purposes}}}, \bblpp{} 1771--1782. {Rome}, carpenter k.e and de angelis n.
-  \bbledn{}.
+  Scorpaeniformes) \bblof{} \emph{{{FAO Species Identification Guide For
+  Fishery Purposes}}}, \bblpp{} 1771--1782. {Carpenter K.E and De Angelis N.},
+  {Rome}.
+
+\bibitem[{Paitio \emph{\bbletal{}}(2020)Paitio, Yano, Muneyama
+  \emph{\bbletal{}}}]{paitio2020}
+Paitio J, Yano D, Muneyama E, \emph{\bbletal{}} (2020) Reflector of the body
+  photophore in lanternfish is mechanistically tuned to project the biochemical
+  emission in photocytes for counterillumination.
+\newblock \emph{Biochemical and Biophysical Research Communications},
+  \textbf{521}, 821--826.
 
 \bibitem[{Parkes \emph{\bbletal{}}(1994)Parkes, Cragg, Bale
   \emph{\bbletal{}}}]{parkes1994}
@@ -378,6 +468,12 @@ Pusch C, Hulley P, Kock KH (2004) Community structure and feeding ecology of
 Reynolds GT, Lutz RA (2001) Sources of light in the deep ocean.
 \newblock \emph{Reviews of Geophysics}, \textbf{39}, 123--136.
 
+\bibitem[{Richards \emph{\bbletal{}}(2019)Richards, Gipson, Cook, Sutton, \&
+  Wells}]{richards2019}
+Richards TM, Gipson EE, Cook A, Sutton TT, Wells RJD (2019) Trophic ecology of
+  meso- and bathypelagic predatory fishes in the {{Gulf}} of {{Mexico}}.
+\newblock \emph{ICES Journal of Marine Science}, \textbf{76}, 662--672.
+
 \bibitem[{Robertson \emph{\bbletal{}}(2020)Robertson, Demopoulos, Bourque
   \emph{\bbletal{}}}]{robertson2020}
 Robertson CM, Demopoulos AWJ, Bourque JR, \emph{\bbletal{}} (2020) Submarine
@@ -397,6 +493,13 @@ Salazar G, {Cornejo-Castillo} FM, {Ben{\'i}tez-Barrios} V, \emph{\bbletal{}}
   (2016) Global diversity and biogeography of deep-sea pelagic prokaryotes.
 \newblock \emph{The ISME Journal}, \textbf{10}, 596--608.
 
+\bibitem[{Salvanes \& Kristoffersen(2009)}]{salvanes2009}
+Salvanes A, Kristoffersen J (2009) Mesopelagic fishes.
+\newblock \capitalize\bblin{} \emph{Elements of {{Physical Oceanography}}:
+  {{A}} Derivative of the {{Encyclopedia}} of {{Ocean Sciences}}}, \bblpp{}
+  239--245. {Steele J, Thorpe S, Turekian K}, {University of Bergen, Norway},
+  academic press \bbledn{}.
+
 \bibitem[{Schoener(1968)}]{schoener1968}
 Schoener TW (1968) Sizes of feeding territories among birds.
 \newblock \emph{Ecology}, \textbf{49}, 123--141.
@@ -413,6 +516,14 @@ Sion L, Calculli C, Capezzuto F, \emph{\bbletal{}} (2019) Does the {{Bari
   abundance?
 \newblock \emph{Progress in Oceanography}, \textbf{170}, 81--92.
 
+\bibitem[{Spitz \emph{\bbletal{}}(2019)Spitz, Munschy, \&
+  Chouvelon}]{spitz2019}
+Spitz J, Munschy C, Chouvelon T (2019) Biodiversit\'e et {{Contamination}} du
+  micronecton profond - {{Faisabilit\'e}} du suivi et {{Etat}} de r\'ef\'erence
+  -{{EVHOE}} 2017 \& 2018.
+\newblock Rapport scientifique, {Observatoire PELAGIS (UMS 3462, La Rochelle
+  Universit\'e/CNRS) - Ifremer}.
+
 \bibitem[{Stefanescu \emph{\bbletal{}}(1994)Stefanescu, {Nin-Morales}, \&
   Massuti}]{stefanescu1994}
 Stefanescu C, {Nin-Morales} B, Massuti E (1994) Fish assemblages on the slope
@@ -427,11 +538,34 @@ Sutherland WJ, Freckleton RP, Godfray HCJ, \emph{\bbletal{}} (2013)
   Identification of 100 fundamental ecological questions.
 \newblock \emph{Journal of Ecology}, \textbf{101}, 58--67.
 
+\bibitem[{Sutton \emph{\bbletal{}}(2013)Sutton, Letessier, \&
+  Bardarson}]{sutton2013}
+Sutton TT, Letessier TB, Bardarson B (2013) Midwater fishes collected in the
+  vicinity of the {{Sub}}-{{Polar Front}}, {{Mid}}-{{North Atlantic Ocean}},
+  during {{ECOMAR}} pelagic sampling.
+\newblock \emph{DEEP-SEA RESEARCH PART II-TOPICAL STUDIES IN OCEANOGRAPHY},
+  \textbf{98}, 292--300.
+
 \bibitem[{Todo \emph{\bbletal{}}(2005)Todo, Kitazato, Hashimoto, \&
   Gooday}]{todo2005}
 Todo Y, Kitazato H, Hashimoto J, Gooday AJ (2005) Simple {{Foraminifera
   Flourish}} at the {{Ocean}}'s {{Deepest Point}}.
 \newblock \emph{Science}, \textbf{307}, 689--689.
+
+\bibitem[{{van den Beld} \emph{\bbletal{}}(2017{\natexlab{a}}){van den Beld},
+  Guillaumont, Menot, Bayle, {Arnaud-Haond}, \& Bourillet}]{vandenbeld2017}
+{van den Beld} IM, Guillaumont B, Menot L, Bayle C, {Arnaud-Haond} S, Bourillet
+  JF (2017{\natexlab{a}}) Marine litter in submarine canyons of the bay of
+  biscay.
+\newblock \emph{Deep Sea Research Part II: Topical Studies in Oceanography},
+  \textbf{145}, 142--152.
+
+\bibitem[{{van den Beld} \emph{\bbletal{}}(2017{\natexlab{b}}){van den Beld},
+  Bourillet, {Arnaud-Haond} \emph{\bbletal{}}}]{vandenbeld2017a}
+{van den Beld} IMJ, Bourillet JF, {Arnaud-Haond} S, \emph{\bbletal{}}
+  (2017{\natexlab{b}}) Cold-{{Water Coral Habitats}} in {{Submarine Canyons}}
+  of the {{Bay}} of {{Biscay}}.
+\newblock \emph{Frontiers in Marine Science}, \textbf{4}.
 
 \bibitem[{Violle \emph{\bbletal{}}(2007)Violle, Navas, Vile
   \emph{\bbletal{}}}]{violle2007}
@@ -442,6 +576,12 @@ Violle C, Navas ML, Vile D, \emph{\bbletal{}} (2007) Let the concept of trait
 \bibitem[{Webb(1984)}]{webb1984}
 Webb PW (1984) Form and function in fish swimming.
 \newblock \emph{Scientific American}, \bblp{}~17.
+
+\bibitem[{Webb \emph{\bbletal{}}(2010)Webb, Berghe, \& O'Dor}]{webb2010}
+Webb TJ, Berghe EV, O'Dor R (2010) Biodiversity's {{Big Wet Secret}}: {{The
+  Global Distribution}} of {{Marine Biological Records Reveals Chronic
+  Under}}-{{Exploration}} of the {{Deep Pelagic Ocean}}.
+\newblock \emph{PLOS ONE}, \textbf{5}, e10223.
 
 \bibitem[{Wilson \emph{\bbletal{}}(1988)Wilson, Peter, {National Academy of
   Sciences (U.S.)}, \& {Smithsonian Institution}}]{wilson1988}
