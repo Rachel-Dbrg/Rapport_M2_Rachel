@@ -1,4 +1,4 @@
-\begin{thebibliography}{97}
+\begin{thebibliography}{104}
 \providecommand{\natexlab}[1]{#1}
 \input{babelbst.tex}
 \newcommand{\Capitalize}[1]{\uppercase{#1}}
@@ -11,10 +11,10 @@
 \bibitem[{A{\"i}ssi \emph{\bbletal{}}(2012)A{\"i}ssi, Fiori, \&
   Alessi}]{aissi2012}
 A{\"i}ssi M, Fiori C, Alessi J (2012) Mediterranean submarine canyons as
-  stepping stones for pelagic tpo predators: The case of sperm whale.
+  stepping stones for pelagic top predators: The case of sperm whale.
 \newblock \capitalize\bblin{} \emph{Mediterranean Submarine Canyons: Ecology
-  and Governance}, \bblpp{} 99--103. {IUCN}, {Gland (Switzerland) and Malaga
-  (Spain): IUCN}.
+  and Governance}, \bblpp{} 99--103. {W\"urtz M}, {Gland (Switzerland) and
+  Malaga (Spain): IUCN}.
 
 \bibitem[{Albouy \emph{\bbletal{}}(2011)Albouy, Guilhaumon, Vill{\'e}ger
   \emph{\bbletal{}}}]{albouy2011}
@@ -78,9 +78,15 @@ Canals M, Puig P, {de Madron} XD, Heussner S, Palanques A, Fabres J (2006)
   Flushing submarine canyons.
 \newblock \emph{Nature}, \textbf{444}, 354--357.
 
+\bibitem[{Carrass{\'o}n \& Cartes(2002)}]{carrasson2002}
+Carrass{\'o}n M, Cartes JE (2002) Trophic relationships in a {{Mediterranean}}
+  deep-sea fish community: Partition of food resources, dietary overlap and
+  connections within the benthic boundary layer.
+\newblock \emph{Marine Ecology Progress Series}, \textbf{241}, 41--55.
+
 \bibitem[{Carvalho \& Almeida(1988)}]{carvalho1988}
-Carvalho F, Almeida A (1988) Notes on xenodermichthys copei (gill, 1884),
-  (pisces: Alepocephalidae).
+Carvalho F, Almeida A (1988) Notes on {\emph{xenodermichthys copei}}({{Gill}},
+  1884), (pisces: Alepocephalidae).
 \newblock \emph{Cybium: international journal of ichthyology}, \textbf{12},
   161--66.
 
@@ -165,6 +171,11 @@ Davison PC, Koslow JA, Kloser RJ (2015) Acoustic biomass estimation of
 \newblock \emph{The Journal of Comparative Neurology}, \textbf{522},
   1618--1640.
 
+\bibitem[{De~Leo(2012)}]{deleo2012}
+De~Leo F (2012) \emph{Submarine Canyons : Hotspots of Deep-Sea Benthic
+  Abundance and Biodiversity}.
+\newblock Thesis, [Honolulu] : [University of Hawaii at Manoa], [August 2012].
+
 \bibitem[{Diderich(2006)}]{diderich2006}
 Diderich WP (2006) Ecomorphology as a predictor of fish diet: A case study on
   the north sea benthic fish community.
@@ -173,13 +184,20 @@ Diderich WP (2006) Ecomorphology as a predictor of fish diet: A case study on
 \bibitem[{Dumay \emph{\bbletal{}}(2004)Dumay, Tari, Tomasini, \&
   Mouillot}]{dumay2004}
 Dumay O, Tari PS, Tomasini JA, Mouillot D (2004) Functional groups of lagoon
-  fish species in languedoc roussillon, southern france.
+  fish species in {{Languedoc}}-{{Roussillon}}, southern france.
 \newblock \emph{Journal of Fish Biology}, \textbf{64}, 970--983.
 
 \bibitem[{Evans(2012)}]{evans2012}
 Evans MR (2012) Modelling ecological systems in a changing world.
 \newblock \emph{Philosophical Transactions of the Royal Society B: Biological
   Sciences}, \textbf{367}, 181--190.
+
+\bibitem[{Farr{\'e} \emph{\bbletal{}}(2016)Farr{\'e}, Tuset, Cartes,
+  Massut{\'i}, \& Lombarte}]{farre2016}
+Farr{\'e} M, Tuset VM, Cartes JE, Massut{\'i} E, Lombarte A (2016)
+  Depth-related trends in morphological and functional diversity of demersal
+  fish assemblages in the western {{Mediterranean Sea}}.
+\newblock \emph{Progress in Oceanography}, \textbf{147}, 22--37.
 
 \bibitem[{{Fernandez-Arcaya} \emph{\bbletal{}}(2017){Fernandez-Arcaya},
   {Ramirez-Llodra}, Aguzzi \emph{\bbletal{}}}]{fernandez-arcaya2017}
@@ -214,9 +232,22 @@ Geange SW, Pledger S, Burns KC, Shima JS (2011) A unified analysis of niche
   overlap incorporating data of different types.
 \newblock \emph{Methods in Ecology and Evolution}, \textbf{2}, 175--184.
 
+\bibitem[{Geidner(2008)}]{geidner2008}
+Geidner M (2008) \emph{{Spatial and trophic ecology of the sawtooth eel,
+  Serrivomer beanii, a biomass-dominant bathypelagic fish over the northern
+  Mid-Atlantic Ridge}}.
+\newblock \bblphdthesis{}, Florida Atlantic University, {Florida (USA)}.
+
+\bibitem[{Germain \emph{\bbletal{}}(2019)Germain, Schnell, \&
+  Meunier}]{germain2019}
+Germain D, Schnell N, Meunier F (2019) Histological data on bone and teeth in
+  two dragonf\`ishes ({{Stomiidae}}; {{Stomiiformes}}): {{Borostomiaspanamensis
+  Regan}} \& {{Trewavas}}, 1929 and {{Stomias}} boa {{Reinhardt}} 1842.
+\newblock \emph{Cybium}, \textbf{43}, 103--107.
+
 \bibitem[{Gillet(2013)}]{gillet2013}
 Gillet H (2013) {SYNTh\`ese et analyse des donn\'ees eXistantes sur un
-  \'ecosyst\`eme profond transfrontalier : le gouf de capbreton \textendash{}
+  \'ecosyst\`eme profond transfrontalier : le gouf de Capbreton \textendash{}
   \guillemotleft{} SYNTAX \guillemotright}.
 \newblock \emph{Rapport technique final. Fonds Commun de Coop\'eration
   Euror\'egion Aquitaine/Euskadi}, \bblp{} 234.
@@ -247,7 +278,7 @@ Grossman GD (2009) Food resource partitioning in a rocky intertidal fish
 
 \bibitem[{Habib \emph{\bbletal{}}(2019)Habib, Naz, \& Mehmood}]{habib2019}
 Habib SS, Naz S, Mehmood R (2019) Morphometric relationships of some specified
-  species of family cyprinidae in jinnah barrage punjab, pakistan.
+  species of family cyprinidae in {{Jinnah Barrage Punjab}}, {{Pakistan}}.
 \newblock \emph{Journal of Entomology and Zoology Studies}, \bblp{}~5.
 
 \bibitem[{Halfar \& Fujita(2002)}]{halfar2002}
@@ -255,7 +286,7 @@ Halfar J, Fujita RM (2002) Precautionary management of deep-sea mining.
 \newblock \emph{Marine Policy}, \textbf{26}, 103--106.
 
 \bibitem[{Horn(1966)}]{horn1966}
-Horn HS (1966) Measurement of "{{Overlap}}" in comparative ecological studies.
+Horn HS (1966) Measurement of ''{{Overlap}}" in comparative ecological studies.
 \newblock \emph{The American Naturalist}, \textbf{100}, 419--424.
 
 \bibitem[{Hutchinson(1957)}]{hutchinson1957}
@@ -267,7 +298,7 @@ Hutchinson G (1957) Concluding remarks.
   \emph{\bbletal{}}}]{ibanez2007}
 Iba{\~n}ez C, Tedesco PA, Bigorne R, \emph{\bbletal{}} (2007)
   Dietary-morphological relationships in fish assemblages of small forested
-  streams in the bolivian amazon.
+  streams in the {{Bolivian Amazon}}.
 \newblock \emph{Aquatic Living Resources}, \textbf{20}, 131--142.
 
 \bibitem[{{Keat-Chuan Ng} \emph{\bbletal{}}(2017){Keat-Chuan Ng}, {Aun-Chuan
@@ -291,8 +322,8 @@ Kim D, Ohr S (2020) Coexistence of plant species under harsh environmental
 \newblock \emph{Journal of Ecology and Environment}, \textbf{44}, 19.
 
 \bibitem[{Kozlov(1995)}]{kozlov1995}
-Kozlov AN (1995) A {{REVIEW OF THE TROPHIC ROLE OF MESOPELAGIC FISH OF THE
-  FAMILY MYCTOPHIDAE IN THE SOUTHERN OCEAN ECOSYSTEM}}.
+Kozlov AN (1995) A review of the trophic role of mesolelagic fish of the family
+  {{Myctophidae}} in the {{Southern Ocean}} ecosystem.
 \newblock \emph{CCAMLR Science}, \textbf{2}, 71--77.
 
 \bibitem[{Kremer \emph{\bbletal{}}(2017)Kremer, Williams, Finiguerra
@@ -317,11 +348,6 @@ Lavorel S, McIntyre S, Landsberg J, Forbes TDA (1997) Plant functional
   classifications: From general groups to specific groups based on response to
   disturbance.
 \newblock \emph{Trends in Ecology \& Evolution}, \textbf{12}, 474--478.
-
-\bibitem[{Leo \& Cabrera(2012)}]{leo2012}
-Leo D, Cabrera F (2012) \emph{Submarine Canyons : Hotspots of Deep-Sea Benthic
-  Abundance and Biodiversity}.
-\newblock Thesis, [Honolulu] : [University of Hawaii at Manoa], [August 2012].
 
 \bibitem[{Linton \emph{\bbletal{}}(1981)Linton, Davies, \& Wrona}]{linton1981}
 Linton LR, Davies RW, Wrona FJ (1981) Resource utilization indices: An
@@ -378,10 +404,10 @@ Mulder T, Zaragosi S, Garlan T, \emph{\bbletal{}} (2012) Present deep-submarine
 
 \bibitem[{Nagelkerke \emph{\bbletal{}}(2018)Nagelkerke, {van Onselen}, {van
   Kessel}, \& Leuven}]{nagelkerke2018}
-Nagelkerke LAJ, {van Onselen} E, {van Kessel} N, Leuven RSEW (2018) Functional
+Nagelkerke LA, {van Onselen} E, {van Kessel} N, Leuven RS (2018) Functional
   feeding traits as predictors of invasive success of alien freshwater fish
   species using a food-fish model.
-\newblock \emph{PLOS ONE}, \textbf{13}, e0197636.
+\newblock \emph{PLOS ONE}, \textbf{13}.
 
 \bibitem[{Norton(1995)}]{norton1995}
 Norton SF (1995) A functional approach to ecomorphological patterns of feeding
@@ -441,7 +467,7 @@ Piroddi C, Teixeira H, Lynam CP, \emph{\bbletal{}} (2015) Using ecological
 \bibitem[{Pont \emph{\bbletal{}}(2006)Pont, Hugueny, Beier
   \emph{\bbletal{}}}]{pont2006}
 Pont D, Hugueny B, Beier U, \emph{\bbletal{}} (2006) Assessing river biotic
-  condition at a continental scale: A european approach using functional
+  condition at a continental scale: A {{European}} approach using functional
   metrics and fish assemblages.
 \newblock \emph{Journal of Applied Ecology}, \textbf{43}, 70--80.
 
@@ -451,6 +477,14 @@ Poulsen JY, Byrkjedal I, Willassen E, \emph{\bbletal{}} (2013) Mitogenomic
   sequences and evidence from unique gene rearrangements corroborate
   evolutionary relationships of myctophiformes (neoteleostei).
 \newblock \emph{BMC Evolutionary Biology}, \textbf{13}, 111.
+
+\bibitem[{Preciado \emph{\bbletal{}}(2017)Preciado, Cartes, Punz{\'o}n, Frutos,
+  {L{\'o}pez-L{\'o}pez}, \& Serrano}]{preciado2017}
+Preciado I, Cartes JE, Punz{\'o}n A, Frutos I, {L{\'o}pez-L{\'o}pez} L, Serrano
+  A (2017) Food web functioning of the benthopelagic community in a deep-sea
+  seamount based on diet and stable isotope analyses.
+\newblock \emph{Deep Sea Research Part II: Topical Studies in Oceanography},
+  \textbf{137}, 56--68.
 
 \bibitem[{Pusch \emph{\bbletal{}}(2004)Pusch, Hulley, \& Kock}]{pusch2004}
 Pusch C, Hulley P, Kock KH (2004) Community structure and feeding ecology of
@@ -484,7 +518,7 @@ Robertson CM, Demopoulos AWJ, Bourque JR, \emph{\bbletal{}} (2020) Submarine
 
 \bibitem[{Rocklin(2004)}]{rocklin2004}
 Rocklin D (2004) {Taxonomic and functional biodiversity of the fish communities
-  in the grand cul-de-sac marin (french west indies) marine reserve seagrass
+  in the grand cul-de-sac marin (French West Indies) marine reserve seagrass
   habitat.}
 
 \bibitem[{Salazar \emph{\bbletal{}}(2016)Salazar, {Cornejo-Castillo},
@@ -505,7 +539,7 @@ Schoener TW (1968) Sizes of feeding territories among birds.
 \newblock \emph{Ecology}, \textbf{49}, 123--141.
 
 \bibitem[{Sibbing \& Nagelkerke(2000)}]{sibbing2000}
-Sibbing FA, Nagelkerke LA (2000) Resource partioning by lake tana barbs
+Sibbing FA, Nagelkerke LA (2000) Resource partioning by {{Lake Tana}} barbs
   predicted from fish morphometrics and prey characteristics.
 \newblock \emph{Reviews in Fish Biology and Fisheries}, \textbf{10}, 393--437.
 
@@ -520,7 +554,7 @@ Sion L, Calculli C, Capezzuto F, \emph{\bbletal{}} (2019) Does the {{Bari
   Chouvelon}]{spitz2019}
 Spitz J, Munschy C, Chouvelon T (2019) Biodiversit\'e et {{Contamination}} du
   micronecton profond - {{Faisabilit\'e}} du suivi et {{Etat}} de r\'ef\'erence
-  -{{EVHOE}} 2017 \& 2018.
+  - {{EVHOE}} 2017 \& 2018.
 \newblock Rapport scientifique, {Observatoire PELAGIS (UMS 3462, La Rochelle
   Universit\'e/CNRS) - Ifremer}.
 
@@ -592,5 +626,14 @@ Wilson EO, Peter FM, {National Academy of Sciences (US)}, {Smithsonian
 Winemiller KO (1991) Ecomorphological diversification in lowland freshwater
   fish assemblages from five biotic regions.
 \newblock \emph{Ecological Monographs}, \textbf{61}, 343--365.
+
+\bibitem[{Zhang(2012)}]{zhang2012}
+Zhang S (2012) Nearest neighbor selection for iteratively {{kNN}} imputation.
+\newblock \emph{Journal of Systems and Software}, \textbf{85}, 2541--2552.
+
+\bibitem[{Zobel(1997)}]{zobel1997}
+Zobel M (1997) The relative of species pools in determining plant species
+  richness: An alternative explanation of species coexistence?
+\newblock \emph{Trends in Ecology \& Evolution}, \textbf{12}, 266--269.
 
 \end{thebibliography}

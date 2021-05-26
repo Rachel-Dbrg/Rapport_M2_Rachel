@@ -12,45 +12,45 @@ Warning--missing school in mejri2009
 Warning--empty journal in opentreeoflife2019
 Warning--empty journal in rocklin2004
 Warning--missing publisher in wilson1988
-You've used 97 entries,
+You've used 104 entries,
             3174 wiz_defined-function locations,
-            1216 strings with 27623 characters,
-and the built_in function-call counts, 88224 in all, are:
-= -- 8139
-> -- 3103
-< -- 48
-+ -- 1554
-- -- 858
-* -- 7448
-:= -- 12412
-add.period$ -- 193
-call.type$ -- 97
-change.case$ -- 745
-chr.to.int$ -- 102
-cite$ -- 107
-duplicate$ -- 7002
-empty$ -- 7317
-format.name$ -- 1134
-if$ -- 18280
+            1250 strings with 29220 characters,
+and the built_in function-call counts, 94030 in all, are:
+= -- 8679
+> -- 3297
+< -- 52
++ -- 1650
+- -- 912
+* -- 7927
+:= -- 13247
+add.period$ -- 207
+call.type$ -- 104
+change.case$ -- 797
+chr.to.int$ -- 109
+cite$ -- 114
+duplicate$ -- 7463
+empty$ -- 7801
+format.name$ -- 1201
+if$ -- 19472
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 841
-newline$ -- 390
-num.names$ -- 384
-pop$ -- 1938
+missing$ -- 898
+newline$ -- 418
+num.names$ -- 412
+pop$ -- 2069
 preamble$ -- 1
-purify$ -- 650
+purify$ -- 696
 quote$ -- 0
-skip$ -- 2055
+skip$ -- 2175
 stack$ -- 0
-substring$ -- 8530
-swap$ -- 2148
+substring$ -- 9097
+swap$ -- 2286
 text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 861
+type$ -- 924
 warning$ -- 8
-while$ -- 715
+while$ -- 765
 width$ -- 0
-write$ -- 1151
+write$ -- 1236
 (There were 8 warnings)
