@@ -17,8 +17,11 @@
 \contentsline {subsection}{\numberline {3}Data analysis}{16}{subsection.5.3}%
 \contentsline {subsubsection}{\numberline {3.1}Data pre-processing}{16}{subsubsection.5.3.1}%
 \contentsline {subsubsection}{\numberline {3.2}Factorial Analysis of Mixed Data (FAMD)}{16}{subsubsection.5.3.2}%
+\contentsline {subsection}{\numberline {4}niche area overlap}{18}{subsection.5.4}%
 \contentsline {section}{\numberline {}Results}{18}{section.6}%
 \contentsline {subsection}{\numberline {1}Factorial Analysis of Mixed Data}{18}{subsection.6.1}%
-\contentsline {subsection}{\numberline {2}Functional niche area and overlap}{18}{subsection.6.2}%
-\contentsline {subsection}{\numberline {3}Kernel density estimation}{21}{subsection.6.3}%
-\contentsline {section}{\numberline {A}Morphological measurements}{21}{appendix.A}%
+\contentsline {subsection}{\numberline {2}Functional niche area and overlap}{21}{subsection.6.2}%
+\contentsline {subsection}{\numberline {3}Kernel density estimation}{22}{subsection.6.3}%
+\contentsline {section}{\numberline {A}Phylogenetic tree}{27}{appendix.A}%
+\contentsline {section}{\numberline {B}Morphological measurements}{27}{appendix.B}%
+\contentsline {section}{\numberline {C}Correlation plot}{27}{appendix.C}%

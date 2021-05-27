@@ -2,7 +2,7 @@
 
 \subsection{Factorial Analysis of Mixed Data}
 
-The first 5 axis FAMD components explained 78.9\% of the total variation (Table \ref{table:cont_abs}). The first axis (30.6\% of explained variance) is strongly correlated with food acquisition with traits such as \emph{body depth} (a = 12.8), \emph{oral gape axis} (a=11.9), \emph{gill raker type} (a = 11.9), \emph{lower jaw length} (a=10.4) and oral gape surface (a=9.91) (Table \ref{table:cont_abs}). Along this axis, all traits have increasing values toward the right (see \ref{fig:corr_circ_12} for details). As can be seen on Figure \ref{fig:famd12}, this axis clearly separates 3 groups of fishes. At the left, fishes have a low transversal shape (meaning that both \textsc{bd} and \textsc{bw} have similar values, consistent with an elongated body), short lower jaw and small oral gape surface, such as \textit{A. risso}, \textit{S. boa} and \textit{S. beanii}. On the right of this axis, fishes display high body depth values suggesting a laterally compressed form, such as \textit{A. olfersii}. 
+The first 5 FAMD components explained 78.9\% of the total variation (Table \ref{table:cont_abs}). The first axis (30.6\% of explained variance) is strongly correlated with food acquisition with traits such as \emph{body depth} (a = 12.8), \emph{oral gape axis} (a=11.9), \emph{gill raker type} (a = 11.9), \emph{lower jaw length} (a=10.4) and oral gape surface (a=9.91) (Table \ref{table:cont_abs}). Along this axis, all traits have increasing values toward the right (see \ref{fig:corr_circ_12} for details). As can be seen on Figure \ref{fig:famd12}, this axis clearly separates 3 groups of fishes. At the left, fishes have a low transversal shape (meaning that both \textsc{bd} and \textsc{bw} have similar values, consistent with an elongated body), short lower jaw and small oral gape surface, such as \textit{A. risso}, \textit{S. boa} and \textit{S. beanii}. On the right of this axis, fishes display high body depth values suggesting a laterally compressed form, such as \textit{A. olfersii}. 
 The second axis (17.7\% of explained variance) is correlated with food prospection behaviour, through locomotion with \emph{pectoral fin insertion} (a = 15.0), \emph{pectoral fin position} (a = 12.7), which are anti-correlated (see Figure \ref{fig:corr_circ_12}) and diet through \emph{anus position} (a = 10.52) and \emph{oral gape shape} (a = 8.67) (Table \ref{table:cont_abs}). This axis separates the 3 species on the left, \textit{A. risso} diplay higher values of pectoral fin insertion, meaning that the fin is inserted further on the body than \textit{S. boa}, while the fin position on the body depth is lower. Because \textit{S. beanii} does not have pectoral fin, same analysis has been run without traits refering to pectoral or pelvic fins to look if discrimination between species were highly dependant if these traits. Same results than Figure \ref{fig:famd12} were obtained, with \textit{S. boa} and \textit{S. beanii} slightly overlapping. 
 The third axis (explaining 13.1\% of total variance) mainly carries traits linked to the habitat and predatory behavior, with strong influence of \emph{oral gape axis} (a = 23.3), \emph{gill raker type} (a = 23.3), \emph{presence of photophores} (a = 11.2) and \emph{caudal throttle width} (a = 10.1) (Table \ref{table:cont_abs}). On the left of this axis (see Figure \ref{fig:famd34}), species are characterized by wide caudal throttle, supra-terminal oral gape axis and `C' gill rakers type (see \ref{fig:oga}), whereas species on the right have a superior oral gape axis and `A' type of gill rakers (see Figure \ref{fig:corr_circ_34}).
 + INTERPRETATION DE L'AXE 4 : operculum volume, anus position, dorsal fin and pyloric caeca --> peut-être en lien avec un comportement de prédateur ou de digestion de proies difficiles ?  
@@ -43,42 +43,6 @@ Eye size & 3.60 & \textbf{8.20} & 2.12 & \textbf{5.14} & 0.80 \\
 \end{adjustbox}
 \end{table}
 
-% Or relative values ?
-% \begin{table}[ht]
-% \centering
-% \label{table:cont_abs}
-% \caption{Correlation bewteen 5th first PC component and functional traits. In bold, correlations higher than threshold (?????????}
-% \begin{adjustbox}{max width=1.1\textwidth,center}
-% \begin{tabular}{rrrrrr}
-%   \hline
-%  & PC1 & PC2 & PC3 & PC4 & PC5 \\ 
-%   \hline
-% Eye\_size & 0.06 & 0.11 & 0.00 & 0.01 & 0.00 \\ 
-%   Orbital\_length & 0.18 & 0.06 & 0.00 & 0.00 & 0.00 \\ 
-%   Oral\_gape\_surface & 0.49 & 0.00 & 0.00 & 0.00 & 0.00 \\ 
-%   Oral\_gape\_shape & 0.00 & 0.12 & 0.00 & 0.00 & 0.00 \\ 
-%   Oral\_gape\_position & 0.00 & 0.00 & 0.00 & 0.01 & 0.00 \\ 
-%   Lower\_jaw\_length & 0.54 & 0.00 & 0.00 & 0.00 & 0.01 \\ 
-%   Gill\_outflow & 0.17 & 0.00 & 0.00 & 0.00 & 0.08 \\ 
-%   Operculum\_volume & 0.02 & 0.00 & 0.00 & 0.15 & 0.01 \\ 
-%   Head\_length & 0.12 & 0.08 & 0.01 & 0.01 & 0.01 \\ 
-%   Anus\_position & 0.00 & 0.18 & 0.00 & 0.20 & 0.00 \\ 
-%   Body\_depth & 0.  & 0.00 & 0.00 & 0.00 & 0.00 \\ 
-%   Pectoral\_fin\_position & 0.00 & 0.27 & 0.00 & 0.06 & 0.01 \\ 
-%   Pectoral\_fin\_insertion & 0.02 & 0.37 & 0.03 & 0.00 & 0.00 \\ 
-%   Transversal\_shape & 0.37 & 0.00 & 0.04 & 0.00 & 0.00 \\ 
-%   Caudal\_throttle\_width & 0.01 & 0.02 & 0.09 & 0.00 & 0.01 \\ 
-%   Dorsal\_fin\_insertion & 0.04 & 0.03 & 0.00 & 0.15 & 0.01 \\ 
-%   Eye\_position & 0.00 & 0.02 & 0.01 & 0.00 & 0.00 \\ 
-%   Oral\_gape\_axis & 0.35 & 0.02 & 0.25 & 0.00 & 0.00 \\ 
-%   Gill\_raker\_type & 0.35 & 0.02 & 0.25 & 0.00 & 0.00 \\ 
-%   Pyloric\_caeca & 0.00 & 0.00 & 0.00 & 0.01 & 0.26 \\ 
-%   Presence\_photophores & 0.02 & 0.06 & 0.11 & 0.01 & 0.02 \\ 
-%    \hline
-% \end{tabular}
-% \end{adjustbox}
-% \end{table}
-
 % Plot of FAMD axis 1 and 2
 \begin{figure} [!htbp]
 	\begin{center}
@@ -99,8 +63,8 @@ Eye size & 3.60 & \textbf{8.20} & 2.12 & \textbf{5.14} & 0.80 \\
 
 
 \subsection{Functional niche area and overlap}
+The niche area estimation showed that \textit{N. kroyeri} had the smallest niche, with \textit{N. operosus} and \textit{S. koeoedi} having slightly bigger ones (Figure \ref{table:sp_area}). In fact, all Myctophidae (except \textit{L. crocodilus}) and Platytrocidae have rather small niches and are the one overlapping in Figure \ref{fig:famd12}. Conversely, \textit{A. olfersii} is the species with the biggest niche, more than 5 times wider than \textit{N. kroyeri}.
 
-As can be seen on both \ref{fig:famd12} and \ref{fig:famd34}, 6 species present overlapping on the 4 first most discriminant axis, meaning that they are likely to be very much alike. 
 
 % Niche standardardised areas
 \begin{table}[ht]
@@ -128,6 +92,11 @@ Argyropelecus olfersii & 5.30 \\
 \end{adjustbox}
 \end{table}
 
+Niche overlap analysis confirms that species with the smallest niches overlaps each other the most \ref{table:ell_ovlp}. The maximum overlap is found between \textit{M. punctatum} and \textit{N. kroyeri}, as almost 76\% of the latter's niche is covered by the first. In total, these two species share nearly 27\% of their niches. Same observation is made between \textit{S. koefoei} whose niche is 71\% covered by \textit{C. maderensis}. Finally, \textit{N. kroyeri} and \textit{S. koefoedi} are the species for which total overlap is the highest, with nearly 30\% of their niches overlapping.
+
+
+Table 5 : As can be seen on both \ref{fig:famd12} and \ref{fig:famd34}, 6 species present overlapping on the 4 first most discriminant axis, meaning that they are probably very much alike. 
+
 
 % Niche overlap 
 PROBLEME CHIFFRE SIGNIF.
@@ -135,7 +104,7 @@ PROBLEME CHIFFRE SIGNIF.
 \begin{table}[ht]
 \centering
 \label{table:ell_ovlp}
-\caption{Species niche overlap}
+\caption{Species niche overlap. All the others comparisons that are not present in this table did not present any overlap.}
 \begin{adjustbox}{max width=1.1\textwidth,center}
 \begin{tabular}{llrrr}
   \hline

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.8)  27 MAY 2021 20:16
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.8)  27 MAY 2021 23:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -722,7 +722,7 @@ File: ./Figures//FAMD_1_2.png Graphic file (type bmp)
 File: ./Figures//FAMD_3_4.png Graphic file (type bmp)
 <./Figures//FAMD_3_4.png>
 
-[18] [19] [20]
+[18] [19] [20] [21]
 File: ./Figures//Density_plot.png Graphic file (type bmp)
 <./Figures//Density_plot.png>
 ) (./Appendice.tex
@@ -740,22 +740,22 @@ File: ./Figures//Tp_Jerome_figure_Oga.png Graphic file (type bmp)
 <./Figures//Tp_Jerome_figure_Oga.png>
 File: ./Figures//Correlation_circle.png Graphic file (type bmp)
 <./Figures//Correlation_circle.png>
+ [22] [23] [24] [25] [26]
 File: ./Figures//coord_plot_34.png Graphic file (type bmp)
 <./Figures//coord_plot_34.png>
-) (./Structure_rapport_final.bbl
-(./Structure_rapport_final.brf)
+)
+(./Structure_rapport_final.bbl (./Structure_rapport_final.brf)
 \tf@brf=\write5
 \openout5 = `Structure_rapport_final.brf'.
 
- (./babelbst.tex) [21] [22] [23] [24] [25]
-[26] [27] [28] [29] [30] [31] [32] [33] [34] [35]) [36]
+ (./babelbst.tex) [27] [28] [29] [30] [31] [32] [33] [34] [35]) [36]
 (./Structure_rapport_final.aux)
 Package rerunfilecheck Info: File `Structure_rapport_final.out' has not changed
 .
-(rerunfilecheck)             Checksum: 531105AE2E5CF91407818712C8162E98;5220.
+(rerunfilecheck)             Checksum: 9710F37CB759B9032AF01D56769BE30C;5635.
 Package rerunfilecheck Info: File `Structure_rapport_final.brf' has not changed
 .
-(rerunfilecheck)             Checksum: 01AA036ACA1A38C67291CAD635028C20;11955.
+(rerunfilecheck)             Checksum: F4C9658EC0BA0C4CB5FD3E349F993975;11956.
  )
 (\end occurred inside a group at level 1)
 
@@ -764,10 +764,10 @@ Package rerunfilecheck Info: File `Structure_rapport_final.brf' has not changed
 Here is how much of TeX's memory you used:
  16927 strings out of 479115
  308954 string characters out of 5872952
- 760125 words of memory out of 5000000
+ 754609 words of memory out of 5000000
  36212 multiletter control sequences out of 15000+600000
  407615 words of font info for 62 fonts, out of 8000000 for 9000
  62 hyphenation exceptions out of 8191
- 98i,12n,103p,2383b,9740s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,12n,103p,2383b,9752s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Structure_rapport_final.xdv (36 pages, 801048 bytes).
+Output written on Structure_rapport_final.xdv (36 pages, 816480 bytes).
