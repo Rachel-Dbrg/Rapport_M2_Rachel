@@ -16,8 +16,8 @@ In lab, fish were thaw and 24 morphological measurements were taken on individua
 %Voir script table_tex.Rnw
 \begin{table}[ht]
 \centering
-\label{table:spcount}
 \caption{Number of individuals measured for each species, with their size mean and range values}
+\label{table:spcount}
 \begin{adjustbox}{max width=1.1\textwidth,center}
 \begin{tabular}{lrrr|rl}
   \hline
@@ -68,7 +68,7 @@ Function & Functional trait & Description & Formula  \\
   &Pectoral fin position & Maneuvrability of fish & pfi/pfb \\ 
   &Pectoral fin insertion & Insertion de la pectorale (chercher à quoi ça sert) & ppl/sl \\ 
   &Transversal shape & Position in the water column and hydrodynamism & bd/bw \\ 
-  &Caudal throttle width & Swimming strategy (cruiser/sprinter) & cpd \\ 
+  &Caudal throttle width & Swimming strategy (cruiser/sprinter) and endurance & cpd \\ 
   &Dorsal fin insertion & Swimming behavior (chercher à quoi ça sert) & pdl/sl \\ 
   \hline
   \multirow{2}{*}{Habitat} &Eye position & Position in the water column (pelagic/sedentary) & eh/hd \\ 
@@ -88,7 +88,7 @@ with $Q1$ and $Q3$ being respectively first and third quartile, $IQR = Q3 - Q1$.
 \end{center}{}
 
 
-Missing values that were previously presents in the data set (\textit{n=52}) and those induced by outlier removal function (\textit{n=307}), are then imputed following k-Nearest Neighbor (kNN) method, which as proven to be effective \citep{zhang2012}. Based on non-missing values points, kNN algorithm computes Euclidian distances between points, and assumes that missing value can be approximated by the values of points that are the closest. To this end \emph{tidymodels} R package and \emph{step\_knnimpute} function \citep{kuhn2020} were used, with a number of nearest neighbors (\textit{k}) of $\sqrt{N}$, with $N$ being the number of observations, i.e individuals, of the dataset. Accuracy was then checked with linear regression of each variable with \textsc{sl}. From this cleaned dataset, functional traits were computed using formulas in table \ref{table:functraits}. 
+Missing values that were previously presents in the data set (\textit{n=52}) and those induced by outlier removal function (\textit{n=307}), are then imputed following k-Nearest Neighbor (kNN) method, which as proven to be effective \citep{zhang2012}. Based on non-missing values points, kNN algorithm computes Euclidian distances between points, and assumes that missing value can be approximated by the values of points that are the closest. To this end \emph{tidymodels} R package and \emph{step\_knnimpute} function \citep{kuhn2020} were used, with a number of nearest neighbors (\textit{k}) of $\sqrt{N}$, with $N$ being the number of observations, i.e individuals, of the dataset. Accuracy was then checked with linear regression of each variable with \textsc{sl}. From this cleaned dataset, functional traits were computed using formulas in Table \ref{table:functraits}. 
 
 \subsubsection{Factorial Analysis of Mixed Data (FAMD)}
 To assess similarity or differences in species in terms of traits, FAMD was performed. This type of analysis is suited for dataset containing a mix of qualitative and quantitative variables, and performs PCA (Principal Component Analysis) on quantitative variables and MCA (Multiple Correspondence Analysis) on qualitative variables. In the same way that PCA, FAMD is used to assess similarity/difference of individuals and to check for association between the variables. To this end, \emph{FactoMineR} and especially \emph{FAMD} function were used. Because \textit{Serrivomer beanii} does not have pectoral nor pelvic fins, and because this analysis can not handle missing values, zero values were attributed for \textsc{PFB}, \textsc{PFI}, \textsc{PPL} and \textsc{PVL}. AJOUTER LE FAIT QU'ON AIT FAIT DES ACP AVEC/SANS cette espèce et AVEC/SANS ces variables.
