@@ -22,6 +22,6 @@
 \contentsline {subsection}{\numberline {1}Factorial Analysis of Mixed Data}{18}{subsection.6.1}%
 \contentsline {subsection}{\numberline {2}Functional niche area and overlap}{19}{subsection.6.2}%
 \contentsline {subsection}{\numberline {3}Kernel density estimation}{22}{subsection.6.3}%
-\contentsline {section}{\numberline {A}Phylogenetic tree}{24}{appendix.A}%
-\contentsline {section}{\numberline {B}Morphological measurements}{24}{appendix.B}%
-\contentsline {section}{\numberline {C}Correlation plot}{24}{appendix.C}%
+\contentsline {section}{\numberline {A}Phylogenetic tree}{23}{appendix.A}%
+\contentsline {section}{\numberline {B}Morphological measurements}{23}{appendix.B}%
+\contentsline {section}{\numberline {C}Correlation plot}{23}{appendix.C}%
