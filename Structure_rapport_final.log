@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.8)  31 MAY 2021 12:03
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.8)  31 MAY 2021 22:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -655,46 +655,55 @@ LaTeX Info: Redefining \nameref on input line 67.
 
 Package backref Info: ** backref set up for natbib ** on input line 67.
 
-(c:/texlive/2020/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+(./Title_page.tex
+File: ./Figures//La_Rochelle_Universite.png Graphic file (type bmp)
+<./Figures//La_Rochelle_Universite.png>
+ (c:/texlive/2020/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 69.
+(Font)              <12> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 69.
- [1
+(Font)              <8> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 8.
+File: ./Figures//cebc.jpg Graphic file (type bmp)
+<./Figures//cebc.jpg>
 
-]
-(./Structure_rapport_final.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 5.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 5.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 5.
-)
+Overfull \hbox (25.02963pt too wide) in paragraph at lines 10--12
+[][]
+ []
+
+
+Overfull \hbox (36.42035pt too wide) in paragraph at lines 5--13
+[]$[]$$[]$ 
+ []
+
+[1
+
+]) (./Structure_rapport_final.toc)
 \tf@toc=\write4
 \openout4 = `Structure_rapport_final.toc'.
 
- [2] [3] (./Etat_de_lart_process.tex [4]
+ [1] [2] (./Etat_de_lart_process.tex
+[3]
 File: ./Figures//niche_overlap.png Graphic file (type bmp)
 <./Figures//niche_overlap.png>
-
-[5]
+ [4]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [6] [7]
+ [5] [6]
 Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
-[8] [9]) (./Intro.tex
+[7] [8]) (./Intro.tex
 File: ./Figures//sea_layers.png Graphic file (type bmp)
 <./Figures//sea_layers.png>
- [10] [11]
+ [9] [10]
 Overfull \hbox (0.89835pt too wide) in paragraph at lines 33--35
 \TU/TimesNewRoman(0)/m/n/12 ([][]Davison \TU/TimesNewRoman(0)/m/it/12 et al.[] 
 []\TU/TimesNewRoman(0)/m/n/12 2015[]; [][]Salvanes & Kristoffersen[] []2009[]).
@@ -708,24 +717,24 @@ Overfull \hbox (4.27737pt too wide) in paragraph at lines 33--35
 /12 2021[]; [][]Gjoesaeter & Kawaguchi[]
  []
 
-[12]
+[11]
 File: ./Figures//Biscay_Bay_map.png Graphic file (type bmp)
 <./Figures//Biscay_Bay_map.png>
- [13] [14]) (./Materials_and_methods.tex [15]
+ [12] [13]) (./Materials_and_methods.tex [14]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [16] [17]) (./Results.tex
-[18] [19]
+ [15] [16]) (./Results.tex
+[17] [18]
 File: ./Figures//FAMD_1_2.png Graphic file (type bmp)
 <./Figures//FAMD_1_2.png>
 File: ./Figures//FAMD_3_4.png Graphic file (type bmp)
 <./Figures//FAMD_3_4.png>
- [20] [21] [22]
+ [19] [20] [21]
 File: ./Figures//Density_plot.png Graphic file (type bmp)
 <./Figures//Density_plot.png>
-) (./Discussion.tex [23] [24] [25] [26])
+) (./Discussion.tex [22] [23] [24] [25] [26])
 (./Appendice.tex
 File: ./Figures//phylogenic_tree.png Graphic file (type bmp)
 <./Figures//phylogenic_tree.png>
@@ -748,25 +757,25 @@ File: ./Figures//coord_plot_34.png Graphic file (type bmp)
 \openout5 = `Structure_rapport_final.brf'.
 
  (./babelbst.tex) [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37]
-[38] [39]) [40] (./Structure_rapport_final.aux)
+[38] [39] [40]) [41] (./Structure_rapport_final.aux)
 Package rerunfilecheck Info: File `Structure_rapport_final.out' has not changed
 .
-(rerunfilecheck)             Checksum: F6B0CA90748D0E6F3A3D9FA44014D0F7;6166.
+(rerunfilecheck)             Checksum: D4152670ACE374ECB14062861482B9F7;5817.
 Package rerunfilecheck Info: File `Structure_rapport_final.brf' has not changed
 .
-(rerunfilecheck)             Checksum: E31A476E740E65EB2D44B22EB0B707AC;12793.
+(rerunfilecheck)             Checksum: 43169AC7344F6806E436542D01CBD00D;13706.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 28 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 16964 strings out of 479115
- 309561 string characters out of 5872952
- 752781 words of memory out of 5000000
- 36246 multiletter control sequences out of 15000+600000
- 407615 words of font info for 62 fonts, out of 8000000 for 9000
+ 17020 strings out of 479115
+ 310852 string characters out of 5872952
+ 760147 words of memory out of 5000000
+ 36293 multiletter control sequences out of 15000+600000
+ 406734 words of font info for 63 fonts, out of 8000000 for 9000
  62 hyphenation exceptions out of 8191
- 98i,12n,103p,3270b,9772s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,12n,103p,2383b,9771s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Structure_rapport_final.xdv (40 pages, 944376 bytes).
+Output written on Structure_rapport_final.xdv (42 pages, 1028328 bytes).

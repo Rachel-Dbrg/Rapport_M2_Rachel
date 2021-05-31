@@ -1,4 +1,4 @@
-\begin{thebibliography}{109}
+\begin{thebibliography}{116}
 \providecommand{\natexlab}[1]{#1}
 \input{babelbst.tex}
 \newcommand{\Capitalize}[1]{\uppercase{#1}}
@@ -110,6 +110,13 @@ Childress JJ, Taylor SM, Cailliet GM, Price MH (1980) Patterns of growth,
   {{Southern California}}.
 \newblock \emph{Marine Biology}, \textbf{61}, 27--40.
 
+\bibitem[{Colborne \emph{\bbletal{}}(2013)Colborne, {Peres-Neto}, Longstaffe,
+  \& Neff}]{colborne2013}
+Colborne SF, {Peres-Neto} PR, Longstaffe FJ, Neff BD (2013) Effects of foraging
+  and sexual selection on ecomorphology of a fish with alternative reproductive
+  tactics.
+\newblock \emph{Behavioral Ecology}, \textbf{24}, 1339--1347.
+
 \bibitem[{Company \emph{\bbletal{}}(2008)Company, Puig, Sard{\`a}, Palanques,
   Latasa, \& Scharek}]{company2008}
 Company JB, Puig P, Sard{\`a} F, Palanques A, Latasa M, Scharek R (2008)
@@ -206,6 +213,13 @@ Evans MR (2012) Modelling ecological systems in a changing world.
 \newblock \emph{Philosophical Transactions of the Royal Society B: Biological
   Sciences}, \textbf{367}, 181--190.
 
+\bibitem[{Fanelli \emph{\bbletal{}}(2014)Fanelli, Papiol, Cartes, \&
+  {Rodriguez-Romeu}}]{fanelli2014}
+Fanelli E, Papiol V, Cartes JE, {Rodriguez-Romeu} O (2014) Trophic ecology of
+  {{Lampanyctus}} crocodilus on north-west {{Mediterranean Sea}} slopes in
+  relation to reproductive cycle and environmental variables.
+\newblock \emph{Journal of Fish Biology}, \textbf{84}, 1654--1688.
+
 \bibitem[{Farr{\'e} \emph{\bbletal{}}(2016)Farr{\'e}, Tuset, Cartes,
   Massut{\'i}, \& Lombarte}]{farre2016}
 Farr{\'e} M, Tuset VM, Cartes JE, Massut{\'i} E, Lombarte A (2016)
@@ -298,6 +312,12 @@ Habib SS, Naz S, Mehmood R (2019) Morphometric relationships of some specified
 \bibitem[{Halfar \& Fujita(2002)}]{halfar2002}
 Halfar J, Fujita RM (2002) Precautionary management of deep-sea mining.
 \newblock \emph{Marine Policy}, \textbf{26}, 103--106.
+
+\bibitem[{Ho \& Duhamel(2019)}]{ho2019}
+Ho HC, Duhamel G (2019) A new species of the fish genus {{Arctozenus}} from the
+  {{Kerguelen Islands}}, with comments on the lost teeth in adults
+  ({{Aulopiformes}}: {{Paralepididae}}).
+\newblock \emph{Zootaxa}, \textbf{4651}, 497--512.
 
 \bibitem[{Horn(1966)}]{horn1966}
 Horn HS (1966) Measurement of ''{{Overlap}}" in comparative ecological studies.
@@ -428,6 +448,12 @@ Nagelkerke LA, {van Onselen} E, {van Kessel} N, Leuven RS (2018) Functional
 Norton SF (1995) A functional approach to ecomorphological patterns of feeding
   in cottid fishes.
 \newblock \emph{Environmental Biology of Fishes}, \textbf{44}, 18.
+
+\bibitem[{Novotny(2018)}]{novotny2018}
+Novotny M (2018) The {{Assemblage Structure}} and {{Trophic Ecology}} of a
+  {{Deep}}-{{Pelagic Fish Family}} ({{Platytroctidae}}) in the {{Gulf}} of
+  {{Mexico}}.
+\newblock \emph{HCNSO Student Theses and Dissertations}, \bblp{}~69.
 
 \bibitem[{Olden \& Jackson(2002)}]{olden2002}
 Olden J, Jackson D (2002) A comparison of statistical approaches for modelling
@@ -600,6 +626,11 @@ Sutton T, Sigurdsson T (2008) Vertical and horizontal distribution of
   Ridge}}.
 \newblock \emph{ICES Journal of Marine Science}, \textbf{CM 2008}, 1.12.
 
+\bibitem[{Sutton(2013)}]{sutton2013a}
+Sutton TT (2013) Vertical ecology of the pelagic ocean: Classical patterns and
+  new perspectives: Vertical ecology of the pelagic ocean.
+\newblock \emph{Journal of Fish Biology}, \textbf{83}, 1508--1527.
+
 \bibitem[{Sutton \& Hopkins(1996)}]{sutton1996}
 Sutton TT, Hopkins TL (1996) Trophic ecology of the stomiid ({{Pisces}}:
   {{Stomiidae}}) fish assemblage of the eastern {{Gulf}} of {{Mexico}}:
@@ -619,6 +650,12 @@ Sutton TT, Letessier TB, Bardarson B (2013) Midwater fishes collected in the
 Todo Y, Kitazato H, Hashimoto J, Gooday AJ (2005) Simple {{Foraminifera
   Flourish}} at the {{Ocean}}'s {{Deepest Point}}.
 \newblock \emph{Science}, \textbf{307}, 689--689.
+
+\bibitem[{Tucker \emph{\bbletal{}}(2018)Tucker, Davies, Cadotte, \&
+  Pearse}]{tucker2018}
+Tucker CM, Davies TJ, Cadotte MW, Pearse WD (2018) On the relationship between
+  phylogenetic diversity and trait diversity.
+\newblock \emph{Ecology}, \textbf{99}, 1473--1479.
 
 \bibitem[{{van den Beld} \emph{\bbletal{}}(2017{\natexlab{a}}){van den Beld},
   Guillaumont, Menot, Bayle, {Arnaud-Haond}, \& Bourillet}]{vandenbeld2017}
@@ -640,6 +677,11 @@ Todo Y, Kitazato H, Hashimoto J, Gooday AJ (2005) Simple {{Foraminifera
 Violle C, Navas ML, Vile D, \emph{\bbletal{}} (2007) Let the concept of trait
   be functional!
 \newblock \emph{Oikos}, \textbf{116}, 882--892.
+
+\bibitem[{Wainwright \& Richard(1995)}]{wainwright1995}
+Wainwright PC, Richard BA (1995) Predicting patterns of prey use from
+  morphology of fishes.
+\newblock \emph{Environmental Biology of Fishes}, \textbf{44}, 97--113.
 
 \bibitem[{Webb(1984)}]{webb1984}
 Webb PW (1984) Form and function in fish swimming.

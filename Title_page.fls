@@ -1,0 +1,8 @@
+PWD C:/Users/rache/Documents/Cours/Stage_M2/Redac
+INPUT c:/texlive/2020/texmf.cnf
+INPUT c:/texlive/2020/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt
+INPUT Title_page.tex
+OUTPUT Title_page.log
+OUTPUT Title_page.xdv
+INPUT Title_page.aux

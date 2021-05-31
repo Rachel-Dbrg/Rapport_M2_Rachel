@@ -1,0 +1,14 @@
+# Fdb version 3
+["xdvipdfmx"] 1622459961 "Title_page.xdv" "Title_page.pdf" "Title_page" 1622459962
+  "Title_page.xdv" 1622459961 1836 c7c61998deb6e7aaf81d806ce1c7af8f "xelatex"
+  (generated)
+  "Title_page.pdf"
+["xelatex"] 1622459960 "Title_page.tex" "Title_page.xdv" "Title_page" 1622459962
+  "Title_page.aux" 1622459959 9 a94a2480d3289e625eea47cd1b285758 ""
+  "Title_page.tex" 1622459959 1085 909becde7c226898e0e3a2cc40089906 ""
+  "c:/texlive/2020/texmf-dist/web2c/texmf.cnf" 1612802400 39451 15a3ebee027466ecb89701aa91dfebaf ""
+  "c:/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt" 1612806863 3602924 e93bb009aba9b4491c0c49f0aa8cf7cd ""
+  "c:/texlive/2020/texmf.cnf" 1612806575 713 e69b156964470283e0530f5060668171 ""
+  (generated)
+  "Title_page.xdv"
+  "Title_page.log"
