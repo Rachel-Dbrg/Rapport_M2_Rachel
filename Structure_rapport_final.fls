@@ -901,9 +901,9 @@ INPUT Intro.tex
 INPUT ./Figures//sea_layers.png
 INPUT ./Figures//sea_layers.png
 INPUT ./Figures//sea_layers.png
-INPUT ./Figures//Biscay_Bay_map.jpg
-INPUT ./Figures//Biscay_Bay_map.jpg
-INPUT ./Figures//Biscay_Bay_map.jpg
+INPUT ./Figures//Biscay_Bay_map.png
+INPUT ./Figures//Biscay_Bay_map.png
+INPUT ./Figures//Biscay_Bay_map.png
 INPUT ./Materials_and_methods.tex
 INPUT Materials_and_methods.tex
 INPUT ./Materials_and_methods.tex
@@ -921,6 +921,10 @@ INPUT ./Figures//FAMD_3_4.png
 INPUT ./Figures//Density_plot.png
 INPUT ./Figures//Density_plot.png
 INPUT ./Figures//Density_plot.png
+INPUT ./Discussion.tex
+INPUT Discussion.tex
+INPUT ./Discussion.tex
+INPUT Discussion.tex
 INPUT ./Appendice.tex
 INPUT Appendice.tex
 INPUT ./Appendice.tex

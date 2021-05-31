@@ -1,4 +1,4 @@
-\begin{thebibliography}{104}
+\begin{thebibliography}{109}
 \providecommand{\natexlab}[1]{#1}
 \input{babelbst.tex}
 \newcommand{\Capitalize}[1]{\uppercase{#1}}
@@ -36,6 +36,13 @@ Aneesh~Kumar K, Tuset V, Manjebrayakath H, \emph{\bbletal{}} (2017) Functional
 Baker M, {Ramirez-Llodra} E, Tyler P (2020) \emph{Natural {{Capital}} and
   {{Exploitation}} of the {{Deep Ocean}}}.
 \newblock {Oxford University Press}.
+
+\bibitem[{B{\'e}arez \emph{\bbletal{}}(2017)B{\'e}arez, Pruvost, Feunteun
+  \emph{\bbletal{}}}]{bearez2017}
+B{\'e}arez P, Pruvost P, Feunteun E, \emph{\bbletal{}} (2017) Checklist of the
+  marine fishes from metropolitan {{France}}.
+\newblock \emph{Cybium: international journal of ichthyology}, \textbf{41},
+  351--371.
 
 \bibitem[{Blondel \& Bourli{\`e}re(1979)}]{blondel1979}
 Blondel J, Bourli{\`e}re F (1979) La niche \'ecologique, mythe ou r\'ealit\'e ?
@@ -186,6 +193,13 @@ Diderich WP (2006) Ecomorphology as a predictor of fish diet: A case study on
 Dumay O, Tari PS, Tomasini JA, Mouillot D (2004) Functional groups of lagoon
   fish species in {{Languedoc}}-{{Roussillon}}, southern france.
 \newblock \emph{Journal of Fish Biology}, \textbf{64}, 970--983.
+
+\bibitem[{Eduardo \emph{\bbletal{}}(2020)Eduardo, Bertrand, Mincarone
+  \emph{\bbletal{}}}]{eduardo2020}
+Eduardo LN, Bertrand A, Mincarone MM, \emph{\bbletal{}} (2020) Hatchetfishes
+  (stomiiformes: Sternoptychidae) biodiversity, trophic ecology, vertical niche
+  partitioning and functional roles in the western tropical atlantic.
+\newblock \emph{Progress in Oceanography}, \textbf{187}, 102389.
 
 \bibitem[{Evans(2012)}]{evans2012}
 Evans MR (2012) Modelling ecological systems in a changing world.
@@ -364,6 +378,13 @@ Martini S, Larras F, Boy{\'e} A, \emph{\bbletal{}} (2020) Functional
   trait-based approaches as a common framework for aquatic ecologists.
 \newblock \emph{Limnology and Oceanography}, \bblp{} lno.11655.
 
+\bibitem[{Mason \emph{\bbletal{}}(2008)Mason, Irz, Lanoisel{\'e}e, Mouillot, \&
+  Argillier}]{mason2008}
+Mason NWH, Irz P, Lanoisel{\'e}e C, Mouillot D, Argillier C (2008) Evidence
+  that niche specialization explains species\textendash energy relationships in
+  lake fish communities.
+\newblock \emph{Journal of Animal Ecology}, \textbf{77}, 285--296.
+
 \bibitem[{Mcgill \emph{\bbletal{}}(2006)Mcgill, Enquist, Weiher, \&
   Westoby}]{mcgill2006}
 Mcgill B, Enquist B, Weiher E, Westoby M (2006) Rebuilding community ecology
@@ -395,12 +416,6 @@ Mouillot D, Stubbs W, Faure M, \emph{\bbletal{}} (2005) Niche overlap estimates
   based on quantitative functional traits: {{A}} new family of non-parametric
   indices.
 \newblock \emph{Oecologia}, \textbf{145}, 345--53.
-
-\bibitem[{Mulder \emph{\bbletal{}}(2012)Mulder, Zaragosi, Garlan
-  \emph{\bbletal{}}}]{mulder2012}
-Mulder T, Zaragosi S, Garlan T, \emph{\bbletal{}} (2012) Present deep-submarine
-  canyons activity in the {{Bay}} of {{Biscay}} ({{NE Atlantic}}).
-\newblock \emph{Marine Geology}, \textbf{295-298}, 113--127.
 
 \bibitem[{Nagelkerke \emph{\bbletal{}}(2018)Nagelkerke, {van Onselen}, {van
   Kessel}, \& Leuven}]{nagelkerke2018}
@@ -538,6 +553,13 @@ Salvanes A, Kristoffersen J (2009) Mesopelagic fishes.
 Schoener TW (1968) Sizes of feeding territories among birds.
 \newblock \emph{Ecology}, \textbf{49}, 123--141.
 
+\bibitem[{Schoenfuss \& Blob(2007)}]{schoenfuss2007}
+Schoenfuss H, Blob R (2007) The importance of functional morphology for fishery
+  conservation and management: {{Applications}} to {{Hawaiian}} amphidromous
+  fishes.
+\newblock \emph{Bishop Museum Bulletin in Cultural and Environmental Studies},
+  \textbf{3}.
+
 \bibitem[{Sibbing \& Nagelkerke(2000)}]{sibbing2000}
 Sibbing FA, Nagelkerke LA (2000) Resource partioning by {{Lake Tana}} barbs
   predicted from fish morphometrics and prey characteristics.
@@ -571,6 +593,18 @@ Stefanescu C, {Nin-Morales} B, Massuti E (1994) Fish assemblages on the slope
 Sutherland WJ, Freckleton RP, Godfray HCJ, \emph{\bbletal{}} (2013)
   Identification of 100 fundamental ecological questions.
 \newblock \emph{Journal of Ecology}, \textbf{101}, 58--67.
+
+\bibitem[{Sutton \& Sigurdsson(2008)}]{sutton2008}
+Sutton T, Sigurdsson T (2008) Vertical and horizontal distribution of
+  mesopelagic fishes along a transect across the northern {{Mid}}-{{Atlantic
+  Ridge}}.
+\newblock \emph{ICES Journal of Marine Science}, \textbf{CM 2008}, 1.12.
+
+\bibitem[{Sutton \& Hopkins(1996)}]{sutton1996}
+Sutton TT, Hopkins TL (1996) Trophic ecology of the stomiid ({{Pisces}}:
+  {{Stomiidae}}) fish assemblage of the eastern {{Gulf}} of {{Mexico}}:
+  {{Strategies}}, selectivity and impact of a top mesopelagic predator group.
+\newblock \emph{Marine Biology}, \textbf{127}, 179--192.
 
 \bibitem[{Sutton \emph{\bbletal{}}(2013)Sutton, Letessier, \&
   Bardarson}]{sutton2013}
