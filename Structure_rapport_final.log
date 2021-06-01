@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.8)  31 MAY 2021 22:37
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.8)  1 JUN 2021 10:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -682,28 +682,37 @@ Overfull \hbox (36.42035pt too wide) in paragraph at lines 5--13
 
 [1
 
-]) (./Structure_rapport_final.toc)
+]) [1] (./Structure_rapport_final.toc)
 \tf@toc=\write4
 \openout4 = `Structure_rapport_final.toc'.
 
- [1] [2] (./Etat_de_lart_process.tex
-[3]
+ (./Structure_rapport_final.lof
+[2])
+\tf@lof=\write5
+\openout5 = `Structure_rapport_final.lof'.
+
+ [3] (./Structure_rapport_final.lot)
+\tf@lot=\write6
+\openout6 = `Structure_rapport_final.lot'.
+
+ [4] (./Etat_de_lart_process.tex
+[5]
 File: ./Figures//niche_overlap.png Graphic file (type bmp)
 <./Figures//niche_overlap.png>
- [4]
+ [6]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [5] [6]
+ [7] [8]
 Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
-[7] [8]) (./Intro.tex
+[9] [10]) (./Intro.tex
 File: ./Figures//sea_layers.png Graphic file (type bmp)
 <./Figures//sea_layers.png>
- [9] [10]
+ [11] [12]
 Overfull \hbox (0.89835pt too wide) in paragraph at lines 33--35
 \TU/TimesNewRoman(0)/m/n/12 ([][]Davison \TU/TimesNewRoman(0)/m/it/12 et al.[] 
 []\TU/TimesNewRoman(0)/m/n/12 2015[]; [][]Salvanes & Kristoffersen[] []2009[]).
@@ -717,25 +726,30 @@ Overfull \hbox (4.27737pt too wide) in paragraph at lines 33--35
 /12 2021[]; [][]Gjoesaeter & Kawaguchi[]
  []
 
-[11]
+[13]
 File: ./Figures//Biscay_Bay_map.png Graphic file (type bmp)
 <./Figures//Biscay_Bay_map.png>
- [12] [13]) (./Materials_and_methods.tex [14]
+ [14] [15]) (./Materials_and_methods.tex [16]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [15] [16]) (./Results.tex
-[17] [18]
+ [17] [18]) (./Results.tex
+[19] [20]
 File: ./Figures//FAMD_1_2.png Graphic file (type bmp)
 <./Figures//FAMD_1_2.png>
 File: ./Figures//FAMD_3_4.png Graphic file (type bmp)
 <./Figures//FAMD_3_4.png>
- [19] [20] [21]
+ [21] [22] [23]
 File: ./Figures//Density_plot.png Graphic file (type bmp)
 <./Figures//Density_plot.png>
-) (./Discussion.tex [22] [23] [24] [25] [26])
-(./Appendice.tex
+) (./Discussion.tex [24] [25] [26] [27] [28] [29])
+(./Structure_rapport_final.bbl (./Structure_rapport_final.brf)
+\tf@brf=\write7
+\openout7 = `Structure_rapport_final.brf'.
+
+ (./babelbst.tex) [30] [31] [32] [33] [34] [35] [36] [37] [38]) (./Appendice.te
+x
 File: ./Figures//phylogenic_tree.png Graphic file (type bmp)
 <./Figures//phylogenic_tree.png>
 File: ./Figures//Tp_Jerome_figure_1.png Graphic file (type bmp)
@@ -752,30 +766,26 @@ File: ./Figures//Correlation_circle.png Graphic file (type bmp)
 <./Figures//Correlation_circle.png>
 File: ./Figures//coord_plot_34.png Graphic file (type bmp)
 <./Figures//coord_plot_34.png>
-) (./Structure_rapport_final.bbl (./Structure_rapport_final.brf)
-\tf@brf=\write5
-\openout5 = `Structure_rapport_final.brf'.
-
- (./babelbst.tex) [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37]
-[38] [39] [40]) [41] (./Structure_rapport_final.aux)
+) [39] [40]
+[41] [42] [43] [44] (./Structure_rapport_final.aux)
 Package rerunfilecheck Info: File `Structure_rapport_final.out' has not changed
 .
 (rerunfilecheck)             Checksum: D4152670ACE374ECB14062861482B9F7;5817.
 Package rerunfilecheck Info: File `Structure_rapport_final.brf' has not changed
 .
-(rerunfilecheck)             Checksum: 43169AC7344F6806E436542D01CBD00D;13706.
+(rerunfilecheck)             Checksum: 276B13E543043C9F6E7157DCC3DA3682;14793.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 28 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 17020 strings out of 479115
- 310852 string characters out of 5872952
- 760147 words of memory out of 5000000
- 36293 multiletter control sequences out of 15000+600000
+ 17036 strings out of 479115
+ 311152 string characters out of 5872952
+ 760917 words of memory out of 5000000
+ 36303 multiletter control sequences out of 15000+600000
  406734 words of font info for 63 fonts, out of 8000000 for 9000
  62 hyphenation exceptions out of 8191
- 98i,12n,103p,2383b,9771s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,12n,103p,2383b,9775s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Structure_rapport_final.xdv (42 pages, 1028328 bytes).
+Output written on Structure_rapport_final.xdv (45 pages, 1112492 bytes).

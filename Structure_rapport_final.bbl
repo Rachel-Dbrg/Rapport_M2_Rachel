@@ -1,4 +1,4 @@
-\begin{thebibliography}{116}
+\begin{thebibliography}{117}
 \providecommand{\natexlab}[1]{#1}
 \input{babelbst.tex}
 \newcommand{\Capitalize}[1]{\uppercase{#1}}
@@ -404,6 +404,11 @@ Mason NWH, Irz P, Lanoisel{\'e}e C, Mouillot D, Argillier C (2008) Evidence
   that niche specialization explains species\textendash energy relationships in
   lake fish communities.
 \newblock \emph{Journal of Animal Ecology}, \textbf{77}, 285--296.
+
+\bibitem[{Mauchline \& Gordon(1983)}]{mauchline1983}
+Mauchline J, Gordon JDM (1983) Diets of clupeoid, stomiatoid and salmonoid fish
+  of the {{Rockall Trough}}, northeastern {{Atlantic Ocean}}.
+\newblock \emph{Marine Biology}, \textbf{77}, 67--78.
 
 \bibitem[{Mcgill \emph{\bbletal{}}(2006)Mcgill, Enquist, Weiher, \&
   Westoby}]{mcgill2006}
