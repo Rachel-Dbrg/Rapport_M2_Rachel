@@ -1,4 +1,4 @@
-\begin{thebibliography}{117}
+\begin{thebibliography}{121}
 \providecommand{\natexlab}[1]{#1}
 \input{babelbst.tex}
 \newcommand{\Capitalize}[1]{\uppercase{#1}}
@@ -85,11 +85,12 @@ Canals M, Puig P, {de Madron} XD, Heussner S, Palanques A, Fabres J (2006)
   Flushing submarine canyons.
 \newblock \emph{Nature}, \textbf{444}, 354--357.
 
-\bibitem[{Carrass{\'o}n \& Cartes(2002)}]{carrasson2002}
-Carrass{\'o}n M, Cartes JE (2002) Trophic relationships in a {{Mediterranean}}
-  deep-sea fish community: Partition of food resources, dietary overlap and
-  connections within the benthic boundary layer.
-\newblock \emph{Marine Ecology Progress Series}, \textbf{241}, 41--55.
+\bibitem[{Carrington \emph{\bbletal{}}(2021)Carrington, Papa, Beese
+  \emph{\bbletal{}}}]{carrington2021}
+Carrington VG, Papa Y, Beese CM, \emph{\bbletal{}} (2021) How functionally
+  diverse are fish in the deep? {{A}} comparison of fish communities in deep
+  and shallow-water systems.
+\newblock \emph{Diversity and Distributions}, \textbf{n/a}.
 
 \bibitem[{Carvalho \& Almeida(1988)}]{carvalho1988}
 Carvalho F, Almeida A (1988) Notes on {\emph{xenodermichthys copei}}({{Gill}},
@@ -144,6 +145,21 @@ Cook AB, Sutton TT, Galbraith JK, Vecchione M (2013) Deep-pelagic (0\textendash
 Cooke RSC, Eigenbrod F, Bates AE (2020) Ecological distinctiveness of birds and
   mammals at the global scale.
 \newblock \emph{Global Ecology and Conservation}, \textbf{22}, e00970.
+
+\bibitem[{{Costa-Pereira} \emph{\bbletal{}}(2019){Costa-Pereira}, Ara{\'u}jo,
+  Souza, \& Ingram}]{costa-pereira2019}
+{Costa-Pereira} R, Ara{\'u}jo MS, Souza FL, Ingram T (2019) Competition and
+  resource breadth shape niche variation and overlap in multiple trophic
+  dimensions.
+\newblock \emph{Proceedings of the Royal Society B: Biological Sciences},
+  \textbf{286}, 20190369.
+
+\bibitem[{{da Silva} \emph{\bbletal{}}(2019){da Silva}, {Silva-Firmiano},
+  Teresa, Batista, Ladle, \& Fabr{\'e}}]{dasilva2019}
+{da Silva} VEL, {Silva-Firmiano} LPS, Teresa FB, Batista VS, Ladle RJ,
+  Fabr{\'e} NN (2019) Functional {{Traits}} of {{Fish Species}}: {{Adjusting
+  Resolution}} to {{Accurately Express Resource Partitioning}}.
+\newblock \emph{Frontiers in Marine Science}, \textbf{6}.
 
 \bibitem[{Danovaro(2014)}]{danovaro2014}
 Danovaro R (2014) Challenging the paradigms of deep-sea ecology.
@@ -499,6 +515,13 @@ Pease AA, Taylor JM, Winemiller KO, King RS (2015) Ecoregional, catchment, and
   fish assemblages.
 \newblock \emph{Hydrobiologia}, \textbf{753}, 265--283.
 
+\bibitem[{Pereira \emph{\bbletal{}}(2020)Pereira, Rodr{\'i}guez,
+  {Blasco-Monleon}, Porter, Lewis, \& Pham}]{pereira2020}
+Pereira JM, Rodr{\'i}guez Y, {Blasco-Monleon} S, Porter A, Lewis C, Pham CK
+  (2020) Microplastic in the stomachs of open-ocean and deep-sea fishes of the
+  {{North}}-{{East Atlantic}}.
+\newblock \emph{Environmental Pollution}, \textbf{265}, 115060.
+
 \bibitem[{Pianka(1973)}]{pianka1973}
 Pianka ER (1973) The structure of lizard communities.
 \newblock \emph{Annual Review of Ecology and Systematics}, \textbf{4}, 53--74.
@@ -676,6 +699,11 @@ Tucker CM, Davies TJ, Cadotte MW, Pearse WD (2018) On the relationship between
   (2017{\natexlab{b}}) Cold-{{Water Coral Habitats}} in {{Submarine Canyons}}
   of the {{Bay}} of {{Biscay}}.
 \newblock \emph{Frontiers in Marine Science}, \textbf{4}.
+
+\bibitem[{Vill{\'e}ger(2017)}]{villeger2017}
+Vill{\'e}ger S (2017) Functional ecology of fish: Current approaches and future
+  challenges.
+\newblock \emph{Aquatic Science}, \bblp{}~19.
 
 \bibitem[{Violle \emph{\bbletal{}}(2007)Violle, Navas, Vile
   \emph{\bbletal{}}}]{violle2007}
