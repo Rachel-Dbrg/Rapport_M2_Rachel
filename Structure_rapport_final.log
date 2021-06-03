@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.8)  3 JUN 2021 15:20
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.8)  3 JUN 2021 18:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -323,22 +323,10 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 (c:/texlive/2020/texmf-dist/tex/latex/xcolor/svgnam.def
 File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
 ))
-(c:/texlive/2020/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box55
-\beforetitleunit=\skip55
-\aftertitleunit=\skip56
-\ttl@plus=\dimen172
-\ttl@minus=\dimen173
-\ttl@toksa=\toks24
-\titlewidth=\dimen174
-\titlewidthlast=\dimen175
-\titlewidthfirst=\dimen176
-)
 (c:/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip57
-\bibsep=\skip58
+\bibhang=\skip55
+\bibsep=\skip56
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count281
 )
@@ -380,7 +368,7 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 (c:/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
-\@linkdim=\dimen177
+\@linkdim=\dimen172
 \Hy@linkcounter=\count282
 \Hy@pagecounter=\count283
 
@@ -439,14 +427,14 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4790.
-\XeTeXLinkMargin=\dimen178
+\XeTeXLinkMargin=\dimen173
 
 (c:/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 )
 \Fld@menulength=\count286
-\Field@Width=\dimen179
-\Fld@charsize=\dimen180
+\Field@Width=\dimen174
+\Fld@charsize=\dimen175
 Package hyperref Info: Hyper figures OFF on input line 6061.
 Package hyperref Info: Link nesting OFF on input line 6066.
 Package hyperref Info: Hyper index ON on input line 6069.
@@ -475,36 +463,37 @@ File: hxetex.def 2021-02-07 v7.00h Hyperref driver for XeTeX
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\pdfm@box=\box56
+\pdfm@box=\box55
 \c@Hy@AnnotLevel=\count290
 \HyField@AnnotCount=\count291
 \Fld@listcount=\count292
 \c@bookmark@seq@number=\count293
-\Hy@SectionHShift=\skip59
+\Hy@SectionHShift=\skip57
 )
 (c:/texlive/2020/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \c@tracingmulticols=\count294
-\mult@box=\box57
-\multicol@leftmargin=\dimen181
+\mult@box=\box56
+\multicol@leftmargin=\dimen176
 \c@unbalance=\count295
 \c@collectmore=\count296
 \doublecol@number=\count297
 \multicoltolerance=\count298
 \multicolpretolerance=\count299
-\full@width=\dimen182
-\page@free=\dimen183
-\premulticols=\dimen184
-\postmulticols=\dimen185
-\multicolsep=\skip60
-\multicolbaselineskip=\skip61
-\partial@page=\box58
-\last@line=\box59
-\maxbalancingoverflow=\dimen186
-\mult@rightbox=\box60
-\mult@grightbox=\box61
-\mult@gfirstbox=\box62
-\mult@firstbox=\box63
+\full@width=\dimen177
+\page@free=\dimen178
+\premulticols=\dimen179
+\postmulticols=\dimen180
+\multicolsep=\skip58
+\multicolbaselineskip=\skip59
+\partial@page=\box57
+\last@line=\box58
+\maxbalancingoverflow=\dimen181
+\mult@rightbox=\box59
+\mult@grightbox=\box60
+\mult@gfirstbox=\box61
+\mult@firstbox=\box62
+\@tempa=\box63
 \@tempa=\box64
 \@tempa=\box65
 \@tempa=\box66
@@ -541,15 +530,14 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \@tempa=\box97
 \@tempa=\box98
 \@tempa=\box99
-\@tempa=\box100
 \c@minrows=\count300
 \c@columnbadness=\count301
 \c@finalcolumnbadness=\count302
-\last@try=\dimen187
-\multicolovershoot=\dimen188
-\multicolundershoot=\dimen189
-\mult@nat@firstbox=\box101
-\colbreak@box=\box102
+\last@try=\dimen182
+\multicolovershoot=\dimen183
+\multicolundershoot=\dimen184
+\mult@nat@firstbox=\box100
+\colbreak@box=\box101
 \mc@col@check@num=\count303
 )
 (c:/texlive/2020/texmf-dist/tex/latex/appendix/appendix.sty
@@ -561,33 +549,33 @@ Package: appendix 2020/02/08 v1.2c extra appendix facilities
 (./Structure_rapport_final.aux)
 \openout1 = `Structure_rapport_final.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 6
-7.
+6.
 
 (c:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Info: Redefining \microtypecontext on input line 67.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Info: Redefining \microtypecontext on input line 66.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -633,7 +621,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 67.
+Package hyperref Info: Link coloring OFF on input line 66.
 (c:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -645,15 +633,15 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count307
 )
-LaTeX Info: Redefining \ref on input line 67.
-LaTeX Info: Redefining \pageref on input line 67.
-LaTeX Info: Redefining \nameref on input line 67.
+LaTeX Info: Redefining \ref on input line 66.
+LaTeX Info: Redefining \pageref on input line 66.
+LaTeX Info: Redefining \nameref on input line 66.
 
 (./Structure_rapport_final.out) (./Structure_rapport_final.out)
 \@outlinefile=\write3
 \openout3 = `Structure_rapport_final.out'.
 
-Package backref Info: ** backref set up for natbib ** on input line 67.
+Package backref Info: ** backref set up for natbib ** on input line 66.
 
 (./Title_page.tex
 File: ./Figures//La_Rochelle_Universite.png Graphic file (type bmp)
@@ -671,48 +659,45 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: ./Figures//cebc.jpg Graphic file (type bmp)
 <./Figures//cebc.jpg>
 
-Overfull \hbox (25.02963pt too wide) in paragraph at lines 10--12
-[][]
- []
-
-
 Overfull \hbox (36.42035pt too wide) in paragraph at lines 5--13
 []$[]$$[]$ 
  []
 
 [1
 
-]) [1] (./Structure_rapport_final.toc)
+]) (./Acknowledgements.tex) [1] (./Structure_rapport_final.toc)
 \tf@toc=\write4
 \openout4 = `Structure_rapport_final.toc'.
 
- [2] (./Structure_rapport_final.lof)
+
+(./Structure_rapport_final.lof [2])
 \tf@lof=\write5
 \openout5 = `Structure_rapport_final.lof'.
 
-
-(./Structure_rapport_final.lot)
+ (./Structure_rapport_final.lot)
 \tf@lot=\write6
 \openout6 = `Structure_rapport_final.lot'.
 
- [3] (./Etat_de_lart_process.tex [4]
+ [3]
+(./Host_structure.tex) [4
+
+] (./Etat_de_lart_process.tex [5]
 File: ./Figures//niche_overlap.png Graphic file (type bmp)
 <./Figures//niche_overlap.png>
- [5]
+ [6]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-[6] [7]
+ [7] [8]
 Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
 
-[8] [9]) (./Intro.tex
+[9] [10]) (./Intro.tex
 File: ./Figures//sea_layers.png Graphic file (type bmp)
 <./Figures//sea_layers.png>
- [10] [11]
+ [11]
 Overfull \hbox (0.89835pt too wide) in paragraph at lines 33--35
 \TU/TimesNewRoman(0)/m/n/12 ([][]Davison \TU/TimesNewRoman(0)/m/it/12 et al.[] 
 []\TU/TimesNewRoman(0)/m/n/12 2015[]; [][]Salvanes & Kristoffersen[] []2009[]).
@@ -726,21 +711,21 @@ Overfull \hbox (4.27737pt too wide) in paragraph at lines 33--35
 /12 2021[]; [][]Gjoesaeter & Kawaguchi[]
  []
 
-[12]
+[12] [13]
 File: ./Figures//Biscay_Bay_map.png Graphic file (type bmp)
 <./Figures//Biscay_Bay_map.png>
- [13]) (./Materials_and_methods.tex [14]
+ [14]) (./Materials_and_methods.tex [15]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [15] [16] [17]) (./Results.tex
-[18]
+ [16] [17] [18])
+(./Results.tex [19]
 File: ./Figures//FAMD_1_2.png Graphic file (type bmp)
 <./Figures//FAMD_1_2.png>
 File: ./Figures//FAMD_3_4.png Graphic file (type bmp)
 <./Figures//FAMD_3_4.png>
- [19] [20] [21] [22] [23]
+ [20] [21] [22] [23]
 File: ./Figures//Density_plot.png Graphic file (type bmp)
 <./Figures//Density_plot.png>
 ) (./Discussion.tex
@@ -754,17 +739,17 @@ Overfull \hbox (8.5425pt too wide) in paragraph at lines 6--7
 parameters were not taken into account. Though,
  []
 
-
+[26]
 Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-[26] [27] [28] [29]
+[27] [28] [29]
 Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
 
-) (./Conclusion.tex [30]) [31]
+[30]) (./Conclusion.tex [31]) [32]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -807,20 +792,20 @@ Underfull \hbox (badness 7344) in paragraph at lines 10--10
 []\TU/TimesNewRoman(0)/m/n/12 (2018-06-17CDT19:13:06-05:00) The Deep Sea ~
  []
 
-[32
+[33
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 246--246
 []\TU/TimesNewRoman(0)/m/n/12 Dumay O, Tari PS, Tomasini JA, Mouillot D
  []
 
-[33] [34]
+[34] [35] [36]
 Underfull \hbox (badness 7047) in paragraph at lines 482--482
 []\TU/TimesNewRoman(0)/m/n/12 Mejri S (2009) \TU/TimesNewRoman(0)/m/it/12 Carac
 térisation Fonctionnelle de
  []
 
-[35] [36] [37]) [38] (./Appendice.tex
+[37] [38]) [39] (./Appendice.tex
 File: ./Figures//phylogenic_tree.png Graphic file (type bmp)
 <./Figures//phylogenic_tree.png>
 File: ./Figures//Tp_Jerome_figure_1.png Graphic file (type bmp)
@@ -837,10 +822,9 @@ File: ./Figures//Correlation_circle.png Graphic file (type bmp)
 <./Figures//Correlation_circle.png>
 File: ./Figures//coord_plot_34.png Graphic file (type bmp)
 <./Figures//coord_plot_34.png>
-) [39
+) [40
 
-] [40] [41] [42] [43] [44]
-(./Abstract.tex
+] [41] [42] [43] [44] [45] (./Abstract.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
@@ -850,27 +834,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
-) [45
+) [46
 
 ] (./Structure_rapport_final.aux)
 Package rerunfilecheck Info: File `Structure_rapport_final.out' has not changed
 .
-(rerunfilecheck)             Checksum: 5E80E689942B7B26C3E5E2C2D2778AA8;5879.
+(rerunfilecheck)             Checksum: 3A999AE6FFC9AF94E46218A15C283223;5861.
 Package rerunfilecheck Info: File `Structure_rapport_final.brf' has not changed
 .
-(rerunfilecheck)             Checksum: EF113819A9DDB2AEE9380CC346212C39;16665.
+(rerunfilecheck)             Checksum: A525521842CD2CAF02CA05B9C4220F8F;15072.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 28 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 17109 strings out of 479115
- 312578 string characters out of 5872952
- 760356 words of memory out of 5000000
- 36368 multiletter control sequences out of 15000+600000
- 406750 words of font info for 65 fonts, out of 8000000 for 9000
+ 16839 strings out of 479115
+ 309256 string characters out of 5872952
+ 750794 words of memory out of 5000000
+ 36095 multiletter control sequences out of 15000+600000
+ 406758 words of font info for 66 fonts, out of 8000000 for 9000
  62 hyphenation exceptions out of 8191
- 98i,12n,103p,2323b,9907s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,12n,103p,2323b,9498s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Structure_rapport_final.xdv (46 pages, 1260536 bytes).
+Output written on Structure_rapport_final.xdv (47 pages, 1295712 bytes).

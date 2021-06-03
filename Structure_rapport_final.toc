@@ -1,30 +1,30 @@
 \babel@toc {english}{}
-\contentsline {section}{\numberline {}Acknowledgements}{1}{section.1}%
-\contentsline {section}{\numberline {}Présentation de la structure d'accueil}{3}{section.2}%
-\contentsline {section}{\numberline {}Literature review}{4}{section.3}%
-\contentsline {subsection}{\numberline {1}Structure and dynamics of ecosystems: how can species coexist in same environment?}{4}{subsection.3.1}%
-\contentsline {subsection}{\numberline {2}Concepts and definition for studying ecosystems’ dynamic.}{4}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3}Tools to study diversity in ecosystems and their limits}{5}{subsection.3.3}%
-\contentsline {subsection}{\numberline {4}Emergence of a more global approach based on functional traits.}{7}{subsection.3.4}%
-\contentsline {subsubsection}{\numberline {4.1}General overview}{7}{subsubsection.3.4.1}%
-\contentsline {subsubsection}{\numberline {4.2}Improvement of the method over the years}{7}{subsubsection.3.4.2}%
-\contentsline {subsection}{\numberline {5}The advent of functional diversity}{8}{subsection.3.5}%
-\contentsline {subsubsection}{\numberline {5.1}Benefits of this approach}{9}{subsubsection.3.5.1}%
-\contentsline {section}{\numberline {}Introduction}{10}{section.4}%
-\contentsline {section}{\numberline {}Materials \& Methods}{14}{section.5}%
-\contentsline {subsection}{\numberline {1}Sampling and specimens}{14}{subsection.5.1}%
-\contentsline {subsection}{\numberline {2}Morphological measurements and functional traits}{15}{subsection.5.2}%
-\contentsline {subsection}{\numberline {3}Data analysis}{15}{subsection.5.3}%
-\contentsline {subsubsection}{\numberline {3.1}Data pre-processing}{17}{subsubsection.5.3.1}%
-\contentsline {subsubsection}{\numberline {3.2}Factorial Analysis of Mixed Data (FAMD)}{17}{subsubsection.5.3.2}%
-\contentsline {subsection}{\numberline {4}Functional niche analysis}{18}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5}Kernel density estimation}{18}{subsection.5.5}%
-\contentsline {section}{\numberline {}Results}{18}{section.6}%
-\contentsline {subsection}{\numberline {1}Factorial Analysis of Mixed Data}{18}{subsection.6.1}%
-\contentsline {subsection}{\numberline {2}Functional niche surface and overlap}{21}{subsection.6.2}%
-\contentsline {subsection}{\numberline {3}Kernel density estimation}{23}{subsection.6.3}%
-\contentsline {section}{\numberline {}Discussion}{24}{section.7}%
-\contentsline {section}{\numberline {}Conclusion}{30}{section.8}%
-\contentsline {section}{\numberline {A}Appendice}{39}{appendix.A}%
-\contentsline {section}{\numberline {B}Abstract}{45}{appendix.B}%
-\contentsline {section}{\numberline {C}Résumé}{45}{appendix.C}%
+\contentsline {section}{\numberline {1}Acknowledgements}{1}{section.1}%
+\contentsline {section}{\numberline {2}Presentation of the host structure}{4}{section.2}%
+\contentsline {section}{\numberline {3}Literature review}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Structure and dynamics of ecosystems: how can species coexist in same environment?}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Concepts and definition for studying ecosystems’ dynamic.}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Tools to study diversity in ecosystems and their limits}{6}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Emergence of a more global approach based on functional traits.}{7}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}General overview}{7}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Improvement of the method over the years}{8}{subsubsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.5}The advent of functional diversity}{9}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Benefits of this approach}{10}{subsubsection.3.5.1}%
+\contentsline {section}{\numberline {4}Introduction}{11}{section.4}%
+\contentsline {section}{\numberline {5}Materials \& Methods}{15}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Sampling and specimens}{15}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Morphological measurements and functional traits}{16}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Data analysis}{16}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}Data pre-processing}{16}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}Factorial Analysis of Mixed Data (FAMD)}{18}{subsubsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.4}Functional niche analysis}{18}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Kernel density estimation}{19}{subsection.5.5}%
+\contentsline {section}{\numberline {6}Results}{19}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Factorial Analysis of Mixed Data}{19}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Functional niche surface and overlap}{20}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Kernel density estimation}{24}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Discussion}{26}{section.7}%
+\contentsline {section}{\numberline {8}Conclusions}{31}{section.8}%
+\contentsline {section}{\numberline {A}Appendice}{40}{appendix.A}%
+\contentsline {section}{\numberline {B}Abstract}{46}{appendix.B}%
+\contentsline {section}{\numberline {C}Résumé}{46}{appendix.C}%
