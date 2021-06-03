@@ -1,4 +1,4 @@
-\begin{thebibliography}{121}
+\begin{thebibliography}{127}
 \providecommand{\natexlab}[1]{#1}
 \input{babelbst.tex}
 \newcommand{\Capitalize}[1]{\uppercase{#1}}
@@ -15,6 +15,12 @@ A{\"i}ssi M, Fiori C, Alessi J (2012) Mediterranean submarine canyons as
 \newblock \capitalize\bblin{} \emph{Mediterranean Submarine Canyons: Ecology
   and Governance}, \bblpp{} 99--103. {W\"urtz M}, {Gland (Switzerland) and
   Malaga (Spain): IUCN}.
+
+\bibitem[{Akp{\i}nar \emph{\bbletal{}}(2020)Akp{\i}nar, Charria, Theetten, \&
+  Vandermeirsch}]{akpinar2020}
+Akp{\i}nar A, Charria G, Theetten S, Vandermeirsch F (2020) Cross-shelf
+  exchanges in the northern {{Bay}} of {{Biscay}}.
+\newblock \emph{Journal of Marine Systems}, \textbf{205}, 103314.
 
 \bibitem[{Albouy \emph{\bbletal{}}(2011)Albouy, Guilhaumon, Vill{\'e}ger
   \emph{\bbletal{}}}]{albouy2011}
@@ -53,6 +59,14 @@ Boissezon A (2014) Distribution et dynamique des communaut\'es de
   {{Charac\'ees}}: {{Impact}} des facteurs environnementaux r\'egionaux et
   locaux.
 
+\bibitem[{Borja \emph{\bbletal{}}(2019)Borja, Amouroux, Anschutz,
+  {G{\'o}mez-Gesteira}, Uyarra, \& Vald{\'e}s}]{borja2019}
+Borja A, Amouroux D, Anschutz P, {G{\'o}mez-Gesteira} M, Uyarra MC, Vald{\'e}s
+  L (2019) Chapter 5 - {{The Bay}} of {{Biscay}}.
+\newblock \capitalize\bblin{} \emph{World {{Seas}}: An {{Environmental
+  Evaluation}} ({{Second Edition}})} (\bbledby{} C~Sheppard), \bblpp{}
+  113--152. {Academic Press}.
+
 \bibitem[{Bourillet \emph{\bbletal{}}(2006)Bourillet, Zaragosi, \&
   Mulder}]{bourillet2006}
 Bourillet JF, Zaragosi S, Mulder T (2006) The {{French Atlantic}} margin and
@@ -84,6 +98,12 @@ Brind'Amour A, Rochet M, Ordines F, \emph{\bbletal{}} (2016) Environmental
 Canals M, Puig P, {de Madron} XD, Heussner S, Palanques A, Fabres J (2006)
   Flushing submarine canyons.
 \newblock \emph{Nature}, \textbf{444}, 354--357.
+
+\bibitem[{Carrass{\'o}n \& Cartes(2002)}]{carrasson2002}
+Carrass{\'o}n M, Cartes JE (2002) Trophic relationships in a {{Mediterranean}}
+  deep-sea fish community: Partition of food resources, dietary overlap and
+  connections within the benthic boundary layer.
+\newblock \emph{Marine Ecology Progress Series}, \textbf{241}, 41--55.
 
 \bibitem[{Carrington \emph{\bbletal{}}(2021)Carrington, Papa, Beese
   \emph{\bbletal{}}}]{carrington2021}
@@ -210,6 +230,13 @@ De~Leo F (2012) \emph{Submarine Canyons : Hotspots of Deep-Sea Benthic
 Diderich WP (2006) Ecomorphology as a predictor of fish diet: A case study on
   the north sea benthic fish community.
 \newblock \bblp{}~66.
+
+\bibitem[{Doray \emph{\bbletal{}}(2018)Doray, Petitgas, Romagnan
+  \emph{\bbletal{}}}]{doray2018}
+Doray M, Petitgas P, Romagnan JB, \emph{\bbletal{}} (2018) The {{PELGAS}}
+  survey: {{Ship}}-based integrated monitoring of the {{Bay}} of {{Biscay}}
+  pelagic ecosystem.
+\newblock \emph{Progress in Oceanography}, \textbf{166}, 15--29.
 
 \bibitem[{Dumay \emph{\bbletal{}}(2004)Dumay, Tari, Tomasini, \&
   Mouillot}]{dumay2004}
@@ -351,6 +378,13 @@ Iba{\~n}ez C, Tedesco PA, Bigorne R, \emph{\bbletal{}} (2007)
   streams in the {{Bolivian Amazon}}.
 \newblock \emph{Aquatic Living Resources}, \textbf{20}, 131--142.
 
+\bibitem[{Jackson \emph{\bbletal{}}(2011)Jackson, Parnell, Inger, \&
+  Bearhop}]{siber2011}
+Jackson AL, Parnell AC, Inger R, Bearhop S (2011) Comparing isotopic niche
+  widths among and within communities: {{SIBER}} \textendash{} {{Stable Isotope
+  Bayesian Ellipses}} in {{R}}.
+\newblock \emph{Journal of Animal Ecology}, \bblpp{} 595--602.
+
 \bibitem[{{Keat-Chuan Ng} \emph{\bbletal{}}(2017){Keat-Chuan Ng}, {Aun-Chuan
   Ooi}, Wong, \& Khoo}]{keat-chuanng2017}
 {Keat-Chuan Ng} C, {Aun-Chuan Ooi} P, Wong W, Khoo G (2017) A review of fish
@@ -420,6 +454,14 @@ Mason NWH, Irz P, Lanoisel{\'e}e C, Mouillot D, Argillier C (2008) Evidence
   that niche specialization explains species\textendash energy relationships in
   lake fish communities.
 \newblock \emph{Journal of Animal Ecology}, \textbf{77}, 285--296.
+
+\bibitem[{{Matthias Greni\'e} \emph{\bbletal{}}(2017){Matthias Greni\'e},
+  {Pierre Denelle}, {Caroline M. Tucker}, {Fran\c{c}ois Munoz}, \& {Cyrille
+  Violle}}]{matthiasgrenie2017}
+{Matthias Greni\'e}, {Pierre Denelle}, {Caroline M Tucker}, {Fran\c{c}ois
+  Munoz}, {Cyrille Violle} (2017) \emph{Funrar: {{An R}} Package to
+  Characterize Functional Rarity}.
+\newblock R package version 1.2.1.
 
 \bibitem[{Mauchline \& Gordon(1983)}]{mauchline1983}
 Mauchline J, Gordon JDM (1983) Diets of clupeoid, stomiatoid and salmonoid fish
@@ -711,6 +753,12 @@ Violle C, Navas ML, Vile D, \emph{\bbletal{}} (2007) Let the concept of trait
   be functional!
 \newblock \emph{Oikos}, \textbf{116}, 882--892.
 
+\bibitem[{Violle \emph{\bbletal{}}(2017)Violle, Thuiller, Mouquet
+  \emph{\bbletal{}}}]{violle2017}
+Violle C, Thuiller W, Mouquet N, \emph{\bbletal{}} (2017) Functional
+  {{Rarity}}: {{The Ecology}} of {{Outliers}}.
+\newblock \emph{Trends in Ecology \& Evolution}, \textbf{32}, 356--367.
+
 \bibitem[{Wainwright \& Richard(1995)}]{wainwright1995}
 Wainwright PC, Richard BA (1995) Predicting patterns of prey use from
   morphology of fishes.
@@ -735,10 +783,6 @@ Wilson EO, Peter FM, {National Academy of Sciences (US)}, {Smithsonian
 Winemiller KO (1991) Ecomorphological diversification in lowland freshwater
   fish assemblages from five biotic regions.
 \newblock \emph{Ecological Monographs}, \textbf{61}, 343--365.
-
-\bibitem[{Zhang(2012)}]{zhang2012}
-Zhang S (2012) Nearest neighbor selection for iteratively {{kNN}} imputation.
-\newblock \emph{Journal of Systems and Software}, \textbf{85}, 2541--2552.
 
 \bibitem[{Zobel(1997)}]{zobel1997}
 Zobel M (1997) The relative of species pools in determining plant species

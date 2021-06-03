@@ -940,6 +940,10 @@ INPUT ./Discussion.tex
 INPUT Discussion.tex
 INPUT ./Discussion.tex
 INPUT Discussion.tex
+INPUT ./Conclusion.tex
+INPUT Conclusion.tex
+INPUT ./Conclusion.tex
+INPUT Conclusion.tex
 INPUT ./Structure_rapport_final.bbl
 INPUT Structure_rapport_final.bbl
 INPUT ./Structure_rapport_final.bbl
@@ -982,6 +986,10 @@ INPUT ./Figures//Correlation_circle.png
 INPUT ./Figures//coord_plot_34.png
 INPUT ./Figures//coord_plot_34.png
 INPUT ./Figures//coord_plot_34.png
+INPUT ./Abstract.tex
+INPUT Abstract.tex
+INPUT ./Abstract.tex
+INPUT Abstract.tex
 INPUT Structure_rapport_final.aux
 INPUT ./Structure_rapport_final.out
 INPUT ./Structure_rapport_final.out
