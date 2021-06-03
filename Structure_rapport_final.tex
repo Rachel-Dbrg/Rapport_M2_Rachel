@@ -38,15 +38,15 @@
 \usepackage[svgnames]{xcolor}
 
 %Gestion des titres de partie et des numérotations
-\usepackage{titlesec}% http://ctan.org/pkg/titlesec
-\titleformat{\section}%
-  [hang]% <shape>
-  {\normalfont\bfseries\Large}% <format>
-  {}% <label>
-  {0pt}% <sep>
-  {}% <before code>
-\renewcommand{\thesection}{}% Remove section references...
-\renewcommand{\thesubsection}{\arabic{subsection}}
+% \usepackage{titlesec}% http://ctan.org/pkg/titlesec
+% \titleformat{\section}%
+%   [hang]% <shape>
+%   {\normalfont\bfseries\Large}% <format>
+%   {}% <label>
+%   {0pt}% <sep>
+%   {}% <before code>
+% \renewcommand{\thesection}{}% Remove section references...
+% \renewcommand{\thesubsection}{\arabic{subsection}}
 
 %Gestion biblio
 \usepackage{natbib}
@@ -57,7 +57,6 @@
 
 %Gestion annexe
 \usepackage[toc,page]{appendix}
-
 
 %Page de garde
 % \title{Rapport stage M2}
@@ -72,12 +71,17 @@
 \newpage
 
 \section{Acknowledgements}
+\input{Acknowledgements.tex}
 
 \newpage
 \tableofcontents
 \listoffigures
 \listoftables
-\section{Présentation de la structure d'accueil}
+
+\clearpage
+\section{Presentation of the host structure}
+\input{Host_structure.tex}
+
 \newpage
 
 
@@ -97,7 +101,7 @@
 \section{Discussion}
 \input{Discussion.tex}
 
-\section{Conclusion}
+\section{Conclusions}
 \input{Conclusion.tex}
 
 
@@ -109,6 +113,7 @@
 \end{multicols}
 
 \restoregeometry
+
 \appendix
 \section{Appendice}
 \input{Appendice.tex}

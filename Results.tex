@@ -1,7 +1,8 @@
 %!TEX root = ./Structure_rapport_final.tex
 
 \subsection{Factorial Analysis of Mixed Data}
-The first 5 FAMD components explained 80\% of the total variation (Table \ref{table:cont_abs}). The first principal component (PC1) (30.5\% of explained variance) is strongly correlated with shape of the body and of the head with traits such as \emph{body depth} (a = 11.7), \emph{lower jaw length} (a=11.5), \emph{oral gape axis} (a=11.1), orbital length (a = 8.35) and head length (a = 8.21), thus, mostly to feeding and locomotion (Table \ref{table:cont_abs}). Along this horizontal axis, all traits have increasing values toward the right, mouth orientation shifting upward (see \ref{fig:corr_circ_12} for details). Three groups of fish can be distinguished \ref{fig:famd12}. For low PC1 values, species have a low transversal shape (meaning that both \texttt{bd} and \texttt{bw} have similar values, consistent with an elongated body), short lower jaw, small oral gape surface and a terminal oral axis, such as \textit{A. risso}, \textit{S. boa} and \textit{S. beanii}. On the right of this axis, species display high body depth values suggesting a laterally compressed form and a superior-oriented oral axis, such as \textit{A. olfersii}. 
+
+The first 5 FAMD components explained 80\% of the total variation (Table \ref{table:cont_abs}). The first principal component (PC1) (30.5\% of explained variance) is strongly correlated with shape of the body and of the head with traits such as \emph{body depth} (a = 11.7), \emph{lower jaw length} (a=11.5), \emph{oral gape axis} (a=11.1), orbital length (a = 8.35) and head length (a = 8.21), thus, mostly to feeding and locomotion (Table \ref{table:cont_abs}). Along this horizontal axis, all traits have increasing values toward the right, mouth orientation shifting upward (see Figure~\ref{fig:corr_circ_12} for details). Three groups of fish can be distinguished \ref{fig:famd12}. For low PC1 values, species have a low transversal shape (meaning that both \texttt{bd} and \texttt{bw} have similar values, consistent with an elongated body), short lower jaw, small oral gape surface and a terminal oral axis, such as \textit{A. risso}, \textit{S. boa} and \textit{S. beanii}. On the right of this axis, species display high body depth values suggesting a laterally compressed form and a superior-oriented oral axis, such as \textit{A. olfersii}. 
 
 The second axis (21.6\% of explained variance) is correlated to feeding behavior, through food prospection with \emph{pectoral fin insertion} (a = 11.4), \emph{eye size} (a = 9), \emph{pectoral fin position} (a = 7.1) and food acquisition through \emph{gill raker type} (a = 17.8) and \emph{oral gape axis} (a = 12,3) (Table \ref{table:cont_abs}). This vertical axis separates the three species on the left, \textit{A. risso} and \textit{S. boa} display higher values of pectoral fin insertion, meaning that the fin is inserted further on the body than \textit{S. boa}, while the fin position on the body depth is lower. As \textit{S. beanii} does not have pectoral fin, same analysis has been run without traits referring to pectoral or pelvic fins to look and confirmed the discrimination between these species were highly dependant if these traits. Same results than Figure \ref{fig:famd12} were obtained.
 
@@ -54,7 +55,7 @@ Because PC1 and PC2 have most of the weight in the functional analysis, it sugge
 	\begin{center}
 		\includegraphics[width=\textwidth]{FAMD_1_2.png}
 	\end{center}
-	\caption[FAMD results for first and second axis]{FAMD results for PC 1 and 2.}
+	\caption[FAMD results for first and second axis]{FAMD results for PC 1 and 2. Framed variables are scores of categorical variables.}
 	\label{fig:famd12}
 \end{figure}
 
@@ -63,7 +64,7 @@ Because PC1 and PC2 have most of the weight in the functional analysis, it sugge
 	\begin{center}
 		\includegraphics[width=\textwidth]{FAMD_3_4.png}
 	\end{center}
-	\caption[FAMD results for third and fourth axis]{FAMD results for PC 3 and 4.}
+	\caption[FAMD results for third and fourth axis]{FAMD results for PC 3 and 4. Framed variables are scores of categorical variables.}
 	\label{fig:famd34}
 \end{figure}
 
@@ -84,11 +85,11 @@ Bootsrapped niche surface estimation did not show any difference in the surface 
 \begin{adjustbox}{max width=1.1\textwidth,center}
 \begin{tabular}{lr}
   \hline
-Species & Area \\ 
+Species & Relative surface \\ 
   \hline
 Argyropelecus olfersii & 7.4 \\ 
-  Lampanyctus crocodilus & 4.00 \\ 
-  Xenodermichthys copei & 2.60 \\ 
+  Lampanyctus crocodilus & 4.0 \\ 
+  Xenodermichthys copei & 2.6 \\ 
   Stomias boa & 2.5 \\ 
   Myctophum punctatum & 2.1 \\ 
   Serrivomer beanii & 1.9 \\ 
@@ -96,13 +97,13 @@ Argyropelecus olfersii & 7.4 \\
   Ceratoscopelus maderensis & 1.7 \\ 
   Searsia koefoedi & 1.3 \\ 
   Normichthys operosus & 1.2 \\ 
-  Notoscopelus kroyeri & 1.00 \\ 
+  Notoscopelus kroyeri & 1.0 \\ 
    \hline
 \end{tabular}
 \end{adjustbox}
 \end{table}
 
-Niche overlap analysis confirms that 9 species show overlapping niches with at least one other species (Figure \ref{fig:famd12}) and that smallest niches overlaps each other the most (Table \ref{table:ell_ovlp}). The maximum  overlap is found between \textit{M. punctatum} and \textit{N. kroyeri}, as almost 69\% of the latter's niche is covered by the first. In total, these two species share nearly 22\% of their niches. Same observation is made between \textit{S. koefoedi} whose niche is 65\% covered by \textit{C. maderensis}. These two species have the highest total overlap value, with 28\% of their niches overlapping. Finally, \textit{N. kroyeri} and \textit{N. operosus} show minimum total overlap value of 2.1\%. This is due to some individuals of the latter in \textit{N. kroyeri}'s ellipse (see Figure \ref{fig:famd12}). Overall, both \textit{N. kroyeri} show overlap with six other species, while \textit{C. maderensis}, \textit{S. koefoedi} and \textit{M. punctatum} are overlapping five other species. Finally, \textit{L. crocodilus}, \textit{X. copei} and \textit{N. operosus} are involved in overlap with three other species, and \textit{A. risso} and \textit{S. boa} are only ovrelapping each other (Table \ref{table:ell_ovlp}). 
+Niche overlap analysis confirms that 9 species show overlapping niches with at least one other species (Figure \ref{fig:famd12}) and that smallest niches overlaps each other the most (Table \ref{table:ell_ovlp}). The maximum  overlap is found between \textit{M. punctatum} and \textit{N. kroyeri}, as almost 69\% of the latter's niche is covered by the first. In total, these two species share 22\% of their niches. \textit{S. koefoedi} is sharing more than 28\% of its niche with both \textit{C. maderensis} and \textit{N. kroyeri}, which are the two highest total overlap values here (Table \ref{table:ell_ovlp}). Overall, \textit{N. kroyeri}'s niche is fully overlapped by six other species. \textit{C. maderensis}, \textit{S. koefoedi} and \textit{M. punctatum} are overlapping five other species. Finally, \textit{L. crocodilus}, \textit{X. copei} and \textit{N. operosus} are involved in overlap with three other species, and \textit{A. risso} and \textit{S. boa} are only overlapping each other (Table \ref{table:ell_ovlp}). Finally, \textit{N. kroyeri} and \textit{N. operosus} show minimum total overlap value of 0.2\%, which might no be significative and mostly due to some individuals of the latter in \textit{N. kroyeri}'s ellipse (Figure \ref{fig:famd12}). 
 
 \begin{table}[!htbp]
 \centering
@@ -134,10 +135,7 @@ Searsia koefoedi & Ceratoscopelus maderensis & 28.20 & 65.40 & 49.60 \\
 \end{adjustbox}
 \end{table}
 
-Niches distinctiveness informs on functional diversity of species within a community, increasing values meaning that 
-
-
-from Myctophidae and Playtroctidae families are all equally functionnally distinct from one another (see Table \ref{table:nich_diss}). Even if the values are rather close, \textit{S. koefoedi} and \textit{M. punctatum} seems to be the most alike species. Conversely, \textit{A. olfersii}, \textit{S. beanii} and \textit{S. boa} tend to have more distinct niches, which are consistent with previous results (Figure \ref{fig:famd12}). Here, species with the most atypical morphological feature are the more distinct in terms of niche. 
+Niches distinctiveness informs on functional diversity of species within a community, increasing values meaning that, locally, species display rarer functions. Here, Myctophidae and Playtroctidae families are all equally functionnally distinct from one another (Table \ref{table:nich_diss}). Even if the values are rather close, \textit{S. koefoedi} and \textit{M. punctatum} seems to be the most alike species. Conversely, \textit{A. olfersii}, \textit{S. beanii} and \textit{S. boa} tend to have more distinct niches, which are consistent with previous results (Figure \ref{fig:famd12}). Here, species with the most atypical morphological feature are the more distinct in terms of niche. 
 
 \begin{table}[!htbp]
 \centering
@@ -166,8 +164,11 @@ Argyropelecus olfersii & 0.54 \\
 
 
 \subsection{Kernel density estimation}
-Kernel density estimation helps to understand which are the traits that have the same distributions for species. Looking at these distributions for overlapping species gives informations on traits, and thus functions, similarities among species. The estimation of kernel density overlaps for functional traits of the 7 overlapping species and shows that these species are all overlapping for 7 of the 17 computed traits (Figure \ref{fig:dpo}; Table \ref{table:kern_over_val}). The overlap is maximum for the position of the oral gape (trait n°5) with an overlap value of 0.34. This means that, along this functional trait, these 6 species share nearly 34\% of their density. For this trait, most of the distributions are centered around a range of values of [0.5-0.8], yet \textit{L. crocodilus} display a pretty wide distribution, despite being the most sampled species (see Table \ref{table:spcount}). This same observation can be done for this particular species for traits n°11 (body depth) and n°13 (pectoral fin insertion). Species also share nearly 25\% and 29\% of their density when looking at body depth (trait n°11) and eye position (trait n°17), respectively. Finally, lower jaw length (trait n°6) and pectoral fin position (trait n°12) values also seem to be common to those species, with 16\% and 19\% of density shared, respectively. To a lesser extent, species share nearly 12\% of the eye size values (trait n°2).
-On most plots of Figure \ref{fig:dpo}, \textit{N. kroyeri} (green) and \textit{M. punctatum} (blue) have very similar distributions. When looking at these two species only, analysis show that they are overlapping for every 17 traits, with particularly high values for eye size (o = 0.915), operculum volume (o = 0.901), gill outflow (o = 0.882), pectoral fin insertion (o = 0.828) and caudal throttle width (o = 0.782), with the mean overlap of the 17 traits being $\bar{o}$ = 0.561.
+Kernel density estimation helps to understand which are the traits that have the same distributions for species. Looking at these distributions for overlapping species gives informations on traits, and thus, functions similarities among species. The estimation of kernel density for the 7 overlapping species shows that these species are overlapping for 7 of the 17 computed traits (Figure \ref{fig:dpo}; Table \ref{table:kern_over_val}). The overlap is maximum for \emph{oral gape position} (trait n°5) with an overlap value of 0.34. This means that, along this functional trait, these 6 species share nearly 34\% of the trait density distribution. For this trait, most of the distributions are centered around a range of values of [0.5-0.8], yet \textit{L. crocodilus} display a pretty wide distribution, despite being the most sampled species (Table \ref{table:spcount}). This same observation can be done for this particular species for \emph{body depth} (trait n°11) and \emph{pectoral fin insertion} (trait n°13). Species also share nearly 25\% and 29\% of their density when looking at \emph{body depth} (trait n°11) and\emph{eye position} (trait n°17), respectively. Finally, \emph{lower jaw length} (trait n°6) and \emph{pectoral fin position} (trait n°12) values also seem to be common to those species, with 16\% and 19\% of density shared, respectively. To a lesser extent, species share nearly 12\% of the \emph{eye size} values (trait n°2).
+
+Furthermore, we can notice that \emph{oral gape surface} (trait n°3), \emph{operculum volume} (trait n°8) and \emph{pectoral fin insertion} (trait n°13) display bimodal distributions (Figure \ref{fig:dpo}. For these traits, \textit{L. crocodilus}, \textit{N. operosus} and \textit{S. koefoedi} constitutes one mode, and the resting species the other. Conversely, \emph{eye size} (trait n°1) shows multimodal distribution, with nearly every species having its proper mode.
+
+For most traits, \textit{N. kroyeri} (green) and \textit{M. punctatum} (blue) have very similar distributions (\ref{fig:dpo}). When looking at these two species only, analysis show that they are overlapping for every 17 traits, with particularly high values for \emph{eye size} (o = 0.915), \emph{operculum volume} (o = 0.901), \emph{gill outflow} (o = 0.882), \emph{pectoral fin insertion} (o = 0.828) and \emph{caudal throttle width} (o = 0.782), with the mean overlap of the 17 traits being $\bar{o}$ = 0.561.
 
 
 \begin{table}[!htbp]
