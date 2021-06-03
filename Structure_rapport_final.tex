@@ -64,15 +64,35 @@
 % \date{Mardi 9 février 2020}
 \newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
 
+
+% Pour la gestion des numérotations arabes et romaines
+\makeatletter
+\newcommand\frontmatter{%
+    \cleardoublepage
+  %\@mainmatterfalse
+  \pagenumbering{roman}}
+
+\newcommand\mainmatter{%
+    \cleardoublepage
+    \pagenumbering{arabic}
+    \setcounter{page}{1}}
+
+\newcommand\backmatter{%
+      \cleardoublepage
+}
+
+\makeatother
+
 \begin{document}
 % \maketitle
 \input{Title_page.tex}
 
 \newpage
-
-\section{Acknowledgements}
+\frontmatter
+\section*{Acknowledgements}
+\addcontentsline{toc}{section}{Acknowledgements}
 \input{Acknowledgements.tex}
-
+\mainmatter
 \newpage
 \tableofcontents
 \listoffigures
@@ -114,13 +134,14 @@
 
 \restoregeometry
 
+\backmatter
+
 \appendix
 \section{Appendice}
 \input{Appendice.tex}
 
 \clearpage
 \singlespace
-\section{Abstract}
 \input{Abstract.tex}
 
 \end{document}
