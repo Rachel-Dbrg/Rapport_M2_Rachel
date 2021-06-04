@@ -13,24 +13,24 @@ Warning--empty journal in rocklin2004
 Warning--missing publisher in wilson1988
 You've used 128 entries,
             3174 wiz_defined-function locations,
-            1377 strings with 35246 characters,
-and the built_in function-call counts, 120766 in all, are:
-= -- 11156
+            1377 strings with 35243 characters,
+and the built_in function-call counts, 120739 in all, are:
+= -- 11153
 > -- 4317
 < -- 64
 + -- 2164
 - -- 1192
-* -- 10252
-:= -- 16893
+* -- 10249
+:= -- 16890
 add.period$ -- 257
 call.type$ -- 128
 change.case$ -- 1006
 chr.to.int$ -- 133
 cite$ -- 135
-duplicate$ -- 9577
-empty$ -- 9990
+duplicate$ -- 9574
+empty$ -- 9987
 format.name$ -- 1564
-if$ -- 25054
+if$ -- 25048
 int.to.chr$ -- 2
 int.to.str$ -- 1
 missing$ -- 1132
@@ -42,7 +42,7 @@ purify$ -- 881
 quote$ -- 0
 skip$ -- 2744
 stack$ -- 0
-substring$ -- 11863
+substring$ -- 11857
 swap$ -- 2894
 text.length$ -- 14
 text.prefix$ -- 0
