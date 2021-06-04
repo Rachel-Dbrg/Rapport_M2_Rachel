@@ -51,9 +51,10 @@ Because PC1 and PC2 have most of the weight in the functional analysis, it sugge
 \end{table}
 
 % Plot of FAMD axis 1 and 2
+\newgeometry{left=1cm,right=1cm,bottom=1.5cm,top=1cm}
 \begin{figure} [!htbp]
 	\begin{center}
-		\includegraphics[width=\textwidth]{FAMD_1_2.png}
+		\includegraphics[width=\textwidth]{FAMD12.png}  
 	\end{center}
 	\caption[FAMD results for first and second axis]{FAMD results for PC 1 and 2. Framed variables are scores of categorical variables.}
 	\label{fig:famd12}
@@ -62,20 +63,21 @@ Because PC1 and PC2 have most of the weight in the functional analysis, it sugge
 % Plot of FAMD axis 3 and 4
 \begin{figure} [!htbp]
 	\begin{center}
-		\includegraphics[width=\textwidth]{FAMD_3_4.png}
+		\includegraphics[width=\textwidth]{FAMD34.png}
 	\end{center}
 	\caption[FAMD results for third and fourth axis]{FAMD results for PC 3 and 4. Framed variables are scores of categorical variables.}
 	\label{fig:famd34}
 \end{figure}
+\restoregeometry
 
 
 \subsection{Functional niche surface and overlap}
 Overall, several species' ellipses overlaps on these first four principal components (Figures \ref{fig:famd12} and \ref{fig:famd34}). For these species, the aim is now to measure the intensity of these overlaps. On the first and second principal components, all 4 Myctophidae and 2 Platytroctidae species, plus \textit{X. copei} are more or less overlapping, not displaying much differences along PC1 nor PC2 (Figure \ref{fig:famd12}). \textit{A. risso} and \textit{S. boa} seems to slightly overlap each other niches, which are mainly separated along PC2 (Figure \ref{fig:famd12}). \textit{S. beanii} and \textit{A. olfersii} are the only two species not showing any overlap. 
-\textit{A. risso} and \textit{A. olfersii} are showing some overlap (Figure \ref{fig:famd34}). On the same figure, the same species (except \textit{X. copei}) than Figure \ref{fig:famd12} overlaps. Especially, \textit{N. operosus} and \textit{S. koefoedi} have very similar looking niches, which seems virtually fully overlapping. \textit{L. crocodilus}, which have the widest niche among these species, overlaps \textit{C. maderensis}, \textit{M. punctatum} and \textit{N. kroyeri}'s niches. 
+Being opposed in the first two dimensions (Figure \ref{fig:famd12}), \textit{A.risso} and \textit{A. olfersii} nonetheless seem to share some of their foraging strategiy, with their niche partly overlapping (Figure \ref{fig:famd34}). As for overlapping species of Figure \ref{fig:famd12}, segregation among families is observed (Figure \ref{fig:famd34}). Firstly, \textit{X. copei}'s niche is now fully segregated from other species. Both Platytroctidae are gathered and separated from \textit{C. maderensis}, \textit{M. punctatum} and \textit{N. kroyeri}. The last Myctophidae species, \textit{L. crocodilus}, which have the widest niche among these species, is not fully segregated and show some overlaps with \textit{S. koefoedi}.
 
 The niche surface estimation showed that \textit{N. kroyeri} had the narrowest niche among the studied community, followed by \textit{N. operosus} and \textit{S. koeofedi} (Table \ref{table:sp_surface}). Then, \textit{C. maderensis}, \textit{A. risso}, \textit{S. beanii} and \textit{M. punctatum}, \textit{S. boa} and \textit{X. copei} all have niches almost two to three times wider than \textit{N. kroyeri}'s. Finally, comparing to \textit{N. kroyeri}'s niche, \textit{L. crocodilus}'s is four time wider, while \textit{A. olfersii}'s is more than seven time wider. In fact, all Myctophidae (except \textit{L. crocodilus}) and Platytroctidae have rather small niches and are the one overlapping in Figure \ref{fig:famd12}.
 
-Bootsrapped niche surface estimation did not show any difference in the surface of estimated niche through sample size \textit{n}. Hence, surface of niches seems to be more influenced by the trait variability of the sampled individuals rather than the number of inviduals itself. Yet, estimated niche surface value are tightly converging for \textit{n} = 30. 
+Bootstrapped niche surface estimation did not show any difference in the surface of estimated niche through sample size \textit{n}. Hence, surface of niches seems to be more influenced by the trait variability of the sampled individuals rather than the number of individuals itself. Yet, estimated niche surface value are tightly converging for \textit{n} = 30. 
 
 % Niche standardardised surfaces
 \begin{table}[!htbp]
@@ -135,7 +137,7 @@ Searsia koefoedi & Ceratoscopelus maderensis & 28.20 & 65.40 & 49.60 \\
 \end{adjustbox}
 \end{table}
 
-Niches distinctiveness informs on functional diversity of species within a community, increasing values meaning that, locally, species display rarer functions. Here, Myctophidae and Playtroctidae families are all equally functionnally distinct from one another (Table \ref{table:nich_diss}). Even if the values are rather close, \textit{S. koefoedi} and \textit{M. punctatum} seems to be the most alike species. Conversely, \textit{A. olfersii}, \textit{S. beanii} and \textit{S. boa} tend to have more distinct niches, which are consistent with previous results (Figure \ref{fig:famd12}). Here, species with the most atypical morphological feature are the more distinct in terms of niche. 
+Niche's distinctiveness informs on functional diversity of species within a community, increasing values meaning that, locally, species display rarer functions. Here, Myctophidae and Playtroctidae families are all equally functionally distinct from one another (Table \ref{table:nich_diss}). Even if the values are rather close, \textit{S. koefoedi} and \textit{M. punctatum} seems to be the most alike species. Conversely, \textit{A. olfersii}, \textit{S. beanii} and \textit{S. boa} tend to have more distinct niches, which are consistent with previous results (Figure \ref{fig:famd12}). Here, species with the most atypical morphological feature are the more distinct in terms of niche. 
 
 \begin{table}[!htbp]
 \centering
@@ -164,7 +166,7 @@ Argyropelecus olfersii & 0.54 \\
 
 
 \subsection{Kernel density estimation}
-Kernel density estimation helps to understand which are the traits that have the same distributions for species. Looking at these distributions for overlapping species gives informations on traits, and thus, functions similarities among species. The estimation of kernel density for the 7 overlapping species shows that these species are overlapping for 7 of the 17 computed traits (Figure \ref{fig:dpo}; Table \ref{table:kern_over_val}). The overlap is maximum for \emph{oral gape position} (trait n°5) with an overlap value of 0.34. This means that, along this functional trait, these 6 species share nearly 34\% of the trait density distribution. For this trait, most of the distributions are centered around a range of values of [0.5-0.8], yet \textit{L. crocodilus} display a pretty wide distribution, despite being the most sampled species (Table \ref{table:spcount}). This same observation can be done for this particular species for \emph{body depth} (trait n°11) and \emph{pectoral fin insertion} (trait n°13). Species also share nearly 25\% and 29\% of their density when looking at \emph{body depth} (trait n°11) and\emph{eye position} (trait n°17), respectively. Finally, \emph{lower jaw length} (trait n°6) and \emph{pectoral fin position} (trait n°12) values also seem to be common to those species, with 16\% and 19\% of density shared, respectively. To a lesser extent, species share nearly 12\% of the \emph{eye size} values (trait n°2).
+Kernel density estimation helps to understand which are the traits that have the same distributions for species. Looking at these distributions for overlapping species gives information on traits, and thus, functions similarities among species. The estimation of kernel density for the 7 overlapping species shows that these species are overlapping for 7 of the 17 computed traits (Figure \ref{fig:dpo}; Table \ref{table:kern_over_val}). The overlap is maximum for \emph{oral gape position} (trait n°5) with an overlap value of 0.34. This means that, along this functional trait, these 6 species share nearly 34\% of the trait density distribution. For this trait, most of the distributions are centered around a range of values of [0.5-0.8], yet \textit{L. crocodilus} display a pretty wide distribution, despite being the most sampled species (Table \ref{table:spcount}). This same observation can be done for this particular species for \emph{body depth} (trait n°11) and \emph{pectoral fin insertion} (trait n°13). Species also share nearly 25\% and 29\% of their density when looking at \emph{body depth} (trait n°11) and \emph{eye position} (trait n°17), respectively. Finally, \emph{lower jaw length} (trait n°6) and \emph{pectoral fin position} (trait n°12) values also seem to be common to those species, with 16\% and 19\% of density shared, respectively. To a lesser extent, species share nearly 12\% of the \emph{eye size} values (trait n°2).
 
 Furthermore, we can notice that \emph{oral gape surface} (trait n°3), \emph{operculum volume} (trait n°8) and \emph{pectoral fin insertion} (trait n°13) display bimodal distributions (Figure \ref{fig:dpo}. For these traits, \textit{L. crocodilus}, \textit{N. operosus} and \textit{S. koefoedi} constitutes one mode, and the resting species the other. Conversely, \emph{eye size} (trait n°1) shows multimodal distribution, with nearly every species having its proper mode.
 

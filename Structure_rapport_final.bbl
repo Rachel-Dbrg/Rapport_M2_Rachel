@@ -1,12 +1,8 @@
-\begin{thebibliography}{127}
+\begin{thebibliography}{128}
 \providecommand{\natexlab}[1]{#1}
 \input{babelbst.tex}
 \newcommand{\Capitalize}[1]{\uppercase{#1}}
 \newcommand{\capitalize}[1]{\expandafter\Capitalize#1}
-
-\bibitem[{fig(2018-06-17CDT19:13:06-05:00)}]{fig_deep_sea}
- (2018-06-17CDT19:13:06-05:00) The {{Deep Sea}} \textasciitilde{} {{MarineBio
-  Conservation Society}}.
 
 \bibitem[{A{\"i}ssi \emph{\bbletal{}}(2012)A{\"i}ssi, Fiori, \&
   Alessi}]{aissi2012}
@@ -92,6 +88,12 @@ Brind'Amour A, Rochet M, Ordines F, \emph{\bbletal{}} (2016) Environmental
   drivers explain regional variation of changes in fish and invertebrate
   functional groups across the {{Mediterranean Sea}} from 1994 to 2012.
 \newblock \emph{Marine Ecology Progress Series}, \textbf{562}, 19--35.
+
+\bibitem[{Buddington \& Diamond(1986)}]{buddington1986}
+Buddington RK, Diamond JM (1986) Aristotle revisited: The function of pyloric
+  caeca in fish.
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, \textbf{83}, 8012--8014.
 
 \bibitem[{Canals \emph{\bbletal{}}(2006)Canals, Puig, {de Madron}, Heussner,
   Palanques, \& Fabres}]{canals2006}
@@ -507,6 +509,13 @@ Nagelkerke LA, {van Onselen} E, {van Kessel} N, Leuven RS (2018) Functional
   species using a food-fish model.
 \newblock \emph{PLOS ONE}, \textbf{13}.
 
+\bibitem[{Natarajan \emph{\bbletal{}}(2016)Natarajan, Hoffmann, Weber, Fago,
+  Witt, \& Storz}]{natarajan2016}
+Natarajan C, Hoffmann FG, Weber RE, Fago A, Witt CC, Storz JF (2016)
+  Predictable convergence in hemoglobin function has unpredictable molecular
+  underpinnings.
+\newblock \emph{Science}, \textbf{354}, 336--339.
+
 \bibitem[{Norton(1995)}]{norton1995}
 Norton SF (1995) A functional approach to ecomorphological patterns of feeding
   in cottid fishes.
@@ -690,12 +699,6 @@ Sutherland WJ, Freckleton RP, Godfray HCJ, \emph{\bbletal{}} (2013)
   Identification of 100 fundamental ecological questions.
 \newblock \emph{Journal of Ecology}, \textbf{101}, 58--67.
 
-\bibitem[{Sutton \& Sigurdsson(2008)}]{sutton2008}
-Sutton T, Sigurdsson T (2008) Vertical and horizontal distribution of
-  mesopelagic fishes along a transect across the northern {{Mid}}-{{Atlantic
-  Ridge}}.
-\newblock \emph{ICES Journal of Marine Science}, \textbf{CM 2008}, 1.12.
-
 \bibitem[{Sutton(2013)}]{sutton2013a}
 Sutton TT (2013) Vertical ecology of the pelagic ocean: Classical patterns and
   new perspectives: Vertical ecology of the pelagic ocean.
@@ -741,6 +744,12 @@ Tucker CM, Davies TJ, Cadotte MW, Pearse WD (2018) On the relationship between
   (2017{\natexlab{b}}) Cold-{{Water Coral Habitats}} in {{Submarine Canyons}}
   of the {{Bay}} of {{Biscay}}.
 \newblock \emph{Frontiers in Marine Science}, \textbf{4}.
+
+\bibitem[{Vesk \emph{\bbletal{}}(2021)Vesk, Morris, Neal, Mokany, \&
+  Pollock}]{vesk2021}
+Vesk PA, Morris WK, Neal WC, Mokany K, Pollock LJ (2021) Transferability of
+  trait-based species distribution models.
+\newblock \emph{Ecography}, \textbf{44}, 134--147.
 
 \bibitem[{Vill{\'e}ger(2017)}]{villeger2017}
 Vill{\'e}ger S (2017) Functional ecology of fish: Current approaches and future

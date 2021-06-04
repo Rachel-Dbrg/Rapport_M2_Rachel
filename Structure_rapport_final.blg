@@ -4,7 +4,6 @@ The top-level auxiliary file: Structure_rapport_final.aux
 The style file: molecularEcology.bst
 Database file #1: M2_Stage.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Warning--to sort, need author or key in fig_deep_sea
 Warning--empty journal in boissezon2014
 Warning--empty journal in diderich2006
 Warning--missing institution in marcon2015
@@ -12,45 +11,45 @@ Warning--missing school in mejri2009
 Warning--empty journal in opentreeoflife2019
 Warning--empty journal in rocklin2004
 Warning--missing publisher in wilson1988
-You've used 127 entries,
+You've used 128 entries,
             3174 wiz_defined-function locations,
-            1367 strings with 34913 characters,
-and the built_in function-call counts, 118393 in all, are:
-= -- 10938
-> -- 4196
+            1377 strings with 35246 characters,
+and the built_in function-call counts, 120766 in all, are:
+= -- 11156
+> -- 4317
 < -- 64
-+ -- 2105
-- -- 1159
-* -- 10032
-:= -- 16579
-add.period$ -- 254
-call.type$ -- 127
-change.case$ -- 990
-chr.to.int$ -- 132
-cite$ -- 137
-duplicate$ -- 9408
-empty$ -- 9810
-format.name$ -- 1525
-if$ -- 24560
++ -- 2164
+- -- 1192
+* -- 10252
+:= -- 16893
+add.period$ -- 257
+call.type$ -- 128
+change.case$ -- 1006
+chr.to.int$ -- 133
+cite$ -- 135
+duplicate$ -- 9577
+empty$ -- 9990
+format.name$ -- 1564
+if$ -- 25054
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 1112
-newline$ -- 510
-num.names$ -- 505
-pop$ -- 2618
+missing$ -- 1132
+newline$ -- 515
+num.names$ -- 513
+pop$ -- 2676
 preamble$ -- 1
-purify$ -- 866
+purify$ -- 881
 quote$ -- 0
-skip$ -- 2705
+skip$ -- 2744
 stack$ -- 0
-substring$ -- 11597
-swap$ -- 2844
+substring$ -- 11863
+swap$ -- 2894
 text.length$ -- 14
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1131
-warning$ -- 8
-while$ -- 951
+type$ -- 1140
+warning$ -- 7
+while$ -- 973
 width$ -- 0
-write$ -- 1512
-(There were 8 warnings)
+write$ -- 1528
+(There were 7 warnings)

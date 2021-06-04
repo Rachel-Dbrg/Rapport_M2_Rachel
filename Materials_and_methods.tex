@@ -3,11 +3,10 @@
 
 \subsection{Sampling and specimens}
 
-Fishes were collected during Ifremer's EVHOE (EValuation Halieutique de l'Ouest Européen) research cruises, surveying the Bay of Biscay every fall onboard the \textit{R/V Thalassa}. \textbf{Préciser les années}
-Several hauls are regularly performed at night to investigate pelagic deep fauna. Each station is precisely defined with its GPS coordinates and located above canyons, at the edge of the continental shelf. 
+Fishes were collected during Ifremer's EVHOE (EValuation Halieutique de l'Ouest Européen) research cruises, surveying the Bay of Biscay every fall onboard the \textit{R/V Thalassa}. Several hauls are regularly performed at night to investigate pelagic deep fauna. Each station is precisely defined with its GPS coordinates and located above canyons, at the edge of the continental shelf. 
 % Altough they are considered to be ``biodiversity hotspot'', canyons communities are yet relatively unknown, because of the logistic and material difficulties that their exploration implies \citep{gillet2013}.
 Pelagic trawling is performed at night, between 700 and 2000 meters, because those fishes perform diel vertical migrations and tend to come closer to the surface at nighttime. To this end, a 25 meters-wide opening trawl is used, with a mesh size decreasing from 76mm to 48mm at the end of the trawl. The trawl-haul duration was 1 hour at 4 kn. 
-Once the trawl is pulled back onboard, fishes are sorted, identified up to the species level, and frozen at -20°C. Eleven of the most abundant species in the Bay of Biscay (all teleosts) have been selected for this study. Four of them belong to the Myctophid family (lanternfish), which is the most abundant and widespread family across all oceans \citep{debusserolles2014} and could represent up to 65\% of the pelagic deep-sea biomass \citep{poulsen2013}: \textit{Lampanyctus crocodilus}, \textit{Myctophum punctatum}, \textit{Notoscopelus kroeyeri} and \textit{Ceratoscopelus maderensis}. The second most represented family is the Platytroctidae with two species: \textit{Searsia koefoedi} \& \textit{Normichthys operosus}. This family seems to be found in all oceans but not in the Mediterranean Sea \citep{orrell2016}. Finally, five families are represented by one species each: \textit{Xenodermichthys copei} (Alepocephalidae); \textit{Arctozenus risso} (Paralepididae), \textit{Argyropelecus olfersii} (Sternoptychidae - Hatchetfishes), \textit{Serrivomer beanii} (Serrivomeridae) and \textit{Stomias boa} (Stomiidae) which are common species, found abundantly in every ocean \citep{carvalho1988,froese2019,geidner2008,germain2019}. See \ref{fig:phylotree} for a phylogenetic tree of these species. 
+Once the trawl is pulled back onboard, fishes are sorted, identified up to the species level, and frozen at -20°C. Eleven of the most abundant species in the Bay of Biscay (all teleosts) have been selected for this study. Four of them belong to the Myctophid family (lanternfish), which is the most abundant and widespread family across all oceans \citep{debusserolles2014} and could represent up to 65\% of the pelagic deep-sea biomass \citep{poulsen2013}: \textit{Lampanyctus crocodilus}, \textit{Myctophum punctatum}, \textit{Notoscopelus kroeyeri} and \textit{Ceratoscopelus maderensis}. The second most represented family is the Platytroctidae with two species: \textit{Searsia koefoedi} \& \textit{Normichthys operosus}. This family seems to be found in all oceans but not in the Mediterranean Sea \citep{orrell2016}. Finally, five families are represented by one species each: \textit{Xenodermichthys copei} (Alepocephalidae), \textit{Arctozenus risso} (Paralepididae), \textit{Argyropelecus olfersii} (Sternoptychidae - Hatchetfishes), \textit{Serrivomer beanii} (Serrivomeridae) and \textit{Stomias boa} (Stomiidae) which are common species, found abundantly in every ocean \citep{carvalho1988,froese2019,geidner2008,germain2019}. See \ref{fig:phylotree} for a phylogenetic tree of these species. 
 
 
 \subsection{Morphological measurements and functional traits}
@@ -39,13 +38,13 @@ Species & $n_1$  & $n_2$ & $n_\text{Tot}$ &   (mm) & (mm) \\
 \end{tabular}
 \end{table}
 
-21 functional traits were calculated for each individual from the morphological measurements. They inform on 3 main functions: food acquisition, locomotion and habitat (see Table~\ref{table:functraits}).
+21 functional traits were calculated for each individual from the morphological measurements. They inform on 3 main functions: food acquisition, locomotion and habitat (Table~\ref{table:functraits}).
 
 \begin{sidewaystable}
 \centering
 \caption[Functional traits descriptions and formulas]{Description and formulas of the functionals traits computed from morphological measurements, following \citep{albouy2011, aneeshkumar2017,boyle2006,brindamour2016,diderich2006,dumay2004,habib2019,ibanez2007,sibbing2000,webb1984,winemiller1991}. Abbreviations used in formulas are provided by raw measurements and detailed in appendices \ref{fig:full_body}, \ref{fig:head} \& \ref{fig:fin}. \texttt{oga}, \texttt{git}, \texttt{pc}, \texttt{pht} are categorial variables directly provided by raw measurements with the first two scores detailed respectively in appendices \ref{fig:git} \& \ref{fig:oga}.}
 \label{table:functraits}
-\begin{tabular}{>{\bfseries}llll}
+\begin{tabular}{>{\bfseries}lll>{\ttfamily}l}
 \toprule
 Function & Functional trait & Description & Formula  \\ 
 \midrule
@@ -79,7 +78,7 @@ Function & Functional trait & Description & Formula  \\
 \subsection{Data analysis}
 All data analyses were performed using \textsf{R} version 4.0.3 \citep{rcoreteam2021}.
 
-\textbf{Commentaire : } je vois que tu utilises \verb;\texttsc{}; quand tu parles de tes mesures et des traits. Attention, je crois que le Times New Roman ne dispose pas de cette police spéciale qui fait des "Petites majuscules". Du coup, la commande n'a aucun effet. J'ai donc remplacé par \verb;\texttt; partout où je l'ai trouvé ! D'ailleurs, utilises aussi plutôt ça plutôt que l'italique pour les noms de logiciels, de packages, etc.
+% \textbf{Commentaire : } je vois que tu utilises \verb;\texttsc{}; quand tu parles de tes mesures et des traits. Attention, je crois que le Times New Roman ne dispose pas de cette police spéciale qui fait des "Petites majuscules". Du coup, la commande n'a aucun effet. J'ai donc remplacé par \verb;\texttt; partout où je l'ai trouvé ! D'ailleurs, utilises aussi plutôt ça plutôt que l'italique pour les noms de logiciels, de packages, etc.
 
 \subsubsection{Data pre-processing}
 Because measurements came from several observers, raw data had to be checked for outliers. To do so, all values (except the standard length \texttt{sl}) were standardized by \texttt{sl} and the interquartile range (IQR) method of outlier detection was applied to remove outliers. According to this method, for each measurement and species, outliers are defined as every value outside this interval: 
