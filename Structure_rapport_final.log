@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.8)  4 JUN 2021 11:50
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.8)  4 JUN 2021 12:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -830,11 +830,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
  []
 
 [25] [26] [27]
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
-[28] [29] [30]) [31] (./Conclusion.tex [32]) [33]
+[28] [29] [30]
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+) [31] (./Conclusion.tex [32]) [33]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -867,8 +877,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-(./Structure_rapport_final.bbl (./Structure_rapport_final.brf)
+ (./Structure_rapport_final.bbl
+(./Structure_rapport_final.brf)
 \tf@brf=\write7
 \openout7 = `Structure_rapport_final.brf'.
 
@@ -926,7 +936,7 @@ Package rerunfilecheck Info: File `Structure_rapport_final.out' has not changed
 (rerunfilecheck)             Checksum: 9FF32345D1D807E2A15DF02E5615E4FD;5862.
 Package rerunfilecheck Info: File `Structure_rapport_final.brf' has not changed
 .
-(rerunfilecheck)             Checksum: C08CAF5BC733C727BC9F7AC2947FB9B6;14750.
+(rerunfilecheck)             Checksum: FF7AFFD849FC6F2C341B882BF877B031;14750.
  )
 (\end occurred inside a group at level 1)
 
@@ -941,4 +951,4 @@ Here is how much of TeX's memory you used:
  62 hyphenation exceptions out of 8191
  98i,12n,103p,2132b,9528s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Structure_rapport_final.xdv (49 pages, 1285544 bytes).
+Output written on Structure_rapport_final.xdv (49 pages, 1285596 bytes).
